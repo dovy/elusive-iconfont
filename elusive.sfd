@@ -35,7 +35,7 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
 DEI: 91125
-Encoding: ISO8859-1
+Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
@@ -43,6 +43,6 @@ AntiAlias: 1
 FitToEm: 1
 WinInfo: 0 16 18
 OnlyBitmaps: 1
-BeginChars: 256 0
+BeginChars: 65536 0
 EndChars
 EndSplineFont
