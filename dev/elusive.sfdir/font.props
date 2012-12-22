@@ -1,9 +1,9 @@
 SplineFontDB: 3.0
-FontName: Untitled8
-FullName: Untitled8
-FamilyName: Untitled8
+FontName: ElusiveWebIcons
+FullName: ElusiveWebIcons
+FamilyName: ElusiveWebIcons
 Weight: Medium
-Copyright: Created by aristath,,, with FontForge 2.0 (http://fontforge.sf.net)
+Copyright: 
 UComments: "2012-12-22: Created." 
 Version: 001.000
 ItalicAngle: 0
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1356148774
-ModificationTime: 1356154487
+ModificationTime: 1356155267
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -34,6 +34,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -42,4 +43,6 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 61424 16 18
+BeginPrivate: 0
+EndPrivate
 EndSplineFont
