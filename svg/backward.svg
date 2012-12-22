@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="pause.svg"
+   sodipodi:docname="play.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.32"
-     inkscape:cx="39.971302"
+     inkscape:cx="-226.65079"
      inkscape:cy="311.91384"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
@@ -86,13 +86,20 @@
     <g
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
-      <rect
-         style="fill:#000000;fill-opacity:1"
-         id="rect11574"
-         width="601.31598"
-         height="601.31598"
-         x="567.54932"
-         y="-224.93117" />
+      <g
+         id="g11463"
+         transform="translate(-82.083354,0)">
+        <path
+           style="fill:#000000"
+           id="path2985"
+           d="m 1361.7073,-224.93115 0,601.31594 L 960.16081,75.726822 1361.7073,-224.93115 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#000000"
+           id="path3019"
+           d="m 940.42061,-224.93115 0,601.31594 L 538.87405,75.726822 940.42061,-224.93115 z"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
   </g>
 </svg>

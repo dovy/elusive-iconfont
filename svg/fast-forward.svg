@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="fast-reverse.svg"
+   sodipodi:docname="move.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.32"
-     inkscape:cx="388.92892"
-     inkscape:cy="310.07594"
+     inkscape:cx="273.34921"
+     inkscape:cy="311.91384"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="text10546"
      inkscape:window-width="1487"
      inkscape:window-height="1021"
      inkscape:window-x="0"
@@ -83,9 +83,30 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-374.21785,422.78273)">
-    <path
-       inkscape:connector-curvature="0"
-       d="m 868.20725,569.22677 c -272.53535,0 -493.49995,-220.9646 -493.49995,-493.499948 0,-272.535352 220.9646,-493.499952 493.49995,-493.499952 272.53535,0 493.50005,220.9646 493.50005,493.499952 0,272.535348 -220.9647,493.499948 -493.50005,493.499948 z m -246.74997,-678.254 0,369.5081 L 868.20725,75.726822 621.45728,-109.02723 z m 308.43747,0 0,369.5081 L 1176.6448,75.726822 929.89475,-109.02723 z"
-       id="path3019" />
+    <g
+       style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
+       id="text10546">
+      <g
+         id="g11331"
+         transform="translate(-238.44276,0)">
+        <path
+           style="fill:#000000"
+           id="path2985"
+           d="m 613.15009,-224.93115 0,601.31594 L 1014.6966,75.726822 613.15009,-224.93115 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#000000"
+           id="path3019"
+           d="m 1034.4368,-224.93115 0,601.31594 401.5466,-300.657968 -401.5466,-300.657972 z"
+           inkscape:connector-curvature="0" />
+        <rect
+           y="-169.13651"
+           x="1511.5181"
+           height="489.72665"
+           width="32.837429"
+           id="rect2989"
+           style="fill:#000000;stroke:#000000;stroke-width:111.58914185;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
   </g>
 </svg>
