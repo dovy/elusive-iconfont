@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="987.97894"
+   height="997.0191"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="male.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="211.22733"
+     inkscape:cy="419.16502"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1487"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-374.21785,422.78273)">
+    <g
+       id="g8045"
+       transform="matrix(1.175,0,0,-1.175,288.34482,418.82682)">
+      <path
+         id="path8047"
+         d="m 335,446 c 0,-22 4.16699,-42.667 12.5,-62 8.33401,-19.333 19.667,-36.167 34,-50.5 14.333,-14.333 31,-25.667 50,-34 19,-8.333 39.5,-12.5 61.5,-12.5 22,0 42.667,4.16699 62,12.5 19.333,8.33401 36.167,19.667 50.5,34 14.333,14.334 25.667,31.167 34,50.5 8.333,19.333 12.5,40 12.5,62 0,22 -4.16699,42.667 -12.5,62 -8.33502,19.333 -19.668,36.167 -34,50.5 -14.336,14.333 -31.169,25.667 -50.5,34 -19.333,8.33301 -40,12.5 -62,12.5 -22,0 -42.5,-4.16699 -61.5,-12.5 -19,-8.33801 -35.667,-19.671 -50,-34 C 367.167,544.165 355.833,527.331 347.5,508 339.16699,488.667 335,468 335,446 z m 424,0 c 0,-32 -5.5,-62.5 -16.5,-91.5 -11,-29 -26.167,-55 -45.5,-78 -19.333,-23 -42,-42.5 -68,-58.5 -26,-16 -54.333,-27 -85,-33 v -82 h 69 c 14.667,0 27,-5 37,-15 C 660,78 665,65.3333 665,50 665,34.6667 660,22 650,12 640,2 627.667,-3 613,-3 h -69 v -73 c 0,-14.6667 -5,-27 -15,-37 -11.335,-10 -24.002,-15 -38,-15 -14,0 -26.667,5 -38,15 -10,10 -15,22.3333 -15,37 V -3 H 373 C 359,-3 346.833,2.33333 336.5,13 326.167,23.6667 321,36 321,50 c 0,14 5,26.6667 15,38 10,10 22.333,15 37,15 h 65 v 83 c -30,6.66701 -57.833,17.834 -83.5,33.5 -25.667,15.667 -47.833,35 -66.5,58 -18.667,23 -33.333,48.833 -44,77.5 -10.667,28.667 -16,59 -16,91 0,36.667 7,71.167 21,103.5 14,32.333 33,60.5 57,84.5 24,24 52,43 84,57 32,14 66.333,21 103,21 36.667,0 71.167,-7 103.5,-21 32.333,-14 60.5,-33 84.5,-57 24,-24 43,-52.167 57,-84.5 14,-32.334 21,-66.834 21,-103.5 z"
+         inkscape:connector-curvature="0"
+         style="fill:currentColor" />
+    </g>
+  </g>
+</svg>
