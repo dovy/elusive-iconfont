@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="987.97894"
+   height="997.0191"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="facetime.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="327.23445"
+     inkscape:cy="349.36723"
+     inkscape:document-units="px"
+     inkscape:current-layer="text10546"
+     inkscape:window-width="1487"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-374.21785,422.78273)">
+    <g
+       style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
+       id="text10546">
+      <g
+         id="g11015"
+         transform="matrix(0.53556716,0,0,0.53556716,677.38928,-58.16127)">
+        <path
+           id="path11009"
+           d="m -257.95982,734.716 v -105 l 277,-360 188,156 354,-537 410,424 v 422 h -1229 z"
+           style="fill:currentColor"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path10991"
+           d="m -257.95982,-31.284 q 0,-66 45,-111 45,-45 111,-45 63,0 108,45 45,45 45,111 0,63 -45,108 -45,45 -108,45 -66,0 -111,-45 -45,-45 -45,-108 z"
+           style="fill:currentColor"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="rect11001"
+           d="m -479.88033,-518.99131 c -47.2458,0 -85.2812,38.0354 -85.2812,85.2813 l 0,1367.4063 c 0,47.24585 38.0354,85.28121 85.2812,85.28121 l 1672.34363,0 c 47.2459,0 85.2813,-38.03536 85.2813,-85.28121 l 0,-1367.4063 c 0,-47.2459 -38.0354,-85.2813 -85.2813,-85.2813 l -1672.34363,0 z m 56.1563,143.625 1560.06233,0 0,1250.6876 -1560.06233,0 0,-1250.6876 z"
+           style="fill:#000000;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
