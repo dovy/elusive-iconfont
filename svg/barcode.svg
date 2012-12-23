@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="987.97894"
-   height="997.0191"
+   width="512"
+   height="512"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="road.svg"
+   sodipodi:docname="barcode.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32"
-     inkscape:cx="802.82925"
-     inkscape:cy="409.92637"
+     inkscape:zoom="1.28"
+     inkscape:cx="322.10426"
+     inkscape:cy="275.60992"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1487"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -82,75 +82,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-374.21785,422.78273)">
-    <g
-       id="g10204"
-       transform="matrix(0.53553987,0,0,0.55588492,204.22203,-38.499952)">
-      <path
-         id="path10172"
-         d="m 318.34285,973.48637 v -1536 h 154 v 1536 h -154 z"
-         style="fill:currentColor"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path10170"
-         d="m 545.34285,973.48637 v -1536 h 37 v 1536 h -37 z"
-         style="fill:currentColor"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path10168"
-         d="m 674.34285,973.48637 v -1536 h 117 v 1536 h -117 z"
-         style="fill:currentColor"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path10166"
-         d="m 844.59285,973.48637 v -1536 h 49.875 v 1536 h -49.875 z"
-         style="fill:currentColor" />
-      <path
-         id="path10164"
-         d="m 1033.3429,973.48637 v -1536 h 76 v 1536 h -76 z"
-         style="fill:currentColor"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path10162"
-         d="m 1249.4679,973.48637 v -1536 h 37 v 1536 h -37 z"
-         style="fill:currentColor" />
-      <path
-         id="path10160"
-         d="m 1332.3429,973.48637 v -1536 h 153 v 1536 h -153 z"
-         style="fill:currentColor"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path10158"
-         d="m 1539.3429,973.48637 v -1536 h 77 v 1536 h -77 z"
-         style="fill:currentColor"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path10156"
-         d="m 1727.3429,973.48637 v -1536 h 17.125 v 1536 h -17.125 z"
-         style="fill:currentColor" />
-      <path
-         id="path10154"
-         d="m 1897.3429,973.48637 v -1536 h 37 v 1536 h -37 z"
-         style="fill:currentColor"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path10141"
-         d="m 2008.3429,973.48637 v -1536 h 153 v 1536 h -153 z"
-         style="fill:currentColor"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:currentColor"
-         d="m 1771.0929,973.48637 v -1536 h 51.5 v 1536 h -51.5 z"
-         id="path10174"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:currentColor"
-         d="m 1140.2179,973.48637 v -1536 h 29.625 v 1536 h -29.625 z"
-         id="path10202"
-         inkscape:connector-curvature="0" />
-    </g>
+     transform="translate(-374.21785,-62.236374)">
+    <path
+       id="path10172"
+       style="fill:currentColor"
+       d="m 843.71329,96.773356 0,442.926034 42.50456,0 0,-442.926034 -42.50456,0 z m -30.84904,0 0,442.926034 10.29382,0 0,-442.926034 -10.29382,0 z m -35.06383,0 0,442.926034 14.29788,0 0,-442.926034 -14.29788,0 z m -12.15805,0 0,442.926034 4.76596,0 0,-442.926034 -4.76596,0 z m -52.231,0 0,442.926034 21.39817,0 0,-442.926034 -21.39817,0 z m -57.4995,0 0,442.926034 42.50456,0 0,-442.926034 -42.50456,0 z m -23.01925,0 0,442.926034 10.27761,0 0,-442.926034 -10.27761,0 z m -30.36271,0 0,442.926034 8.23505,0 0,-442.926034 -8.23505,0 z m -29.68187,0 0,442.926034 21.10639,0 0,-442.926034 -21.10639,0 z m -52.44174,0 0,442.926034 13.86018,0 0,-442.926034 -13.86018,0 z m -47.28673,0 0,442.926034 32.50254,0 0,-442.926034 -32.50254,0 z m -35.84194,0 0,442.926034 10.27761,0 0,-442.926034 -10.27761,0 z m -63.05978,0 0,442.926034 42.78014,0 0,-442.926034 -42.78014,0 z" />
   </g>
 </svg>
