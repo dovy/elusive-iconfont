@@ -87,10 +87,10 @@
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
       <path
-         id="path3019"
          style="fill:#000000"
-         d="m 635.33786,162.27201 0,311.92872 208.2997,-155.96436 -208.2997,-155.96436 z m -218.53971,0 0,311.92872 L 625.09776,318.23637 416.79815,162.27201 z"
-         inkscape:connector-curvature="0" />
+         d="M 42.59375 100.03125 L 42.59375 411.96875 L 250.875 256 L 42.59375 100.03125 z M 261.125 100.03125 L 261.125 411.96875 L 469.40625 256 L 261.125 100.03125 z "
+         transform="translate(374.21785,62.236374)"
+         id="path2986" />
     </g>
   </g>
 </svg>
