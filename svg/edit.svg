@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="987.97894"
-   height="997.0191"
+   width="512"
+   height="512"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="tint.svg"
+   sodipodi:docname="edit.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.16"
-     inkscape:cx="1129.1207"
+     inkscape:cx="385.3707"
      inkscape:cy="69.231557"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -82,13 +82,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-374.21785,422.78273)">
+     transform="translate(-374.21785,-62.236374)">
     <g
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
       <path
          inkscape:connector-curvature="0"
-         d="m 1238.3323,569.22724 -740.24995,0 c -68.10301,0 -123.37501,-55.272 -123.37501,-123.37501 l 0,-740.25004 c 0,-68.103 55.272,-123.37501 123.37501,-123.37501 l 555.18745,0 -123.37489,123.37501 -370.12506,0 c -34.0515,0 -61.6875,27.63599 -61.6875,61.6875 l 0,616.87504 c 0,34.11319 27.636,61.6875 61.6875,61.6875 l 616.87495,0 c 34.1132,0 61.6875,-27.57431 61.6875,-61.6875 l 0,-370.125034 123.375,-123.375006 0,555.18754 c 0,68.10301 -55.272,123.37501 -123.375,123.37501 z m 0,-863.62505 c -47.6453,-42.15874 -47.8768,-41.56296 -61.6875,-123.37501 0,0 185.0625,-1.91231 185.0625,185.06251 -76.4328,-18.12176 -75.7297,-19.52876 -123.375,-61.6875 z m -555.18749,555.18753 0,-185.062524 c 99.76935,-7.597375 185.0626,90.194584 185.0626,185.062524 z M 1238.3323,-171.02281 929.89491,137.41471 806.51991,14.039696 1114.9573,-294.39781 z"
+         d="m 822.21785,574.23637 -383.99999,0 c -35.32801,0 -64.00001,-28.67198 -64.00001,-63.99995 l 0,-383.9997 c 0,-35.327966 28.672,-63.999947 64.00001,-63.999947 l 287.99998,0 -63.99994,63.999947 -192.00004,0 c -17.664,0 -32,14.33598 -32,31.99997 l 0,319.99976 c 0,17.69598 14.336,31.99997 32,31.99997 l 319.99999,0 c 17.696,0 32,-14.30399 32,-31.99997 l 0,-191.99986 64,-63.99995 0,287.99978 c 0,35.32797 -28.672,63.99995 -64,63.99995 z m 0,-447.99965 c -24.7157,-21.86956 -24.83579,-21.5605 -32,-63.999947 0,0 96,-0.991998 96,95.999917 -39.64903,-9.40054 -39.2843,-10.13041 -64,-31.99997 z m -288.00001,287.99977 0,-95.99993 c 51.75472,-3.94108 96.00006,46.78783 96.00006,95.99993 z M 822.21785,190.23667 662.2179,350.23654 l -64,-63.99995 159.99994,-159.99987 z"
          id="path2989"
          sodipodi:nodetypes="sssssccssssssccsszcczccccccccc" />
     </g>
