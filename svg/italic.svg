@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="987.97894"
-   height="997.0191"
+   width="512"
+   height="512"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="bold.svg"
+   sodipodi:docname="italic.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45254834"
-     inkscape:cx="334.13177"
+     inkscape:cx="71.176436"
      inkscape:cy="435.74142"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -82,14 +82,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-374.21785,422.78273)">
+     transform="translate(-374.21785,-62.236374)">
     <g
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
       <path
-         d="m 850.35802,499.15179 125.60616,0 -13.88279,70.07502 -385.41259,0 13.88279,-70.07502 125.60616,0 169.23778,-846.18889 -125.60617,0 14.54388,-70.7361 385.41256,0 -14.5438,70.7361 -125.6062,0 -169.23778,846.18889"
-         style=""
-         id="path10551" />
+         d="m 620.95865,537.8854 65.1574,0 -7.20161,36.35097 -199.93034,0 7.20161,-36.35097 65.1574,0 87.79102,-438.955122 -65.1574,0 7.54455,-36.693904 199.93032,0 -7.54451,36.693904 -65.15742,0 -87.79102,438.955122"
+         id="path10551"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
