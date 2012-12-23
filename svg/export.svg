@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="987.97894"
-   height="997.0191"
+   width="512"
+   height="512"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="edit.svg"
+   sodipodi:docname="export.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.32"
-     inkscape:cx="-156.33829"
+     inkscape:cx="-528.21329"
      inkscape:cy="311.91384"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -82,13 +82,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-374.21785,422.78273)">
+     transform="translate(-374.21785,-62.236374)">
     <g
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
       <path
          inkscape:connector-curvature="0"
-         d="m 1238.3322,384.16588 c 0,34.1131 -27.5742,61.68735 -61.6874,61.68735 l -616.87496,0 c -34.05149,0 -61.68749,-27.57425 -61.68749,-61.68735 l 0,-616.87354 c 0,-34.11312 27.636,-61.68736 61.68749,-61.68736 l 185.0625,0 205.60439,-123.37471 -452.35438,0 c -68.10301,0 -123.37505,55.27187 -123.37505,123.37471 l 0,740.24825 c 0,68.10285 55.27204,123.37471 123.37505,123.37471 l 740.24985,0 c 68.1031,0 123.3751,-55.27186 123.3751,-123.37471 l 0,-508.92068 -123.3751,92.531041 z m -186.0494,-681.0284 c -0.6786,6.29212 -0.987,5.12006 -1.0487,-0.37012 -30.4737,-0.24675 -414.04645,30.28849 -430.08516,501.95001 16.16587,-44.53683 82.72289,-311.45946 431.93576,-380.67267 0.1851,4.93499 0.1851,128.309696 0.1851,128.309696 l 308.4374,-185.062056 -308.4374,-185.06207 c 1.0487,-0.55518 -2.3441,98.08289 -1.974,120.53709 2.2824,0.0617 3.0844,0.18506 0.987,0.37012 z"
+         d="m 822.2178,478.2366 c 0,17.69595 -14.30394,31.99992 -31.99995,31.99992 l -319.99998,0 c -17.66399,0 -31.99999,-14.30397 -31.99999,-31.99992 l 0,-319.99924 c 0,-17.69597 14.336,-31.99993 31.99999,-31.99993 l 96,0 106.65598,-63.999845 -234.65597,0 c -35.32801,0 -64.00003,28.671932 -64.00003,63.999845 l 0,383.99909 c 0,35.32792 28.67202,63.99985 64.00003,63.99985 l 383.99992,0 c 35.32805,0 64.00005,-28.67193 64.00005,-63.99985 l 0,-263.99938 -64.00005,47.99989 z M 725.70585,124.95743 c -0.35202,3.264 -0.512,2.656 -0.54401,-0.192 -15.80804,-0.128 -214.78397,15.71197 -223.10395,260.38339 8.38594,-23.1032 42.91198,-161.56762 224.06394,-197.47154 0.096,2.56 0.096,66.55985 0.096,66.55985 L 886.2178,158.23736 726.21785,62.237585 c 0.54401,-0.287996 -1.21599,50.879875 -1.024,62.527845 1.18398,0.032 1.60001,0.096 0.512,0.192 z"
          id="path4"
          sodipodi:nodetypes="ssssssccssssssccsccccccccc" />
     </g>
