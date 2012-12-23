@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="987.97894"
-   height="997.0191"
+   width="512"
+   height="512"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="chevron-left.svg"
+   sodipodi:docname="chevron-up.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32"
-     inkscape:cx="-210.0287"
-     inkscape:cy="311.91384"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="246.1337"
+     inkscape:cy="176.4486"
      inkscape:document-units="px"
-     inkscape:current-layer="text10546"
+     inkscape:current-layer="g11597"
      inkscape:window-width="1487"
      inkscape:window-height="1021"
      inkscape:window-x="0"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -82,7 +82,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-374.21785,422.78273)">
+     transform="translate(-374.21785,-62.236374)">
     <g
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
@@ -90,10 +90,10 @@
          id="g11597"
          transform="matrix(0,0.64174252,0.64174252,0,377.27429,-233.91394)">
         <path
-           id="path11599"
-           d="m 0,765 q 0,38 29,66 l 671,674 q 29,29 68,29 39,0 68,-29 l 100,-100 q 29,-29 29,-68 0,-39 -29,-67 L 428,760 936,260 Q 965,231 965,193.5 965,156 936,127 L 836,25 Q 807,-4 768,-4 729,-4 700,25 L 29,698 Q 0,727 0,765 z"
-           inkscape:connector-curvature="0"
-           style="fill:currentColor" />
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           d="M 256 94.375 C 249.38074 94.374999 242.75938 96.744986 237.5 101.5 C 237.14937 101.817 236.80688 102.13062 236.46875 102.46875 L 236.46875 102.5 L 195.84375 143.125 L 9.125 329.84375 C -1.6952923 340.66404 -1.6952987 358.08589 9.125 368.90625 L 49.75 409.53125 C 60.570305 420.35154 77.992201 420.35154 88.8125 409.53125 L 256 242.34375 L 423.1875 409.5 C 434.0078 420.32036 451.42967 420.32036 462.25 409.5 L 502.875 368.875 C 513.6953 358.05471 513.69529 340.66407 502.875 329.84375 L 316.15625 143.125 L 275.53125 102.5 L 275.53125 102.46875 C 275.19312 102.13062 274.85063 101.817 274.5 101.5 C 269.24062 96.744989 262.61926 94.375001 256 94.375 z "
+           transform="matrix(0,1.5582574,1.5582574,0,461.4784,-4.7627201)"
+           id="path2994" />
       </g>
     </g>
   </g>
