@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="refresh-dual.svg"
+   sodipodi:docname="play-alt.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="137"
-     inkscape:cy="256"
+     inkscape:zoom="0.32"
+     inkscape:cx="-354.82108"
+     inkscape:cy="310.07594"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1487"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -84,8 +84,8 @@
      id="layer1"
      transform="translate(-374.21785,-62.236374)">
     <path
-       inkscape:connector-curvature="0"
-       d="m 818.24982,313.50728 c -0.0731,80.04036 -45.84226,147.847 -120.10054,177.94671 -73.45374,29.75227 -152.63088,13.64179 -208.42058,-42.20543 l 61.05598,-60.98574 -176.56683,0 0,176.35578 67.43771,-67.36777 c 75.50172,75.59673 182.63769,97.35777 282.05712,57.09072 100.48003,-40.74251 162.41372,-132.468 162.50512,-240.7977 l -67.96798,-0.0366 z m -376.06398,9.47245 c 0.0731,-80.04037 45.824,-147.847 120.10058,-177.92843 73.45369,-29.77055 152.63086,-13.67837 208.40229,42.20542 l -61.03772,60.96747 176.56686,0 0,-176.355793 -67.43771,67.349473 C 743.2784,63.639436 636.12408,41.860116 536.72299,82.127171 436.2247,122.85139 374.30928,214.61345 374.21785,322.92487 l 67.96799,0.0549 z"
-       id="path4" />
+       d="M 256 0 C 114.62398 -3.7895613e-14 0 114.624 0 256 C 0 397.376 114.62398 512 256 512 C 397.376 512 512 397.376 512 256 C 512 114.624 397.376 0 256 0 z M 256 59.375 C 364.58615 59.375 452.625 147.41384 452.625 256 C 452.625 364.58616 364.58615 452.625 256 452.625 C 147.41383 452.625 59.375 364.58616 59.375 256 C 59.375 147.41384 147.41383 59.375 256 59.375 z M 192 128.1875 L 192 383.8125 L 384 256 L 192 128.1875 z "
+       transform="translate(374.21785,62.236374)"
+       id="path2985" />
   </g>
 </svg>
