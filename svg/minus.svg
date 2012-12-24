@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="987.97894"
-   height="997.0191"
+   width="512"
+   height="512"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="plus-alt.svg"
+   sodipodi:docname="minus.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="161.21538"
-     inkscape:cy="300.62411"
+     inkscape:zoom="2.56"
+     inkscape:cx="421.05778"
+     inkscape:cy="395.69768"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1920"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -82,15 +82,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-374.21785,422.78273)">
+     transform="translate(-374.21785,-62.236374)">
     <g
        id="g3296"
        transform="matrix(1.0533618,0,0,-1.0533618,342.0531,391.73536)">
       <path
          id="path3298"
-         d="m 945,433 c 6.66699,0 12.167,-2.33301 16.5,-7 4.33301,-4.67001 6.5,-10.337 6.5,-17 V 191 c 0,-6.66701 -2.16699,-12.333 -6.5,-17 -4.33301,-4.667 -9.83301,-7 -16.5,-7 H 55 c -6.6667,0 -12.3333,2.33299 -17,7 -4.6667,4.66701 -7,10.334 -7,17 v 218 c 0,6.66699 2.3333,12.333 7,17 4.6667,4.667 10.3334,7 17,7 h 890 v 0 z"
+         d="m 504.66704,138.76854 c 7.19158,-0.31226 11.85298,-6.19244 11.9311,-12.44984 l 0,-113.086122 C 516.34653,6.1584676 510.97948,0.86760765 504.66704,0.78272765 l -461.681859,0 C 35.808901,1.1157776 30.621032,6.8546176 30.535333,13.232578 l 0,113.086122 c 0.333075,7.17637 6.072021,12.36416 12.449848,12.44984 l 461.681859,0 z"
          inkscape:connector-curvature="0"
-         style="fill:currentColor" />
+         style="fill:currentColor"
+         sodipodi:nodetypes="cccccccccc" />
     </g>
   </g>
 </svg>
