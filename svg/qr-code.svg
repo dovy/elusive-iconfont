@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="987.97894"
-   height="997.0191"
+   width="512"
+   height="512"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="volume-off.svg"
+   sodipodi:docname="qr-code.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32"
-     inkscape:cx="-111.07108"
-     inkscape:cy="435.07594"
+     inkscape:zoom="1.28"
+     inkscape:cx="25.20904"
+     inkscape:cy="405.51417"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1487"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -82,15 +82,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-374.21785,422.78273)">
-    <g
-       id="g9264"
-       transform="matrix(0.64257812,0,0,-0.64257812,374.70733,569.22682)">
-      <path
-         id="path9266"
-         d="M 0,0 V 698 H 698 V 0 H 0 z m 0,838 v 698 H 698 V 838 H 0 z M 139,139 H 559 V 559 H 139 V 139 z m 0,838 h 420 v 420 H 139 V 977 z M 279,279 V 420 H 420 V 279 H 279 z m 0,837 v 139 H 420 V 1116 H 279 z M 838,0 v 698 h 417 V 559 h 142 v 139 h 139 V 279 H 1116 V 418 H 977 V 0 H 838 z m 0,838 v 698 h 698 V 838 H 838 z m 139,139 h 420 v 420 H 977 V 977 z M 1116,0 v 139 h 139 V 0 h -139 z m 0,1116 v 139 h 139 V 1116 H 1116 z M 1397,0 v 139 h 139 V 0 h -139 z"
-         inkscape:connector-curvature="0"
-         style="fill:currentColor" />
-    </g>
+     transform="translate(-374.21785,-62.236374)">
+    <path
+       style="fill:currentColor"
+       inkscape:connector-curvature="0"
+       d="M 374.21785,574.23637 V 341.56971 H 606.88451 V 574.23637 H 374.21785 z m 0,-279.33333 V 62.236375 H 606.88451 V 294.90304 H 374.21785 z m 46.33333,233 h 140 v -140 h -140 v 140 z m 0,-279.33333 h 140 v -140 h -140 v 140 z m 46.66667,232.66666 v -47 h 47 v 47 h -47 z m 0,-279 v -46.33333 h 47 v 46.33333 h -47 z m 186.33333,372 V 341.56971 h 139 v 46.33333 h 47.33333 v -46.33333 h 46.33333 V 481.23637 H 746.21785 v -46.33333 h -46.33334 v 139.33333 h -46.33333 z m 0,-279.33333 V 62.236375 H 886.21784 V 294.90304 H 653.55118 z m 46.33333,-46.33333 h 140 v -140 h -140 v 140 z m 46.33334,325.66666 v -46.33333 h 46.33333 v 46.33333 h -46.33333 z m 0,-372 v -46.33333 h 46.33333 v 46.33333 h -46.33333 z m 93.66666,372 v -46.33333 h 46.33333 v 46.33333 h -46.33333 z"
+       id="path9266" />
   </g>
 </svg>

@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="987.97894"
-   height="997.0191"
+   width="512"
+   height="512"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="inbox-box.svg"
+   sodipodi:docname="reverse-alt.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.32"
-     inkscape:cx="138.92892"
+     inkscape:cx="-232.94608"
      inkscape:cy="310.07594"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -82,10 +82,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-374.21785,422.78273)">
+     transform="translate(-374.21785,-62.236374)">
     <path
        inkscape:connector-curvature="0"
-       d="m 868.20725,569.22677 c -272.53535,0 -493.49995,-220.9646 -493.49995,-493.499948 0,-272.535352 220.9646,-493.499952 493.49995,-493.499952 272.53535,0 493.50005,220.9646 493.50005,493.499952 0,272.535348 -220.9647,493.499948 -493.50005,493.499948 z m -61.6875,-678.254 -246.74997,184.754052 246.74997,184.754048 0,-369.5081 z m 308.43755,0 -246.75005,184.754052 246.75005,184.754048 0,-369.5081 z"
+       d="m 630.21782,574.23637 c -141.37598,0 -255.99997,-114.624 -255.99997,-256 0,-141.376 114.62399,-255.999996 255.99997,-255.999996 141.37599,0 256.00003,114.623996 256.00003,255.999996 0,141.376 -114.62404,256 -256.00003,256 z m -32,-351.84 -127.99998,95.84 127.99998,95.84 0,-191.68 z m 160.00003,0 -128.00003,95.84 128.00003,95.84 0,-191.68 z"
        id="path3029" />
   </g>
 </svg>
