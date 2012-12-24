@@ -86,13 +86,10 @@
     <g
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
-      <rect
-         style="fill:#000000;fill-opacity:1"
-         id="rect11574"
-         width="311.93799"
-         height="311.93799"
-         x="474.24887"
-         y="162.26738" />
+      <path
+         style="fill:#000000"
+         d="m 474.24887,162.26738 311.93799,0 0,311.93799 -311.93799,0 z"
+         id="rect11574" />
     </g>
   </g>
 </svg>

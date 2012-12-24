@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32"
-     inkscape:cx="-98.52579"
-     inkscape:cy="311.91384"
+     inkscape:zoom="1.28"
+     inkscape:cx="399.19594"
+     inkscape:cy="99.336347"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
      inkscape:window-width="1487"
@@ -86,22 +86,10 @@
     <g
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
-      <g
-         id="g11358"
-         transform="matrix(0.51875891,0,0,0.51875891,70.554448,278.95241)">
-        <path
-           style="fill:#000000"
-           id="path3019"
-           d="m 795.99404,-224.93115 0,601.31594 L 1197.5406,75.726822 795.99404,-224.93115 z"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="-169.13651"
-           x="1273.0753"
-           height="489.72665"
-           width="32.837429"
-           id="rect2989"
-           style="fill:#000000;stroke:#000000;stroke-width:111.58914185;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      </g>
+      <path
+         id="rect3838"
+         style="fill:#000000"
+         d="m 702.34283,162.26738 73.4375,0 0,311.93799 -73.4375,0 z m -218.85938,-1e-5 0,311.938 208.30585,-155.969 -208.30585,-155.969 z" />
     </g>
   </g>
 </svg>
