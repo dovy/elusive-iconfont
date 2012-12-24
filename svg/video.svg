@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="987.97894"
-   height="997.0191"
+   width="512"
+   height="512"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="paper-clip-alt.svg"
+   sodipodi:docname="video.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45254834"
-     inkscape:cx="7.9341273"
+     inkscape:cx="-255.02121"
      inkscape:cy="352.87375"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -82,15 +82,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-374.21785,422.78273)">
-    <g
-       id="g5121"
-       transform="matrix(1.0345912,0,0,-1.0345912,350.91172,386.10418)">
-      <path
-         id="path5123"
-         d="M 533,378 674,297 533,215 393,134 V 297 459 z M 860,544 H 140 V 56 H 860 V 544 z M 82,-61 C 66,-61 52.1667,-55.3333 40.5,-44 28.8333,-32.6667 23,-18.6667 23,-2 v 604 c 0,16.667 5.8333,30.667 17.5,42 11.6667,11.333 25.5,17 41.5,17 h 836 c 16,0 29.833,-5.66699 41.5,-17 11.667,-11.33301 17.5,-25.333 17.5,-42 V -2 c 0,-16.6667 -5.83301,-30.6667 -17.5,-42 C 947.83301,-55.3333 934,-61 918,-61 H 82 z"
-         inkscape:connector-curvature="0"
-         style="fill:currentColor" />
-    </g>
+     transform="translate(-374.21785,-62.236374)">
+    <path
+       style="fill:currentColor"
+       d="M 31.65625 62.25 C 23.06924 62.25 15.66762 65.29272 9.40625 71.375 C 3.14488 77.45728 0 84.96127 0 93.90625 L 0 418.09375 C 0 427.03856 3.14488 434.54255 9.40625 440.625 C 15.66762 446.70744 23.06924 449.75 31.65625 449.75 L 480.34375 449.75 C 488.93076 449.75 496.33222 446.70744 502.59375 440.625 C 508.85528 434.54255 512 427.03856 512 418.09375 L 512 93.90625 C 512 84.96127 508.85529 77.45728 502.59375 71.375 C 496.33222 65.29271 488.93076 62.25 480.34375 62.25 L 31.65625 62.25 z M 62.78125 125.0625 L 449.21875 125.0625 L 449.21875 386.9375 L 62.78125 386.9375 L 62.78125 125.0625 z M 198.5625 170.65625 L 198.5625 257.625 L 198.5625 345.09375 L 273.71875 301.625 L 349.375 257.625 L 273.71875 214.125 L 198.5625 170.65625 z "
+       transform="translate(374.21785,62.236374)"
+       id="path5123" />
   </g>
 </svg>
