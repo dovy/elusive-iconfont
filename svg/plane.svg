@@ -11,12 +11,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="512"
    height="512"
-   id="svg2"
+   id="svg2998"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="info-sign.svg">
+   sodipodi:docname="New document 2">
   <defs
-     id="defs4" />
+     id="defs3000" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-305"
+     inkscape:cx="35"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -36,14 +36,14 @@
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata7">
+     id="metadata3003">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,9 +53,8 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       d="M 256 0 C 114.6151 0 0 114.6151 0 256 C 0 397.3849 114.6151 512 256 512 C 397.3849 512 512 397.3849 512 256 C 512 114.6151 397.3849 0 256 0 z M 254.6875 75.71875 A 45.07143 45.07143 0 0 1 301.0625 120.78125 A 45.07143 45.07143 0 0 1 210.9375 120.78125 A 45.07143 45.07143 0 0 1 254.6875 75.71875 z M 165.84375 210.9375 L 301.03125 210.9375 L 301.0625 368.6875 C 301.0625 381.13848 311.27032 391.21875 323.6875 391.21875 L 346.15625 391.21875 L 346.15625 436.28125 L 165.84375 436.28125 L 165.84375 391.21875 L 188.40625 391.21875 C 200.85723 391.21875 210.9375 381.13848 210.9375 368.6875 L 210.9375 278.53125 C 210.9375 266.08027 200.85723 256 188.40625 256 L 165.84375 256 L 165.84375 210.9375 z "
-       transform="translate(0,540.36218)"
-       id="path2988" />
+       inkscape:connector-curvature="0"
+       d="m 136.96,1037.0022 51.2,0 114.8928,-204.82562 132.1472,0 c 0,0 76.8,0 76.8,-35.8144 0,-35.84 -76.8,-35.84 -76.8,-35.84 l -132.1472,0 -114.8928,-204.8 -51.2,0 63.6928,204.8 -91.8272,0 -57.625599,-51.2256 -51.2000015,0 40.9856015,87.04 -40.98560149999998,87.0656 51.20000149999997,0 57.625599,-51.2256 91.8272,0 -63.6928,204.82562 z"
+       id="path4" />
   </g>
 </svg>
