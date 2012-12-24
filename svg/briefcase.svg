@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2987"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs2989" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="770.17232"
+     inkscape:cy="-109.64833"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2992">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36218)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 232.59775,806.07668 46.82197,0 0,52.02442 232.54915,0 c 0,0 0.31215,-115.96243 -1.04049,-152.27547 -1.2746,-34.49219 -13.60438,-55.8222 -52.02442,-55.8222 l -83.44716,0 c 0,-98.38531 -238.89613,-92.10533 -238.89613,0 l -83.447161,0 c -38.420032,0 -50.5937459,21.33001 -52.0244169,55.8222 C -0.34157989,740.31782 0.04860311,858.1011 0.04860311,858.1011 l 232.54914689,0 z m 99.4967,-156.09926 -152.17143,0 c 0,-50.71139 151.363,-57.48148 152.17143,0 z m -52.67473,286.16031 -46.82197,0 0,-52.02442 -223.7049959,0 c 0,0 3.2515259,46.76995 5.2024419,86.41256 0.806379,16.46572 5.644649,43.64843 46.795964,43.64843 l 390.23515,0 c 41.15132,0 45.88554,-27.20872 46.79597,-43.64843 2.26306,-40.76114 5.20244,-86.41256 5.20244,-86.41256 l -223.705,0 z"
+       id="path4"
+       sodipodi:nodetypes="cccccsccsscccccccccccsscccc" />
+  </g>
+</svg>
