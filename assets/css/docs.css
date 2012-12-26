@@ -546,10 +546,6 @@ h2 + .row {
   width: 25%;
   line-height: 25px;
 }
-.the-icons i:hover {
-  background-color: rgba(255,0,0,.25);
-}
-
 /* Example page
 ------------------------- */
 .bootstrap-examples p {
@@ -1063,6 +1059,22 @@ form.bs-docs-example {
   }
 }
 
+ul.the-icons li{
+  height: 30px;
+}
 ul.the-icons li i{
+  float: left;
+  width: 30px;
+  height: 24px;
+  vertical-align: center;
+  text-align: center;
+  -webkit-transition: all 250ms ease;
+  -moz-transition: all 250ms ease;
+  -ms-transition: all 250ms ease;
+  -o-transition: all 250ms ease;
+  transition: all 250ms ease;
+}
+ul.the-icons li:hover i{
   color: #08b;
+  font-size: 24px;
 }
