@@ -1062,3 +1062,7 @@ form.bs-docs-example {
     padding-bottom: 20px;
   }
 }
+
+ul.the-icons li i{
+  color: #08b;
+}
