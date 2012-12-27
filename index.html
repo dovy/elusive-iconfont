@@ -11,7 +11,7 @@
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
     <link href="assets/css/docs.css" rel="stylesheet">
-    <link href="assets/elusive-font/css/elusive-bootstrap.css" rel="stylesheet">
+    <link href="assets/elusive-font/css/elusive-webfont.css" rel="stylesheet">
     <link href="assets/js/google-code-prettify/prettify.css" rel="stylesheet">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -36,11 +36,11 @@
           <a class="brand" href="./index.html"><i class="icon-globe-alt"></i> Elusive Webicons</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="">
-                <a href="./index.html">Home</a>
+              <li>
+                <a href="./index.html"><i class="icon-home"></i> Home</a>
               </li>
-              <li class="">
-                <a href="#examples">Examples</a>
+              <li>
+                <a href="#integration"><i class="icon-chevron-left"></i><i class="icon-chevron-right"></i> integration</a>
               </li>
             </ul>
           </div>
@@ -48,11 +48,14 @@
       </div>
     </div>
 
-<div class="container">
-  <div style="height: 20px;"></div>
-  <a class="btn btn-primary btn-large" href="https://github.com/aristath/elusive-iconfont/archive/master.zip"><i class="icon-download"></i> Download</a>
-  <span style="font-size: 24px;">Download this font and use it on your own projects!</span>
-  <div style="height: 20px;"></div>
+<div class="jumbotron masthead">
+  <div class="container">
+    <h1>Elusive Icons</h1>
+    <p>Sleek icons for bootstrap.</p>
+    <p>
+      <a href="https://github.com/aristath/elusive-iconfont/archive/master.zip" class="btn btn-primary btn-large"><i class="icon-download"></i> Download</a>
+    </p>
+  </div>
 </div>
 
 <div class="bs-docs-social">
@@ -364,80 +367,9 @@
     </ul>
   </section>
 
-<section id="examples">
-  <h1>Examples</h1>
-  <p>Examples re-used from the Twitter Bootstrap documentation.</p>
-  <div class="row">
-    <div class="span6">
-      <p>
-        <a class="btn" href="#"><i class="icon-refresh"></i> Refresh</a>
-        <a class="btn btn-success" href="#"><i class="icon-shopping-cart icon-large"></i> Checkout</a>
-        <a class="btn btn-danger" href="#"><i class="icon-trash icon-large"></i> Delete</a>
-      </p>
-      <p>
-        <a class="btn btn-large btn-primary" href="#"><i class="icon-comment"></i> Comment</a>
-        <a class="btn btn-small" href="#"><i class="icon-cog"></i> Settings</a>
-        <a class="btn btn-small btn-info" href="#"><i class="icon-info-sign"></i> More Info</a>
-      </p>
-      <div class="well" style="padding: 8px 0;">
-        <ul class="nav nav-list">
-          <li class="active"><a href="#"><i class="icon-home"></i> Home</a></li>
-          <li><a href="#"><i class="icon-book"></i> Library</a></li>
-          <li><a href="#"><i class="icon-pencil"></i> Applications</a></li>
-          <li><a href="#"><i class="icon-cogs"></i> Settings</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="span6">
-      <div class="btn-toolbar">
-        <div class="btn-group">
-          <a class="btn" href="#"><i class="icon-align-left"></i></a>
-          <a class="btn" href="#"><i class="icon-align-center"></i></a>
-          <a class="btn" href="#"><i class="icon-align-right"></i></a>
-          <a class="btn" href="#"><i class="icon-align-justify"></i></a>
-        </div>
-        <div class="btn-group">
-          <a class="btn btn-primary" href="#"><i class="icon-user"></i> User</a>
-          <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#"><span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#"><i class="icon-pencil"></i> Edit</a></li>
-            <li><a href="#"><i class="icon-trash"></i> Delete</a></li>
-            <li><a href="#"><i class="icon-ban-circle"></i> Ban</a></li>
-            <li class="divider"></li>
-            <li><a href="#"><i class="i"></i> Make admin</a></li>
-          </ul>
-        </div>
-      </div>
-      <form>
-        <div class="control-group">
-          <div class="controls">
-            <div class="input-prepend">
-              <span class="add-on"><i class="icon-envelope"></i></span>
-              <input class="span2" id="inputIcon" type="text" placeholder="Email address">
-            </div>
-          </div>
-        </div>
-        <div class="control-group">
-          <div class="controls">
-            <div class="input-prepend">
-              <span class="add-on"><i class="icon-key"></i></span>
-              <input class="span2" id="inputIcon2" type="text" placeholder="Password">
-            </div>
-          </div>
-        </div>
-      </form>
-      <div>
-                    <span class="rating">
-                        <span class="star"></span><span class="star"></span><span class="star"></span><span class="star"></span><span class="star"></span>
-                    </span>
-      </div>
-    </div>
-  </div>
-</section>
-
 <section id="integration">
   <h1>Integration</h1>
-  <p>You can use the Elusive icons font with bootstrap or without it.</p>
+  <p>You can use the Elusive icons font with bootstrap:</p>
   <div class="row">
     <div class="span3">
       <h3>Bootstrap using LESS</h3>
@@ -463,11 +395,12 @@
 }
 </pre>
         </li>
-        <li>Re-compile your LESS if using a static compiler. Otherwise, you should be good to go.</li>
-        <li>Check out the examples to start using Elusive Icons!</li>
+        <li>Re-compile your LESS if using a static compiler.</li>
+        <li>You should be good to go!</li>
       </ol>
     </div>
   </div>
+  <hr class="soften" />
   <div class="row">
     <div class="span3">
       <h3>Bootstrap using CSS</h3>
@@ -477,19 +410,19 @@
       <ol>
         <li>Customize Twitter Bootstrap <a href="http://twitter.github.com/bootstrap/download.html" target="_blank">here</a>. Make sure to uncheck the default "Icons" under "Base CSS."</li>
         <li>Copy the Elusive Icons font directory into your project.</li>
-        <li>Copy elusive-bootstrap.css into your project.</li>
-        <li>Open your project's elusive-bootstrap.css and edit the font url to ensure it points to the right place (see above example).</li>
+        <li>Copy elusive-webfont.css into your project.</li>
+        <li>Open your project's elusive-webfont.css and edit the font url to ensure it points to the right place (see above example).</li>
         <li>
-          In the <code>&lt;head&gt;</code> of your html, reference the location to your elusive-bootstrap.css.
+          In the <code>&lt;head&gt;</code> of your html, reference the location to your elusive-webfont.css.
 <pre class="prettyprint linenums">
 &lt;link rel="stylesheet" href="../css/bootstrap.css"&gt;
-&lt;link rel="stylesheet" href="../css/elusive-bootstrap.css"&gt;
+&lt;link rel="stylesheet" href="../css/elusive-webfont.css"&gt;
 </pre>
         </li>
-        <li>Check out the examples to start using Elusive Icons!</li>
       </ol>
     </div>
   </div>
+  <hr class="soften" />
   <div class="row">
     <div class="span3">
       <h3>Not using Bootstrap?</h3>
@@ -498,234 +431,13 @@
     <div class="span9">
       <ol>
         <li>Copy the Elusive Icons directory into your project.</li>
-        <li>Copy elusive-webfont.less or elusive-bootstrap.css into your project.</li>
-        <li>Open your project's elusive-webfont.less or elusive-bootstrap.css and edit the font url to ensure it points to the right place (see above example).</li>
-        <li>Check out the examples to start using Elusive Icons!</li>
+        <li>Copy elusive-webfont.less or elusive-webfont.css into your project.</li>
+        <li>Open your project's elusive-webfont.less or elusive-webfont.css and edit the font url to ensure it points to the right place (see above example).</li>
       </ol>
     </div>
   </div>
 </section>
 
-<section id="code">
-<h1>Code</h1>
-<div class="row">
-  <div class="span3">
-    <h3>Inline Icon</h3>
-    <p>Place Elusive Icons just about anywhere with the <code>&lt;i&gt;</code> tag.</p>
-  </div>
-  <div class="span9">
-    <div class="well">
-      <div style="font-size: 24px;">
-        <i class="icon-globe"></i> icon-globe
-      </div>
-    </div>
-<pre class="prettyprint linenums">
-&lt;div style="font-size: 24px;"&gt;
-  &lt;i class="icon-globe"&gt;&lt;/i&gt; icon-globe
-&lt;/div&gt;
-</pre>
-    <div class="alert alert-info"><i class="icon-info-sign"></i> Icon classes are echoed via CSS :before.</div>
-    <p>Increase the icon size by using the <code>icon-large</code> class. This increases the size by 33% relative to the font-size of the container.</p>
-    <div class="well">
-      <div style="font-size: 24px;">
-        <i class="icon-globe icon-large"></i> icon-globe
-      </div>
-    </div>
-<pre class="prettyprint linenums">
-&lt;div style="font-size: 24px;"&gt;
-  &lt;i class="icon-globe icon-large"&gt;&lt;/i&gt; icon-globe
-&lt;/div&gt;
-</pre>
-  </div>
-</div>
-<div class="row">
-  <div class="span3">
-    <h3>Buttons</h3>
-    <p>
-    <p>
-      <a class="btn" href="#">
-        <i class="icon-refresh"></i> Refresh</a>
-      <a class="btn btn-success" href="#">
-        <i class="icon-shopping-cart icon-large"></i> Checkout</a>
-    </p>
-    <p>
-      <a class="btn btn-large btn-primary" href="#">
-        <i class="icon-comment"></i> Comment</a>
-      <a class="btn btn-danger" href="#">
-        <i class="icon-trash icon-large"></i> Delete</a>
-    </p>
-    <p>
-      <a class="btn btn-small" href="#">
-        <i class="icon-cog"></i> Settings</a>
-      <a class="btn btn-small btn-info" href="#">
-        <i class="icon-info-sign"></i> More Info</a>
-    </p>
-    </p>
-  </div>
-  <div class="span9">
-    <p>Elusive icons work great in buttons.</p>
-<pre class="prettyprint linenums">
-&lt;a class="btn" href="#"&gt;
-  &lt;i class="icon-refresh"&gt;&lt;/i&gt; Refresh&lt;/a&gt;
-&lt;a class="btn btn-success" href="#"&gt;
-  &lt;i class="icon-shopping-cart icon-large"&gt;&lt;/i&gt; Checkout&lt;/a&gt;
-&lt;a class="btn btn-large btn-primary" href="#"&gt;
-  &lt;i class="icon-comment"&gt;&lt;/i&gt; Comment&lt;/a&gt;
-&lt;a class="btn btn-danger" href="#"&gt;
-  &lt;i class="icon-trash icon-large"&gt;&lt;/i&gt; Delete&lt;/a&gt;
-&lt;a class="btn btn-small" href="#"&gt;
-  &lt;i class="icon-cog"&gt;&lt;/i&gt; Settings&lt;/a&gt;
-&lt;a class="btn btn-small btn-info" href="#"&gt;
-  &lt;i class="icon-info-sign"&gt;&lt;/i&gt; More Info&lt;/a&gt;
-</pre>
-  </div>
-</div>
-<div class="row">
-  <div class="span3">
-    <h3>Button groups</h3>
-    <p>
-    <div class="btn-group">
-      <a class="btn" href="#"><i class="icon-align-left"></i></a>
-      <a class="btn" href="#"><i class="icon-align-center"></i></a>
-      <a class="btn" href="#"><i class="icon-align-right"></i></a>
-      <a class="btn" href="#"><i class="icon-align-justify"></i></a>
-    </div>
-    </p>
-  </div>
-  <div class="span9">
-<pre class="prettyprint linenums">
-&lt;div class="btn-group"&gt;
-  &lt;a class="btn" href="#"&gt;&lt;i class="icon-align-left"&gt;&lt;/i&gt;&lt;/a&gt;
-  &lt;a class="btn" href="#"&gt;&lt;i class="icon-align-center"&gt;&lt;/i&gt;&lt;/a&gt;
-  &lt;a class="btn" href="#"&gt;&lt;i class="icon-align-right"&gt;&lt;/i&gt;&lt;/a&gt;
-  &lt;a class="btn" href="#"&gt;&lt;i class="icon-align-justify"&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;/div&gt;
-</pre>
-  </div>
-</div>
-<div class="row">
-  <div class="span3">
-    <h3>Button dropdowns</h3>
-    <p>
-    <div class="btn-group">
-      <a class="btn btn-primary" href="#"><i class="icon-user"></i> User</a>
-      <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#">
-        <span class="caret"></span></a>
-      <ul class="dropdown-menu">
-        <li><a href="#"><i class="icon-pencil"></i> Edit</a></li>
-        <li><a href="#"><i class="icon-trash"></i> Delete</a></li>
-        <li><a href="#"><i class="icon-ban-circle"></i> Ban</a></li>
-        <li class="divider"></li>
-        <li><a href="#"><i class="i"></i> Make admin</a></li>
-      </ul>
-    </div>
-  </div>
-  </p>
-  <div class="span9">
-<pre class="prettyprint linenums">
-&lt;div class="btn-group"&gt;
-    &lt;a class="btn btn-primary" href="#"&gt;&lt;i class="icon-user"&gt;&lt;/i&gt; User&lt;/a&gt;
-    &lt;a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#"&gt;&lt;span class="icon-caret-down"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;ul class="dropdown-menu"&gt;
-        &lt;li&gt;&lt;a href="#"&gt;&lt;i class="icon-pencil"&gt;&lt;/i&gt; Edit&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;&lt;i class="icon-trash"&gt;&lt;/i&gt; Delete&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;&lt;i class="icon-ban-circle"&gt;&lt;/i&gt; Ban&lt;/a&gt;&lt;/li&gt;
-        &lt;li class="divider"&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;&lt;i class="i"&gt;&lt;/i&gt; Make admin&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-</pre>
-    <div class="alert alert-info"><i class="icon-info-sign"></i> Don't forget to add the appropriate JavaScript to enable button dropdowns.</div>
-  </div>
-</div>
-<div class="row">
-  <div class="span3">
-    <h3>Lists</h3>
-    <p>
-    <ul class="icons">
-      <li><i class="icon-ok"></i> Lists</li>
-      <li><i class="icon-ok"></i> Buttons</li>
-      <li><i class="icon-ok"></i> Button groups</li>
-      <li><i class="icon-ok"></i> Navigation</li>
-      <li><i class="icon-ok"></i> Prepended form inputs</li>
-    </ul>
-    </p>
-  </div>
-  <div class="span9">
-    <p>Easily replace individual bullets.</p>
-<pre class="prettyprint linenums">
-&lt;ul class="icons"&gt;
-  &lt;li&gt;&lt;i class="icon-ok"&gt;&lt;/i&gt; Lists&lt;/li&gt;
-  &lt;li&gt;&lt;i class="icon-ok"&gt;&lt;/i&gt; Buttons&lt;/li&gt;
-  &lt;li&gt;&lt;i class="icon-ok"&gt;&lt;/i&gt; Button groups&lt;/li&gt;
-  &lt;li&gt;&lt;i class="icon-ok"&gt;&lt;/i&gt; Navigation&lt;/li&gt;
-  &lt;li&gt;&lt;i class="icon-ok"&gt;&lt;/i&gt; Prepended form inputs&lt;/li&gt;
-&lt;/ul&gt;
-</pre>
-  </div>
-</div>
-<div class="row">
-  <div class="span3">
-    <h3>Navigation</h3>
-    <div class="well" style="padding: 8px 0;">
-      <ul class="nav nav-list">
-        <li class="active"><a href="#"><i class="icon-home"></i> Home</a></li>
-        <li><a href="#"><i class="icon-book"></i> Library</a></li>
-        <li><a href="#"><i class="icon-pencil"></i> Applications</a></li>
-        <li><a href="#"><i class="icon-cogs"></i> Settings</a></li>
-      </ul>
-    </div>
-  </div>
-  <div class="span9">
-    <p>Use Elusive Icons in navigation to provide helpful visual cues.</p>
-<pre class="prettyprint linenums">
-&lt;ul class="nav nav-list"&gt;
-  &lt;li class="active"&gt;&lt;a href="#"&gt;&lt;i class="icon-home"&gt;&lt;/i&gt; Home&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#"&gt;&lt;i class="icon-book"&gt;&lt;/i&gt; Library&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#"&gt;&lt;i class="icon-pencil"&gt;&lt;/i&gt; Applications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="#"&gt;&lt;i class="icon-cogs"&gt;&lt;/i&gt; Settings&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</pre>
-  </div>
-</div>
-<div class="row">
-  <div class="span3">
-    <h3>Prepended form inputs</h3>
-    <p>
-    <form>
-      <div class="input-prepend">
-        <span class="add-on"><i class="icon-envelope"></i></span>
-        <input class="span2" type="text" placeholder="Email address">
-      </div>
-      <div class="input-prepend">
-        <span class="add-on"><i class="icon-key"></i></span>
-        <input class="span2" type="password" placeholder="Password">
-      </div>
-    </form>
-    </p>
-  </div>
-  <div class="span9">
-<pre class="prettyprint linenums">
-&lt;form&gt;
-  &lt;div class="input-prepend"&gt;
-    &lt;span class="add-on"&gt;&lt;i class="icon-envelope"&gt;&lt;/i&gt;&lt;/span&gt;
-    &lt;input class="span2" type="text" placeholder="Email address"&gt;
-  &lt;/div&gt;
-  &lt;div class="input-prepend"&gt;
-    &lt;span class="add-on"&gt;&lt;i class="icon-key"&gt;&lt;/i&gt;&lt;/span&gt;
-    &lt;input class="span2" type="password" placeholder="Password"&gt;
-  &lt;/div&gt;
-&lt;/form&gt;
-</pre>
-  </div>
-</div>
-<div class="row">
-  <div class="span3">
-    <h3>Custom CSS</h3>
-    <p>Anything you can do with CSS font effects, you can do with Elusive Icons.</p>
-  </div>
-</div>
-</section>
 </div>
 
 
