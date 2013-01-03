@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="barcode.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64"
+     inkscape:cx="263.833"
+     inkscape:cy="37.221034"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1487"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-374.21785,-62.236374)">
+    <path
+       style="fill:currentColor"
+       d="M 0 34.53125 L 0 477.46875 L 42.78125 477.46875 L 42.78125 34.53125 L 0 34.53125 z M 63.0625 34.53125 L 63.0625 477.46875 L 73.34375 477.46875 L 73.34375 34.53125 L 63.0625 34.53125 z M 98.90625 34.53125 L 98.90625 477.46875 L 131.40625 477.46875 L 131.40625 34.53125 L 98.90625 34.53125 z M 146.1875 34.53125 L 146.1875 477.46875 L 160.0625 477.46875 L 160.0625 34.53125 L 146.1875 34.53125 z M 198.625 34.53125 L 198.625 477.46875 L 219.75 477.46875 L 219.75 34.53125 L 198.625 34.53125 z M 228.3125 34.53125 L 228.3125 477.46875 L 236.5625 477.46875 L 236.5625 34.53125 L 228.3125 34.53125 z M 258.6875 34.53125 L 258.6875 477.46875 L 268.9375 477.46875 L 268.9375 34.53125 L 258.6875 34.53125 z M 281.6875 34.53125 L 281.6875 477.46875 L 324.1875 477.46875 L 324.1875 34.53125 L 281.6875 34.53125 z M 339.1875 34.53125 L 339.1875 477.46875 L 360.59375 477.46875 L 360.59375 34.53125 L 339.1875 34.53125 z M 391.4375 34.53125 L 391.4375 477.46875 L 396.1875 477.46875 L 396.1875 34.53125 L 391.4375 34.53125 z M 403.59375 34.53125 L 403.59375 477.46875 L 417.875 477.46875 L 417.875 34.53125 L 403.59375 34.53125 z M 438.65625 34.53125 L 438.65625 477.46875 L 448.9375 477.46875 L 448.9375 34.53125 L 438.65625 34.53125 z M 469.5 34.53125 L 469.5 477.46875 L 512 477.46875 L 512 34.53125 L 469.5 34.53125 z "
+       transform="translate(374.21785,62.236374)"
+       id="path3013" />
+  </g>
+</svg>

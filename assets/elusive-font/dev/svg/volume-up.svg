@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="volume-up.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32"
+     inkscape:cx="-107.94608"
+     inkscape:cy="-439.92406"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1487"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-374.21785,-62.236374)">
+    <path
+       style="fill:currentColor"
+       inkscape:connector-curvature="0"
+       d="m 374.21802,228.22936 h 104.0282 L 634.74082,100.68175 V 539.40937 L 478.24622,411.86175 H 374.21802 V 228.22936 z m 319.32135,-20.80564 q 46.13424,46.13425 47.03883,112.16954 0,63.32151 -47.03883,108.55117 -6.33216,7.23674 -15.83038,7.23674 -9.49823,0 -16.28267,-6.78445 -6.78446,-6.78445 -6.78446,-16.28267 0,-9.49823 7.23675,-16.73497 32.56535,-32.56536 32.56535,-76.89041 0,-45.22966 -32.56535,-78.6996 -6.33215,-6.33215 -6.78445,-15.83038 -0.4523,-9.49822 6.33217,-16.73497 6.78444,-7.23674 16.28267,-6.78444 9.49822,0.45229 15.83038,6.78444 z m 54.27556,-53.37099 q 67.84452,67.84448 67.84452,163.73134 0,95.88686 -67.84452,164.63594 -7.23672,6.33215 -16.73496,6.33215 -9.4982,0 -16.28269,-7.23674 -6.78444,-7.23675 -6.78444,-16.28268 0,-9.04593 6.33215,-16.28267 54.27559,-53.37099 54.27559,-130.7137 0,-77.34271 -54.27559,-131.61829 -6.33215,-6.33215 -6.33215,-16.28267 0,-9.95053 6.78444,-16.28268 6.78449,-6.33215 16.28269,-6.33215 9.49824,0 16.73496,6.33215 z m 49.75262,-49.75261 q 41.6113,41.61127 65.13071,96.79145 23.51941,55.18018 23.51941,116.6925 0,61.51233 -23.51941,117.1448 -23.51941,55.63248 -65.13071,97.24376 -6.33214,7.23674 -16.28268,7.23674 -9.95048,0 -16.73497,-6.78445 -6.78444,-6.78444 -6.78444,-16.73497 0,-9.95052 7.23678,-16.28268 75.0812,-75.08122 75.0812,-181.3709 0,-106.28968 -75.0812,-181.3709 -7.23678,-6.33216 -7.23678,-16.28268 0,-9.95052 6.78444,-16.73497 6.78449,-6.784446 16.73497,-6.784446 9.95053,0 16.28268,7.236746 z"
+       id="path9093" />
+  </g>
+</svg>

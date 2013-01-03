@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="bold.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="159.56479"
+     inkscape:cy="435.74142"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1487"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-374.21785,-62.236374)">
+    <g
+       transform="matrix(17.223655,0,0,17.223655,-7612.4621,-7278.4357)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Bold"
+       id="text10520">
+      <path
+         d="m 463.70413,455.64047 0,-2.36328 3.73047,0 0,-24.43359 -3.73047,0 0,-2.36328 17.28516,0 c 3.55466,3e-5 6.22393,0.59898 8.00781,1.79687 1.78383,1.19794 2.67575,3.00133 2.67578,5.41016 -3e-5,1.73179 -0.61852,3.10549 -1.85547,4.12109 -1.22398,1.01564 -3.0469,1.65366 -5.46875,1.91406 2.92967,0.27346 5.17576,1.05471 6.73828,2.34375 1.56247,1.28908 2.34372,3.00132 2.34375,5.13672 -3e-5,2.89063 -1.09378,5.01954 -3.28125,6.38672 -2.1745,1.36719 -5.58596,2.05078 -10.23437,2.05078 l -16.21094,0 m 11.25,-16.99219 2.5586,0 c 2.23956,2e-5 3.89972,-0.40362 4.98046,-1.21093 1.08071,-0.8203 1.62108,-2.07029 1.6211,-3.75 -2e-5,-1.69269 -0.52737,-2.92315 -1.58203,-3.69141 -1.04169,-0.7682 -2.71486,-1.15232 -5.01953,-1.15234 l -2.5586,0 0,9.80468 m 0,14.62891 2.79297,0 c 2.48696,0 4.32941,-0.49479 5.52734,-1.48437 1.1979,-0.98958 1.79686,-2.51953 1.79688,-4.58985 -2e-5,-2.08332 -0.60549,-3.63931 -1.81641,-4.66797 -1.21095,-1.02863 -3.04689,-1.54295 -5.50781,-1.54297 l -2.79297,0 0,12.28516"
+         id="path10525"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

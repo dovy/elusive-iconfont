@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="skype.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="125.04869"
+     inkscape:cy="242.38832"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1487"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-374.21785,-62.236374)">
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccc"
+       style="fill:currentColor"
+       inkscape:connector-curvature="0"
+       d="m 772.86125,381.96935 c 0.26776,-39.9072 -23.35493,-66.4396 -55.59859,-81.34374 -15.87855,-6.78661 -32.14594,-12.32912 -47.65593,-16.1592 -21.02915,-5.31877 -40.68677,-8.85311 -61.62404,-14.78977 -16.9682,-4.01118 -37.74356,-17.02817 -38.34385,-32.31839 3.85705,-27.1253 36.89406,-33.26416 56.968,-33.41392 30.01468,-1.14537 48.82391,13.91056 61.89794,36.15277 9.57477,16.0441 17.3439,25.58137 35.05723,25.74516 19.28031,-1.0855 34.25598,-16.3216 34.50947,-33.9617 -2.69303,-39.72809 -38.14767,-62.63308 -70.66224,-73.40109 -41.99101,-10.61228 -88.09618,-10.92805 -127.08248,3.83439 -37.08473,13.69776 -62.57883,44.48891 -62.99347,81.06986 1.86088,67.22247 69.44312,86.5479 119.96148,97.50293 15.38631,3.06637 30.21929,6.27167 44.36931,10.95539 18.92476,6.87163 34.79609,17.24788 35.05723,37.24831 0,12.05092 -6.02546,22.09318 -18.07638,30.12731 -25.7844,12.68821 -57.62201,19.52073 -83.26094,6.02546 -18.30337,-8.74502 -27.18076,-23.50793 -34.50946,-39.98716 -7.66253,-17.0478 -17.09919,-27.7414 -35.05724,-27.93623 -18.82696,0.70176 -35.33827,14.21336 -35.605,31.77062 2.98278,35.12656 27.53871,64.07462 55.3247,78.87878 52.62013,21.60886 110.6787,25.79727 161.59194,4.92992 39.57135,-16.9839 65.32025,-51.50859 65.73232,-90.9297 z m 95.31186,-9.85985 c 9.49448,19.7197 14.242,40.53493 14.242,62.4457 -0.83613,38.23825 -15.99361,73.69046 -40.80882,98.87236 -28.53588,26.70794 -62.86029,40.54885 -98.87235,40.80881 -23.77865,-0.40079 -46.13655,-6.00124 -65.73232,-16.43308 -45.76732,7.95011 -99.05043,1.38575 -138.03786,-15.06365 -59.1565,-26.71703 -104.51491,-73.97904 -128.4519,-128.4519 -18.38109,-49.06999 -23.44432,-95.17062 -13.96812,-142.42002 -31.39167,-56.7125 -22.03501,-125.21736 21.63689,-169.5346 48.38531,-46.269256 118.29958,-52.14154 173.36898,-19.44581 78.25773,-12.637213 158.49981,15.197794 211.43895,67.37562 45.62859,47.60009 70.2244,109.98026 70.66224,170.35626 -0.0748,17.82506 -1.99457,35.30569 -5.47769,51.49031 z"
+       id="path6953" />
+  </g>
+</svg>

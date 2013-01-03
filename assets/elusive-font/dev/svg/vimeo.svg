@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="vimeo.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="302.42739"
+     inkscape:cy="808.24647"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1487"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-374.21785,-62.236374)">
+    <g
+       id="g6787"
+       transform="matrix(0.54122622,0,0,-0.54122622,359.60474,480.60424)">
+      <path
+         id="path6789"
+         d="m 778,522 c -26.67794,29.79197 -70.09476,30.36383 -106,25 -27.39406,-6.8845 -53.28878,-20.86296 -74,-36.5 -37.07431,-29.2398 -64.36841,-65.32924 -78,-106.5 18.82189,-0.32425 40.35711,1.63277 56.5,-4.5 24.92615,-13.485 25.27341,-39.47424 23.5,-61.5 -3.7349,-29.90089 -16.68652,-56.67614 -30,-81 -13.49206,-24.94257 -29.50124,-59.86244 -60,-63.5 -9.33301,-1 -19,4.16701 -29,15.5 -22.93668,24.06092 -29.60345,59.87528 -34,89.5 -4.03979,26.21849 -4.71734,51.92972 -9,76.5 -8.46112,44.8262 -14.84039,135.29612 -68,155 -25.04766,5.23635 -50.25343,-1.4393 -71,-14 -28,-16.667 -53.5,-35.667 -76.5,-57 -23,-21.333 -46.5,-41.667 -70.5,-61 l 0,-4 c 5.70976,-6.86604 10.33769,-13.8658 15.5,-20.5 8.76047,-8.81613 24.74464,-6.65905 34.5,-3.5 14.88426,4.48302 30.32156,10.78725 45,8 12.82304,-4.95763 16.29129,-13.45269 22,-23.5 C 297.72618,276.84287 319.47521,189.31957 338.5,115 351.79698,72.609935 369.33394,18.469931 412,1 c 6.66699,-3.33333 14.333,-4.83333 23,-4.5 24.44318,1.8594037 48.57089,7.8610579 69,20.5 86.30513,54.52308 153.09161,141.76637 201,226 34.97625,70.97389 121.93636,212.17821 73,279 z m 167,251 c 6.68103,0 12.348,-2.16699 17,-6.5 4.66699,-4.33301 7,-9.83301 7,-16.5 l 0,-900 c 0,-6.66701 -2.33301,-12.167 -7,-16.5 -4.66699,-4.333 -10.333,-6.5 -17,-6.5 l -890,0 c -6.6667,0 -12.3333,2.16701 -17,6.5 -4.6667,4.33299 -7,9.83299 -7,16.5 l 0,900 c 0,6.66699 2.3333,12.167 7,16.5 4.6667,4.333 10.3334,6.5 17,6.5 z"
+         inkscape:connector-curvature="0"
+         style="fill:currentColor"
+         sodipodi:nodetypes="cccccccccccccsccccccccccccccssssssssssc" />
+    </g>
+  </g>
+</svg>

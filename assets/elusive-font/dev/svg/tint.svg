@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="tint.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="1985.2458"
+     inkscape:cy="-562.91073"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1487"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-374.21785,-62.236374)">
+    <g
+       style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
+       transform="matrix(0.32026345,0,0,-0.32026345,449.269,564.3082)"
+       id="g11150">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccc"
+         style="fill:currentColor"
+         inkscape:connector-curvature="0"
+         d="m 0,535 c 1.7853454,113.16356 33.302356,214.97486 90,303 58.42001,87.49692 123.31655,172.6344 177.5,254 86.0134,132.644 158.92076,270.0416 203.5,411 15.49617,44.2169 50.67437,69.2217 94,64 48.2842,2.9641 81.72057,-22.7543 94,-64 46.94034,-152.6299 121.7924,-286.0449 204.5,-411 56.47842,-92.08434 120.99406,-163.15476 176.5,-254 60.2208,-95.70291 89.4577,-199.24222 90,-303 C 1126.5605,380.20294 1065.6555,236.30159 965.5,134 853.7878,26.663602 706.82508,-29.979892 565,-31 410.27958,-27.704662 266.77536,33.703352 165,134 57.88535,246.06738 1.0210753,393.04036 0,535 z M 248,410 c 3.70791,-81.49259 68.44764,-141.02039 141,-142 82.2207,3.63915 140.04847,69.47501 141,142 0,28.66667 -7.33333,53.66667 -22,75 -16.12116,20.97843 -32.01361,42.69268 -45,63.5 -20.57255,33.59598 -40.68717,67.00467 -51,102.5 -2.66667,13.33333 -10.33333,19 -23,17 -12,2.66667 -20,-3 -24,-17 C 354.21777,612.97682 335.37369,579.45769 315.5,548.5 301.52066,525.17436 284.76482,507.0207 270,485 254.66667,463 247.33333,438 248,410 z"
+         id="path11152" />
+    </g>
+  </g>
+</svg>

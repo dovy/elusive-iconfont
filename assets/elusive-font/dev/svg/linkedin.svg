@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="linkedin.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64"
+     inkscape:cx="699.63331"
+     inkscape:cy="605.48407"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1487"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-374.21785,-62.236374)">
+    <path
+       style="fill:currentColor"
+       inkscape:connector-curvature="0"
+       d="m 802.3278,364.78182 c -0.64215,-28.08696 -6.38937,-55.73547 -24.35523,-75.77167 -17.28728,-17.62262 -38.32172,-24.21708 -60.61733,-24.35518 -16.34597,0.27394 -31.50467,3.72265 -44.10992,12.71882 -9.29386,6.78316 -16.21442,15.19978 -22.46088,24.08457 l 0,-31.39112 -73.60676,0 c 0.36099,6.13371 0.54121,18.04069 0.54121,35.72093 0.13737,62.24172 -0.25959,124.48226 -0.54121,186.72304 l 73.60676,0 0,-124.48203 c 0.10833,-6.20717 0.42475,-12.44732 2.70613,-17.86047 8.35844,-16.81968 20.57548,-26.87754 37.88584,-27.0613 29.53623,0.903 37.18117,28.01867 37.34462,50.33403 l 0,119.06977 73.60677,0 z M 499.24109,239.75857 c 23.32217,-0.49775 42.10788,-16.89132 41.67443,-38.42706 -0.86933,-24.21863 -20.85379,-38.19859 -41.13319,-38.42706 -23.49983,0.50514 -41.3882,17.13079 -41.67442,38.42706 0.9085,23.86434 20.51418,38.19526 40.59196,38.42706 l 0.54123,0 z m 36.80338,30.30867 -73.60676,0 0,222.44397 73.60676,0 z M 871.0635,62.236374 c 7.63606,0.514194 12.89514,5.436459 12.98945,12.448203 l 0,487.103593 c -0.57543,7.75845 -6.07122,12.36188 -12.98945,12.4482 l -481.69133,0 c -7.63388,-0.51618 -12.89514,-5.43672 -12.98943,-12.4482 l 0,-487.103593 c 0.57548,-7.758345 6.07106,-12.361879 12.98943,-12.448203 l 481.69133,0 z"
+       id="path6532"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>

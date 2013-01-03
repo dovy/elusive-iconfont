@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="friendfeed.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.34975175"
+     inkscape:cx="-320.98221"
+     inkscape:cy="613.66744"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>User:ZyMOS</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Open Icon Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-373.73943,-61.535054)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 751.71798,61.53538 C 727.54557,61.578175 701.42736,65.844343 674.8859,79.990459 645.02327,69.262947 613.49013,60.208121 569.65029,63.457784 470.49853,72.690619 432.65276,122.79204 426.83169,194.24534 c -20.90782,2.38157 -40.66667,7.89586 -42.10065,63.13495 -1.37217,62.56176 18.20661,72.75803 39.08888,79.68365 l 1.50589,183.41337 c 2.95077,21.65605 -1.09682,45.77289 48.10816,51.10391 l 73.66012,1.50588 c 26.96205,3.5132 45.6675,-13.60294 55.62155,-52.60979 3.498,31.70886 17.43407,49.06655 43.60654,49.59803 l 85.69116,0 c 19.36988,-5.16218 40.61734,-6.86174 43.59051,-42.08463 l 1.50588,-190.92677 22.54019,1.50588 c 18.40884,-2.66593 36.74614,-5.70651 49.61405,-36.07711 l 0,-57.12744 c -3.72029,-23.32084 -10.02952,-20.57179 -16.53268,-25.56798 17.50608,-3.87341 35.58608,-5.70843 42.08463,-48.10816 l -1.48986,-46.60228 C 873.93743,95.84717 857.6468,79.235779 816.8234,68.407974 798.11789,65.677038 775.89039,61.492584 751.71798,61.53538 z m -170.66142,44.74395 c 11.78578,-0.13188 28.02909,1.78481 62.09365,12.70389 l 1.05732,55.28514 c -17.72528,-6.21333 -33.24669,-13.38152 -45.70516,-11.69463 -38.55384,-1.81083 -42.17028,17.88192 -44.64783,38.27186 l 0,39.32919 98.85963,1.05732 c 2.37895,-52.1257 -11.63842,-118.57493 74.71744,-130.06666 37.69783,-5.01439 72.33248,-0.21316 98.55525,11.00577 l -1.05733,58.47312 c -13.55833,-10.8444 -31.86108,-14.5754 -51.0238,-17.01328 -53.30299,-7.49444 -41.02521,40.25447 -43.59052,75.4864 l 71.22507,0 0,52.08113 -71.22507,0 1.05733,235.99112 -78.65837,-2.13066 0,-233.86046 -102.04762,2.13067 0,231.72979 -78.65836,0 2.11464,-231.72979 -38.27186,0 -1.05732,-58.47312 41.45984,2.13066 -1.05732,-15.93993 c 1.85754,-38.09531 -1.4716,-103.78213 80.16425,-114.01459 10.05957,0.6919 16.52942,-0.65036 25.69614,-0.75294 z"
+       id="path4187"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

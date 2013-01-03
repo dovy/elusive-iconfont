@@ -83,6 +83,7 @@ ul.icons li .icon-large:before {
 .btn-large [class^="icon-"], .btn-large [class*=" icon-"]{
   margin-top: 0;
 }
+
 .icon-zoom-out:before             { content: "\e000"; }
 .icon-zoom-in:before              { content: "\e001"; }
 .icon-youtube:before              { content: "\e002"; }
@@ -351,4 +352,5 @@ ul.icons li .icon-large:before {
 .icon-adjust:before               { content: "\e109"; }
 .icon-address-book-alt:before     { content: "\e10a"; }
 .icon-address-book:before         { content: "\e10b"; }
+.icon-check-empty:before          { content: "\e10d"; }
 .icon-stackoverflow:before        { content: "\e10c"; }
