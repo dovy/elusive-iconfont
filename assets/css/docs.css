@@ -1022,7 +1022,11 @@ ul.the-icons li i{
 }
 ul.the-icons li:hover i{
   color: #08b;
-  font-size: 24px;
+  transform: scale(2,2);
+  -ms-transform: scale(2,2);
+  -webkit-transform: scale(2,2);
+  -o-transform: scale(2,2);
+  -moz-transform: scale(2,2);
 }
 
 #intro-docs{
