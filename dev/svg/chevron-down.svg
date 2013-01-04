@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.32"
-     inkscape:cx="-206.9037"
+     inkscape:cx="-578.7787"
      inkscape:cy="311.91384"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
@@ -87,10 +87,10 @@
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
       <path
-         inkscape:connector-curvature="0"
          style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
-         d="m 630.21785,479.87211 c 6.61926,0 13.24062,-2.36999 18.5,-7.125 0.35063,-0.317 0.69312,-0.63062 1.03125,-0.96875 l 0,-0.0312 40.625,-40.625 186.71875,-186.7188 c 10.82029,-10.82029 10.8203,-28.24214 0,-39.0625 l -40.62499,-40.625 c -10.82031,-10.82029 -28.24221,-10.82029 -39.06251,0 L 630.21785,331.90336 463.03036,164.74711 c -10.8203,-10.82036 -28.24217,-10.82036 -39.0625,0 l -40.625,40.625 c -10.8203,10.82029 -10.82029,28.21093 0,39.03125 l 186.71875,186.71875 40.62499,40.625 0,0.0312 c 0.33813,0.33818 0.68062,0.6518 1.03125,0.9688 5.25938,4.75501 11.88074,7.125 18.5,7.125 z"
-         id="path2994" />
+         d="M 630.21783,484.364 706.47315,408.10868 886.21785,228.3641 809.96253,152.10873 630.21785,331.8534 450.47325,152.1088 l -76.2554,76.25531 179.74472,179.74456 76.25526,76.25534 z"
+         id="rect3006"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
