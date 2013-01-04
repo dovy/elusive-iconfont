@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="grid-view.svg"
+   sodipodi:docname="th-large.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45254834"
-     inkscape:cx="214.76356"
-     inkscape:cy="260.34055"
+     inkscape:cx="510.34979"
+     inkscape:cy="-30.633789"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1487"
@@ -84,8 +84,9 @@
      id="layer1"
      transform="translate(-374.21785,-62.236374)">
     <path
-       id="rect3064"
        style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m 666.21783,62.236374 220,0 0,219.999996 -220,0 z m -291.99997,0 220,0 0,219.999996 -220,0 z m 0,292.000016 220,0 0,220 -220,0 z m 291.99997,0 220,0 0,220 -220,0 z" />
+       d="M 0 0 L 0 224 L 224 224 L 224 0 L 0 0 z M 288 0 L 288 224 L 512 224 L 512 0 L 288 0 z M 0 288 L 0 512 L 224 512 L 224 288 L 0 288 z M 288 288 L 288 512 L 512 512 L 512 288 L 288 288 z "
+       transform="translate(374.21785,62.236374)"
+       id="path3003" />
   </g>
 </svg>

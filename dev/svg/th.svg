@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="grid-view-small.svg"
+   sodipodi:docname="th.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="137"
-     inkscape:cy="256"
+     inkscape:cx="218"
+     inkscape:cy="336"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1487"
@@ -84,8 +84,8 @@
      id="layer1"
      transform="translate(-374.21785,-62.236374)">
     <path
-       id="path8361"
-       d="m 738.35593,244.30547 147.86192,0 0,147.86191 -147.86192,0 z m -182.06902,0 147.86187,0 0,147.86191 -147.86187,0 z m -182.06906,0 147.86191,0 0,147.86191 -147.86191,0 z m 364.13808,-182.068891 147.86192,0 0,147.861911 -147.86192,0 z m -182.06902,0 147.86187,0 0,147.861911 -147.86187,0 z m -182.06906,0 147.86191,0 0,147.861911 -147.86191,0 z m 364.13782,364.137791 147.86182,0 0,147.8618 -147.86182,0 z m -182.0689,0 147.86175,0 0,147.8618 -147.86175,0 z m -182.06892,0 147.8618,0 0,147.8618 -147.8618,0 z"
-       inkscape:connector-curvature="0" />
+       d="M 0 0 L 0 128 L 128 128 L 128 0 L 0 0 z M 192 0 L 192 128 L 320 128 L 320 0 L 192 0 z M 384 0 L 384 128 L 512 128 L 512 0 L 384 0 z M 0 192 L 0 320 L 128 320 L 128 192 L 0 192 z M 192 192 L 192 320 L 320 320 L 320 192 L 192 192 z M 384 192 L 384 320 L 512 320 L 512 192 L 384 192 z M 0 384 L 0 512 L 128 512 L 128 384 L 0 384 z M 192 384 L 192 512 L 320 512 L 320 384 L 192 384 z M 384 384 L 384 512 L 512 512 L 512 384 L 384 384 z "
+       transform="translate(374.21785,62.236374)"
+       id="path3029" />
   </g>
 </svg>
