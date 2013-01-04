@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="chat.svg"
+   sodipodi:docname="comment.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45254834"
-     inkscape:cx="-51.728012"
-     inkscape:cy="242.38832"
+     inkscape:cx="-32.754571"
+     inkscape:cy="-34.571565"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1487"
@@ -83,14 +83,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-374.21785,-62.236374)">
-    <g
-       id="g7127"
-       transform="matrix(0.56512141,0,0,-0.56637168,347.65715,488.14788)">
-      <path
-         id="path7129"
-         d="m 872,-118 c 5.33301,-10 3.66699,-19.333 -5,-28 -4,-4 -9.33301,-6 -16,-6 -4,0 -8,1 -12,3 L 634,-29 c -44,-12 -88.667,-18 -134,-18 -62.667,0 -121.5,10.5 -176.5,31.5 -55,21 -103,49.5 -144,85.5 -41,36 -73.333,78.333 -97,127 C 58.8333,245.667 47,297.667 47,353 c 0,54.667 11.8333,106.333 35.5,155 23.667,48.667 56,91 97,127 41,36 89,64.5 144,85.5 55,21 113.833,31.5 176.5,31.5 62.667,0 121.5,-10.5 176.5,-31.5 55,-21 103,-49.5 144,-85.5 41,-36 73.333,-78.333 97,-127 C 941.167,459.333 953,407.666 953,353 953,292.333 938.333,234.833 909,180.5 879.665,126.167 838.332,80 785,42 z"
-         inkscape:connector-curvature="0"
-         style="fill:currentColor" />
-    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 630.21785,62.516668 c -141.38689,0 -256,101.290132 -256,226.257912 0,124.96777 114.61311,226.28905 256,226.28905 25.09687,0 49.33443,-3.20654 72.25304,-9.15621 L 848.22272,573.95608 790.0777,465.51423 c 58.60384,-41.46579 96.14015,-105.22775 96.14015,-176.73965 0,-124.96778 -114.61311,-226.257912 -256,-226.257912 z"
+       id="rect3002"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
