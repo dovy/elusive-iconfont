@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.85058594"
-     inkscape:cx="32.089961"
+     inkscape:cx="174.34484"
      inkscape:cy="129.67743"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -83,21 +83,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-374.21785,-62.236374)">
-    <rect
+    <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect3163"
-       width="256"
-       height="256"
-       x="630.21783"
-       y="318.23639"
-       ry="13.900453" />
-    <rect
-       ry="13.900453"
-       y="62.236374"
-       x="374.21786"
-       height="256"
-       width="256"
-       id="rect3165"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
+       d="M 0 0 L 0 256 L 256 256 L 256 0 L 0 0 z M 256 256 L 256 512 L 512 512 L 512 256 L 256 256 z "
+       transform="translate(374.21785,62.236374)"
+       id="rect3003" />
   </g>
 </svg>
