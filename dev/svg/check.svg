@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.32"
-     inkscape:cx="-528.21329"
-     inkscape:cy="311.91384"
+     inkscape:cx="-149.41054"
+     inkscape:cy="-78.140856"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
      inkscape:window-width="1487"
@@ -86,15 +86,11 @@
     <g
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
-      <g
-         id="g3362"
-         transform="matrix(0.79523199,0,0,-0.79523199,559.41436,167.41615)">
-        <path
-           id="path3364"
-           style="fill:currentColor"
-           d="m 394.93531,45.701016 c 2.42097,-2.420977 3.63121,-5.274079 3.63121,-8.55929 0,-3.285212 -1.21024,-6.138309 -3.63121,-8.559291 L 68.126801,-298.22685 c -2.074975,-2.42082 -4.84144,-3.63122 -8.299899,-3.63122 h -0.518743 -0.518744 c -3.112462,0 -5.878922,1.2104 -8.299899,3.63122 l -151.473156,150.95477 c -2.42082,3.11247 -3.6312,6.05219 -3.6312,8.81866 0,2.76647 1.21038,5.70619 3.6312,8.81866 l 64.842964,64.843115 c 5.878922,5.187449 11.758362,5.187449 17.637284,0 L 59.308159,-143.12212 312.45507,110.54413 c 3.11246,2.42097 6.05218,3.63122 8.81864,3.63122 2.76646,0 5.70618,-1.21025 8.81864,-3.63122 l 64.84296,-64.843114 v 0 z M 330.47392,-390.85479 c 0,-22.25262 -17.98713,-40.23982 -40.23976,-40.23982 l -402.39827,0 c -22.21238,0 -40.23983,17.9872 -40.23983,40.23982 l 0,402.398302 c 0,22.252636 18.02745,40.239835 40.23983,40.239835 l 259.41848,0 87.15244,80.479663 -386.81075,0 c -44.42477,0 -80.47969,-36.05489 -80.47969,-80.479663 l 0,-482.877957 c 0,-44.42477 36.05492,-80.47966 80.47969,-80.47966 l 482.87786,0 c 44.42484,0 80.47973,36.05489 80.47973,80.47966 l 0,331.978601 -80.47973,-66.882951 z"
-           inkscape:connector-curvature="0" />
-      </g>
+      <path
+         style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
+         d="M 0 0 L 0 330.96875 L 0 512 L 181.03125 512 L 512 512 L 512 181.03125 L 428 265.03125 L 428 428 L 265.03125 428 L 84 428 L 84 246.96875 L 84 84 L 246.96875 84 L 330.96875 0 L 0 0 z M 439.46875 6.46875 L 254.21875 191.75 L 188.03125 125.5625 L 120.15625 193.46875 L 254.21875 327.5 L 322.09375 259.625 L 507.34375 74.34375 L 439.46875 6.46875 z "
+         transform="translate(374.21785,62.236374)"
+         id="path3072" />
     </g>
   </g>
 </svg>
