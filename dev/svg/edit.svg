@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16"
-     inkscape:cx="385.3707"
-     inkscape:cy="69.231557"
+     inkscape:zoom="0.64"
+     inkscape:cx="164.67003"
+     inkscape:cy="176.60222"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
      inkscape:window-width="1487"
@@ -87,10 +87,10 @@
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
       <path
-         inkscape:connector-curvature="0"
-         d="m 822.21785,574.23637 -383.99999,0 c -35.32801,0 -64.00001,-28.67198 -64.00001,-63.99995 l 0,-383.9997 c 0,-35.327966 28.672,-63.999947 64.00001,-63.999947 l 287.99998,0 -63.99994,63.999947 -192.00004,0 c -17.664,0 -32,14.33598 -32,31.99997 l 0,319.99976 c 0,17.69598 14.336,31.99997 32,31.99997 l 319.99999,0 c 17.696,0 32,-14.30399 32,-31.99997 l 0,-191.99986 64,-63.99995 0,287.99978 c 0,35.32797 -28.672,63.99995 -64,63.99995 z m 0,-447.99965 c -24.7157,-21.86956 -24.83579,-21.5605 -32,-63.999947 0,0 96,-0.991998 96,95.999917 -39.64903,-9.40054 -39.2843,-10.13041 -64,-31.99997 z m -288.00001,287.99977 0,-95.99993 c 51.75472,-3.94108 96.00006,46.78783 96.00006,95.99993 z M 822.21785,190.23667 662.2179,350.23654 l -64,-63.99995 159.99994,-159.99987 z"
-         id="path2989"
-         sodipodi:nodetypes="sssssccssssssccsszcczccccccccc" />
+         style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
+         d="M 0 0 L 0 330.96875 L 0 512 L 181.03125 512 L 512 512 L 512 181.03125 L 428 265.03125 L 428 428 L 265.03125 428 L 84 428 L 84 246.96875 L 84 84 L 246.96875 84 L 330.96875 0 L 0 0 z M 448 0 L 415.21875 32.78125 L 479.21875 96.78125 L 512 64 L 448 0 z M 399.75 48.25 L 212.125 235.875 L 276.125 299.875 L 463.75 112.25 L 399.75 48.25 z M 188.5625 265.53125 C 187.61354 265.54585 186.64535 265.61456 185.6875 265.6875 L 185.6875 326.3125 L 246.3125 326.3125 C 246.3125 309.79704 238.42227 293.01581 226.125 281.28125 C 215.95261 271.57423 202.79693 265.31219 188.5625 265.53125 z "
+         transform="translate(374.21785,62.236374)"
+         id="path3032" />
     </g>
   </g>
 </svg>
