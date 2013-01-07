@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="folder-close.svg"
+   sodipodi:docname="folder-open.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32"
-     inkscape:cx="1165.1622"
-     inkscape:cy="-104.56297"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="346.23564"
+     inkscape:cy="134.25362"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1487"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -84,11 +84,10 @@
      id="layer1"
      transform="translate(-374.21785,-62.236374)">
     <path
-       style="fill:currentColor"
-       d="m 116.59375,50.15625 c -5.95127,0 -11.04897,2.44272 -15.25,7.34375 L 70.375,96.375 l -36.25,0 C 16.14678,96.6178 1.55776,110.07175 0,129.96875 l 0,28.125 0,165.6245 42.1875,-165.6245 419.8125,0 0,-28.125 C 461.75127,112.2242 447.87113,97.88082 428.40625,96.375 l -176.34375,0 -28.34375,-34.6875 C 219.57481,57.54355 214.4268,50.15625 206.375,50.15625 z M 70,175.28125 0,427.71875 c 0.24772,18.34191 13.93477,32.62674 34.125,34.125 l 394.28125,0 c 18.10398,-0.25379 32.14612,-14.37403 33.59375,-34.125 l 50,-252.4375 z"
-       transform="translate(374.21785,62.236374)"
-       id="path5849"
+       style="fill:#000000"
+       d="m 480.53035,112.45513 -35.7188,46.09374 -70.5937,0 0,260.25467 52.724,-198.53592 371.276,0 0,-61.71875 -171.5625,0 -35.7188,-46.09374 z m -106.3125,383.53591 0,28.02658 424,0 88,-286.5625 -437.276,0 z"
+       id="path3021"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccccccccccccssccccccc" />
+       sodipodi:nodetypes="cccccccccccccccc" />
   </g>
 </svg>
