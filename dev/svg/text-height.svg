@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45254834"
-     inkscape:cx="-17.211914"
+     inkscape:cx="-280.16725"
      inkscape:cy="435.74142"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
@@ -86,15 +86,11 @@
     <g
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
-      <g
-         style="font-style:normal;line-height:125%;fill:#000000;font-family:Serif;-inkscape-font-specification:Serif"
-         id="text10591"
-         transform="matrix(0.77461605,0,0,0.77461605,-343.43331,66.706218)">
-        <path
-           id="path10596"
-           d="m 1053.6889,580.71591 0,-36.35096 65.5003,0 0,-434.83993 -150.54788,0 0,79.90355 -42.18083,0 0,-120.712658 454.73011,0 0,120.712658 -42.1809,0 0,-79.90355 -150.5479,0 0,434.83993 65.5003,0 0,36.35096 -200.2732,0 M 1411.764,119.48928 q -1.909,-5.15453 5.3455,-12.79088 l 70.2544,-70.636136 q 5.3453,-4.581814 12.5999,-4.581814 5.3454,0 11.8364,4.581814 l 70.2542,70.636136 q 6.8727,7.63635 4.9637,12.79088 -1.9091,5.15452 -12.9818,5.15452 h -45.0544 v 400.14423 h 45.0544 q 11.0727,0 12.9818,5.15452 1.909,5.15454 -4.9637,12.02724 l -70.2542,71.39978 q -6.1091,4.5818 -12.6001,4.5818 -6.1091,0 -11.8362,-4.5818 l -70.2544,-71.39978 q -6.8727,-6.8727 -4.9636,-12.02724 1.909,-5.15452 11.8363,-5.15452 h 46.1999 V 124.6438 h -46.1999 q -10.309,0 -12.2182,-5.15452 z"
-           inkscape:connector-curvature="0" />
-      </g>
+      <path
+         style="font-size:469.01760864px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif Bold"
+         d="M 423.125 0 L 334.25 89.34375 L 393.75 89.34375 L 393.75 422.65625 L 334.25 422.65625 L 423.125 512 L 512 422.65625 L 452.53125 422.65625 L 452.53125 89.34375 L 512 89.34375 L 423.125 0 z M 2.53125 88.59375 L 0 179.5 L 31.59375 179.5 C 31.59375 117.1486 31.63655 117.21875 111.3125 117.21875 L 111.3125 368 C 111.3125 399.25914 111.29659 399.20684 67.5625 398.4375 L 67.5625 423.40625 L 229.46875 423.40625 L 229.46875 398.4375 C 185.80576 398.4375 185.71875 398.36131 185.71875 368 L 185.71875 117.21875 C 265.43672 117.21875 265.65625 117.23626 265.65625 179.5 L 297.03125 179.5 L 294.75 88.59375 L 2.53125 88.59375 z "
+         transform="translate(374.21785,62.236374)"
+         id="path3041" />
     </g>
   </g>
 </svg>
