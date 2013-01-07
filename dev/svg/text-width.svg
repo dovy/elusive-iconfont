@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="-17.211914"
-     inkscape:cy="435.74142"
+     inkscape:zoom="2"
+     inkscape:cx="197.17743"
+     inkscape:cy="326.58556"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
      inkscape:window-width="1487"
@@ -86,15 +86,11 @@
     <g
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
-      <g
-         style="font-style:normal;line-height:125%;fill:#000000;font-family:Serif;-inkscape-font-specification:Serif"
-         id="text10591"
-         transform="matrix(0.77460105,0,0,0.77460105,-189.42659,-39.518432)">
-        <path
-           id="path10596"
-           d="m 958.01379,643.36414 0,-36.35096 65.50031,0 0,-434.83993 -150.54787,0 0,79.90355 -42.18083,0 0,-120.71266 454.7301,0 0,120.71266 -42.1809,0 0,-79.90355 -150.5479,0 0,434.83993 65.5003,0 0,36.35096 -200.27321,0 m 305.36331,-26.68363 q 5.1544,-1.90906 12.7908,5.34544 l 70.6362,70.25436 q 4.5817,5.34544 4.5817,12.59993 0,5.34544 -4.5817,11.83637 l -70.6362,70.2543 q -7.6364,6.8727 -12.7908,4.96365 -5.1546,-1.90912 -5.1546,-12.98179 l 0,-45.05442 -400.14413,0 0,45.05442 q 0,11.07267 -5.15452,12.98179 -5.15454,1.90905 -12.02724,-4.96365 l -71.39978,-70.2543 q -4.5818,-6.10908 -4.5818,-12.6 0,-6.10907 4.5818,-11.8363 l 71.39978,-70.25436 q 6.8727,-6.87271 12.02724,-4.96358 5.15452,1.90904 5.15452,11.8363 l 0,46.1999 400.14413,0 0,-46.1999 q 0,-10.30904 5.1546,-12.21816 z"
-           inkscape:connector-curvature="0" />
-      </g>
+      <path
+         style="font-size:469.01760864px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Droid Serif;-inkscape-font-specification:Droid Serif Bold"
+         d="M 110 0 L 107.5 90.90625 L 139.09375 90.90625 C 139.09375 28.554825 139.1053 28.625 218.78125 28.625 L 218.78125 279.40625 C 218.78125 310.66539 218.76534 310.61309 175.03125 309.84375 L 175.03125 334.8125 L 336.96875 334.8125 L 336.96875 309.84375 C 293.30576 309.84375 293.21875 309.76756 293.21875 279.40625 L 293.21875 28.625 C 372.93672 28.625 373.125 28.642512 373.125 90.90625 L 404.5 90.90625 L 402.21875 0 L 110 0 z M 89.34375 334.25 L 0 423.125 L 89.34375 512 L 89.34375 452.53125 L 422.65625 452.53125 L 422.65625 512 L 512 423.125 L 422.65625 334.25 L 422.65625 393.75 L 89.34375 393.75 L 89.34375 334.25 z "
+         transform="translate(374.21785,62.236374)"
+         id="path3041" />
     </g>
   </g>
 </svg>
