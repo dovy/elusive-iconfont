@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="resize-vertical.svg"
+   sodipodi:docname="resize-horizontal.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45254834"
-     inkscape:cx="753.94882"
+     inkscape:cx="384.92747"
      inkscape:cy="-350.9046"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -86,16 +86,13 @@
     <g
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
-      <g
-         style="font-style:normal;line-height:125%;fill:#000000;font-family:Serif;-inkscape-font-specification:Serif"
-         id="text10591"
-         transform="matrix(0.77461605,0,0,0.77461605,-343.43331,66.706218)">
-        <path
-           id="path10596"
-           d="m 1502.9409,231.79497 79.7031,79.2723 c 7.1825,9.0901 5.5355,19.6053 0,27.573 l -79.7031,79.2721 c -13.5219,11.4502 -20.1306,4.0533 -20.2489,-9.0473 l 0,-50.8376 -451.5073,0 0,50.8376 c -0.6114,17.1853 -9.6151,18.6269 -19.3872,9.0473 l -80.56473,-79.2721 c -6.62756,-9.0497 -6.09297,-19.7989 0,-27.573 l 80.56473,-79.2723 c 11.889,-11.0994 19.2635,-4.5386 19.3872,7.7549 l 0,52.1301 451.5073,0 0,-52.1301 c 0.7476,-17.8241 11.0193,-16.365 20.2489,-7.7549 z"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccccccccccccc" />
-      </g>
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         d="M 129.75,126.25 0,256 l 129.75,129.75 0,-86.84375 252.5,0 0,86.84375 L 512,256 382.25,126.25 l 0,86.84375 -252.5,0 z"
+         transform="translate(374.21785,62.236374)"
+         id="rect3050"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
     </g>
   </g>
 </svg>

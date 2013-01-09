@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="facetime.svg"
+   sodipodi:docname="facetime-video.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22627417"
-     inkscape:cx="-1210.8524"
-     inkscape:cy="-468.63838"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="151.83044"
+     inkscape:cy="147.02742"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
      inkscape:window-width="1487"
@@ -86,15 +86,11 @@
     <g
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
-      <g
-         id="g10964"
-         transform="matrix(0.51874369,0,0,0.51874369,166.33944,278.95356)">
-        <path
-           id="rect10961"
-           style="fill:#000000"
-           d="m 1387.7343,-229.57755 0,610.60874 -242.1098,-224.09025 0,-158.54979 z m -911.03098,65.52727 572.14148,0 c 42.0868,0 75.969,33.88217 75.969,75.968981 l 0,327.616239 c 0,42.08682 -33.8822,75.96898 -75.969,75.96898 l -572.14148,0 c -42.08681,0 -75.96898,-33.88216 -75.96898,-75.96898 l 0,-327.616239 c 0,-42.086811 33.88217,-75.968981 75.96898,-75.968981 z"
-           inkscape:connector-curvature="0" />
-      </g>
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         d="m 374.21785,119.75521 0,396.96233 396.96233,0 0,-166.93545 115.03767,166.93545 0,-396.96233 -115.03767,166.93546 0,-166.93546 -396.96233,0 z"
+         id="rect2998"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

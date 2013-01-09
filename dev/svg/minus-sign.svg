@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="minus-alt.svg"
+   sodipodi:docname="minus-sign.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.28"
-     inkscape:cx="388.06069"
+     inkscape:cx="295.09194"
      inkscape:cy="183.19338"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -85,8 +85,8 @@
      transform="translate(-374.21785,-62.236374)">
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       d="M 256 0 C 114.6151 0 0 114.6151 0 256 C 0 397.3849 114.6151 512 256 512 C 397.3849 512 512 397.3849 512 256 C 512 114.6151 397.3849 -5.6843419e-14 256 0 z M 117.59375 214.375 L 394.71875 214.375 C 399.03515 214.56337 401.82811 218.10024 401.875 221.875 L 401.875 290.125 C 401.72398 294.39244 398.50749 297.5738 394.71875 297.625 L 117.59375 297.625 C 113.28653 297.42409 110.17643 293.97249 110.125 290.125 L 110.125 221.875 C 110.32491 217.54587 113.76576 214.42669 117.59375 214.375 z "
+       d="M 256 0 C 114.6151 7.5791225e-14 0 114.6151 0 256 C 0 397.3849 114.6151 512 256 512 C 397.3849 512 512 397.3849 512 256 C 512 114.6151 397.3849 -5.6843419e-14 256 0 z M 109 214.375 L 403.03125 214.375 L 403.03125 297.625 L 109 297.625 L 109 214.375 z "
        transform="translate(374.21785,62.236374)"
-       id="path3138" />
+       id="path3009" />
   </g>
 </svg>

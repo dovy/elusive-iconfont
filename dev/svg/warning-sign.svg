@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="eye-close.svg">
+   sodipodi:docname="warning-sign.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="430.75729"
+     inkscape:cx="304.32872"
      inkscape:cy="241.77044"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,9 +53,9 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <path
-       inkscape:connector-curvature="0"
-       d="M 506.04843,955.631 313.28732,579.34772 c -28.33182,-45.79848 -92.15232,-42.21042 -114.9273,0 L 5.5989238,955.631 c -20.1170548,47.791 17.4507092,89.9973 57.4636632,90.7627 l 385.506123,0 c 45.9231,-2.0752 77.04162,-50.56844 57.47972,-90.7627 z m -218.12737,12.37032 c 0,8.67019 -7.18094,15.67845 -16.06476,15.67845 l -32.12952,0 c -8.88381,0 -16.06477,-7.00827 -16.06477,-15.67845 l 0,-31.35693 c 0,-8.6702 7.18096,-15.67848 16.06477,-15.67848 l 32.12952,0 c 8.88382,0 16.06476,7.00828 16.06476,15.67848 z m 0,-125.42776 c 0,8.67019 -7.18094,15.67847 -16.06476,15.67847 l -32.12952,0 c -8.88381,0 -16.06477,-7.00828 -16.06477,-15.67847 l 0,-156.78471 c 0,-8.65452 7.18096,-15.67848 16.06477,-15.67848 l 32.12952,0 c 8.88382,0 16.06476,7.02396 16.06476,15.67848 z"
-       id="path4"
-       sodipodi:nodetypes="cccccccssssssssssssssssss" />
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 256 0 L 0 512 L 512 512 L 256 0 z M 236.3125 177.53125 L 275.6875 177.53125 L 275.6875 245.21875 L 266.0625 340.40625 L 245.9375 340.40625 L 236.3125 245.21875 L 236.3125 177.53125 z M 236.3125 377.78125 L 275.6875 377.78125 L 275.6875 420.1875 L 236.3125 420.1875 L 236.3125 377.78125 z "
+       transform="translate(0,540.36218)"
+       id="rect3003" />
   </g>
 </svg>
