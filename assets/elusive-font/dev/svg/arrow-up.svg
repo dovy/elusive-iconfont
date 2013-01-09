@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="-78.244512"
-     inkscape:cy="352.87375"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="210.65045"
+     inkscape:cy="234.70578"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1487"
@@ -83,14 +83,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-374.21785,-62.236374)">
-    <g
-       id="g4508"
-       transform="matrix(0.53725079,0,0,-0.53725079,361.59246,483.44099)">
-      <path
-         id="path4510"
-         d="m 848,318 c 8,-10 8.66699,-20.667 2,-32 -5.33301,-11.333 -14.333,-17 -27,-17 H 671 v -406 c 0,-9.33299 -3,-17 -9,-23 -6,-6 -13.333,-9 -22,-9 H 360 c -8.66699,0 -16,3 -22,9 -6,6 -9,13.667 -9,23 V 269 H 177 c -12.667,0 -21.667,5.66699 -27,17 -6.66701,11.333 -6,22 2,32 l 322,452 c 5.33499,9.33301 13.669,14 25,14 11.333,0 19.667,-4.33301 25,-13 L 848,318 v 0 z"
-         inkscape:connector-curvature="0"
-         style="fill:currentColor" />
-    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 256 0 L 56 300 L 163.75 300 L 163.75 512 L 348.25 512 L 348.25 300 L 456 300 L 256 0 z "
+       transform="translate(374.21785,62.236374)"
+       id="rect3007" />
   </g>
 </svg>

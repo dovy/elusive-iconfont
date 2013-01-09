@@ -17,8 +17,6 @@
    sodipodi:docname="road.svg"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
-  <defs
-     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.90509668"
-     inkscape:cx="55.344458"
-     inkscape:cy="195.27188"
+     inkscape:cx="511.77266"
+     inkscape:cy="239.46605"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1487"
@@ -41,6 +39,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0" />
+  <defs
+     id="defs4" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -79,15 +79,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
+     transform="translate(-374.21785,-62.236374)"
      id="layer1"
-     transform="translate(-374.21785,-62.236374)">
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
     <path
-       sodipodi:nodetypes="cccccccccccccccccccccc"
-       style="fill:currentColor"
        inkscape:connector-curvature="0"
-       d="M 375.0232,562.5687 539.86401,73.903001 c 2.60095,-6.793312 8.85487,-11.578515 14.70802,-11.666649 l 54.11441,0 -2.22008,56.666578 47.73168,0 -2.49759,-56.666578 54.11441,0 c 6.35814,0.510495 12.41751,5.032643 14.70802,11.666649 L 885.36367,562.5687 c 2.05366,7.17318 0.61891,11.74768 -6.6602,11.66665 l -205.35725,0 -7.21526,-170.66633 -71.59753,0 -7.49276,170.66633 -205.07973,0 c -7.43201,0.038 -8.935,-6.22113 -6.93774,-11.66665 z m 223.39538,-253.99949 63.54973,0 -5.55019,-137.66641 -52.44935,0 z"
-       id="path10108" />
+       id="rect3057"
+       d="m 886.21786,574.23637 c 0,0 -103.3628,-511.999995 -103.3628,-511.999995 0,0 -127.5952,0 -127.5952,0 0,0 3.90988,118.047985 3.90988,118.047985 0,0 -57.90383,0 -57.90383,0 0,0 3.90986,-118.047985 3.90986,-118.047985 0,0 -127.5952,0 -127.5952,0 0,0 -103.36273,511.999995 -103.36273,511.999995 0,0 214.00001,0 214.00001,0 0,0 4.8817,-147.39011 4.8817,-147.39011 0,0 74.23659,0 74.23659,0 0,0 4.88171,147.39011 4.88171,147.39011 0,0 214.00001,0 214.00001,0 0,0 0,0 0,0 M 665.87602,382.76199 c 0,0 -71.31636,0 -71.31636,0 0,0 5.75106,-173.6381 5.75106,-173.6381 0,0 59.81422,0 59.81422,0 0,0 5.75108,173.6381 5.75108,173.6381 0,0 0,0 0,0"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
   </g>
 </svg>

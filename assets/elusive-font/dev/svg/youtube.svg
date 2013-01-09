@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="390.21374"
-     inkscape:cy="242.38832"
+     inkscape:zoom="1.28"
+     inkscape:cx="285.99474"
+     inkscape:cy="339.91061"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1487"
@@ -88,9 +88,10 @@
        transform="matrix(0.54584222,0,0,-0.54584222,357.29674,483.08072)">
       <path
          id="path6756"
-         d="M 969,635 V -31 c 0,-6.6667 -2.33301,-12.1667 -7,-16.5 -4.66699,-4.3333 -10.333,-6.5 -17,-6.5 H 55 c -6.6667,0 -12.3333,2.1667 -17,6.5 -4.6667,4.3333 -7,9.8333 -7,16.5 v 666 c 0,6.66699 2.3333,12.167 7,16.5 4.6667,4.333 10.3334,6.5 17,6.5 h 890 c 6.68103,0 12.348,-2.16699 17,-6.5 4.66699,-4.33301 7,-9.83301 7,-16.5 z M 365,94 693,300 365,506 V 94 z"
+         d="M 969,-54.000319 31.000002,-54 l 0,712.0003 937.999998,0 z M 365,94 693,300 365,506 z"
          inkscape:connector-curvature="0"
-         style="fill:currentColor" />
+         style="fill:currentColor"
+         sodipodi:nodetypes="ccccccccc" />
     </g>
   </g>
 </svg>

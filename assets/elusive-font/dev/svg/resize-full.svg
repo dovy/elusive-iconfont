@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="share-alt.svg">
+   sodipodi:docname="resize-full.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="84.729229"
-     inkscape:cy="92.800168"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-461.99635"
+     inkscape:cy="111.58226"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,10 +53,14 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <path
-       style="fill:currentColor"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 178.56657,799.06323 75.63835,901.99145 0,826.35314 l 4e-5,226.00906 226.00897,0 -75.63834,-75.63842 102.92822,-102.92821 -74.73232,-74.73234 z"
+       id="rect3050"
+       inkscape:connector-curvature="0" />
+    <path
        inkscape:connector-curvature="0"
-       d="M 0,1023.6955 0,849.69548 c -0.47207648,-24.71464 18.09768,-24.69765 30.66667,-13 L 86,892.02888 l 91.33334,-91.6667 c 6.35605,-5.50482 15.61587,-4.77462 21.33333,0 l 53.33334,53.3333 c 5.10954,6.55521 5.07951,15.67817 0,21.3334 l -91.66667,91.3333 55.33333,55.33332 c 18.32409,17.5606 4.47668,30.5006 -13,30.6667 l -173.33334,0 C 12.762788,1051.3117 0.23099919,1038.8782 0,1023.6955 z m 260.00001,-306.00002 91.66667,-91.3333 -55.33334,-55.3333 c -18.32409,-17.56061 -4.47668,-30.50056 13,-30.6667 l 173.33334,0 c 16.57054,1.05055 29.10232,13.48398 29.33332,28.6667 l 0,174 c 0.47208,24.71463 -18.09767,24.69766 -30.66665,13 l -55.33334,-55.3334 -91.33333,91 c -6.23248,6.46328 -15.82267,5.36895 -21.33334,0 l -53.33333,-52.6666 c -5.10954,-6.55521 -5.07951,-15.67817 0,-21.3334 z"
-       id="path3135"
-       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+       id="path3056"
+       d="M 333.43343,793.66113 436.36165,690.73291 512,766.37123 l -4e-5,-226.00905 -226.00897,0 75.63834,75.6384 -102.92822,102.92825 74.73232,74.7323 z"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
   </g>
 </svg>
