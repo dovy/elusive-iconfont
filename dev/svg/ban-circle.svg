@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="ok-circle.svg">
+   sodipodi:docname="ban-circle.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,17 +24,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-102.14286"
-     inkscape:cy="520"
+     inkscape:zoom="0.7"
+     inkscape:cx="269.75241"
+     inkscape:cy="317.32689"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     inkscape:window-x="0"
+     inkscape:window-width="958"
+     inkscape:window-height="1024"
+     inkscape:window-x="960"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -43,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,8 +55,9 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <path
-       d="m 74.980664,615.34284 c -99.973868,99.97387 -99.97384,262.06484 0,362.03868 99.973836,99.97388 262.064806,99.97388 362.038676,0 99.97379,-99.9738 99.97384,-262.06484 0,-362.03868 -99.97384,-99.97384 -262.06488,-99.97379 -362.038676,0 z m 39.332816,39.33282 c 69.98467,-69.98467 178.84639,-77.33202 257.03331,-22.14128 L 92.172198,911.70897 C 36.98149,833.52202 44.328745,724.66039 114.31348,654.67566 z M 140.65321,960.18998 419.8278,681.01539 c 55.18703,78.18321 47.82129,187.02654 -22.16338,257.01121 -69.98473,69.9847 -178.82801,77.3504 -257.01121,22.16338 z"
-       id="path3016"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 74.980663,977.38153 c 99.974227,99.97417 262.064477,99.97417 362.038697,10e-6 99.9742,-99.9742 99.97416,-262.06446 -1e-5,-362.03869 -99.97424,-99.97422 -262.06446,-99.97421 -362.038685,0 -99.974207,99.97422 -99.974221,262.06445 -2e-6,362.03868 z m 69.760517,-24.50567 267.77249,-267.7725 c 53.44366,74.98306 46.52436,179.7498 -20.74917,247.02333 -67.27352,67.27354 -172.04025,74.19281 -247.02332,20.74917 z M 99.486334,907.62102 C 46.042663,832.63795 52.961975,727.87122 120.23551,660.59769 187.50904,593.32416 292.27577,586.40485 367.25883,639.84852 L 99.486334,907.62102 z"
+       id="path3015"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

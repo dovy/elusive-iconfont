@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="267.13703"
+     inkscape:cx="-208.86297"
      inkscape:cy="151.7548"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -88,9 +88,9 @@
        id="text10546">
       <path
          style="fill:#000000;fill-opacity:1;stroke:none"
-         d="M 65.1875 0 C 29.074229 1.8947806e-14 0 29.074229 0 65.1875 L 0 446.8125 C 0 482.92577 29.074229 512 65.1875 512 L 446.8125 512 C 482.92577 512 512 482.92577 512 446.8125 L 512 65.1875 C 512 29.074229 482.92577 0 446.8125 0 L 65.1875 0 z M 94.875 64 L 417.125 64 C 434.23795 64 448 77.762046 448 94.875 L 448 417.125 C 448 434.23795 434.23795 448 417.125 448 L 94.875 448 C 77.762046 448 64 434.23795 64 417.125 L 64 94.875 C 64 77.762046 77.762046 64 94.875 64 z "
+         d="M 0 0 L 0 512 L 512 512 L 512 0 L 0 0 z M 84 84 L 428 84 L 428 428 L 84 428 L 84 84 z "
          transform="translate(374.21785,62.236374)"
-         id="rect2985" />
+         id="path2986" />
     </g>
   </g>
 </svg>

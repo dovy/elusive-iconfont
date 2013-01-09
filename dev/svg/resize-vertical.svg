@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45254834"
-     inkscape:cx="365.04009"
+     inkscape:cx="102.08476"
      inkscape:cy="-350.9046"
      inkscape:document-units="px"
      inkscape:current-layer="text10546"
@@ -87,10 +87,10 @@
        style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
        id="text10546">
       <path
-         style="font-style:normal;line-height:125%;fill:#000000;font-family:Serif;-inkscape-font-specification:Serif;stroke:none;fill-opacity:1"
-         d="M 255.03125 0 C 251.78576 0.13637955 248.51809 1.2846488 245.4375 3.71875 L 184.03125 65.4375 C 177.36173 72.58689 176.22442 80.54587 190.03125 81.125 L 230.40625 81.125 L 230.40625 430.875 L 190.03125 430.875 C 180.50851 430.97084 175.43348 436.69683 184.03125 445.90625 L 245.4375 508.3125 C 251.45944 513.03222 259.77121 513.44632 266.78125 508.3125 L 328.1875 445.90625 C 335.60801 438.33661 334.49951 431.34861 321.1875 430.875 L 281.8125 430.875 L 281.8125 81.125 L 321.1875 81.125 C 331.33543 81.0334 337.05701 75.9118 328.1875 65.4375 L 266.78125 3.71875 C 263.30955 1.3068214 259.20402 -0.17534514 255.03125 0 z "
-         transform="translate(374.21785,62.236374)"
-         id="path10596" />
+         inkscape:connector-curvature="0"
+         style="font-size:1353.90222168px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif Italic"
+         d="m 759.96785,191.98635 -129.75,-129.750001 -129.75,129.750001 86.8438,0 0,134.3125 0,15.875 0,102.3125 -86.8438,0 129.75,129.75005 129.75,-129.75005 -86.8437,0 0,-102.3125 0,-15.875 0,-134.3125 86.8437,0 z"
+         id="rect3050" />
     </g>
   </g>
 </svg>
