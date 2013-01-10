@@ -29,9 +29,6 @@ ul.icons {
     text-indent: -1.5em;
     margin-left: 3em;
 }
-.icon-glass {
-    *zoom: expression(this.runtimeStyle['zoom'] = '1',this.innerHTML = '&#xf000;'): ;
-}
 
 .icon-zoom-out:before {
   *zoom: expression(this.runtimeStyle['zoom'] = '1',this.innerHTML = '&#xe000'): ;
