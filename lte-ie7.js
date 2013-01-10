@@ -276,6 +276,7 @@ window.onload = function() {
       'icon-calendar' : '&#xe10b;',
       'icon-bullhorn' : '&#xe10c;',
       'icon-briefcase' : '&#xe10d;'
+      'icon-vkontakte' : '&#xe10e;'
     },
     els = document.getElementsByTagName('*'),
     i, attr, html, c, el;

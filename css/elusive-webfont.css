@@ -892,3 +892,6 @@ ul.icons li .icon-large:before {
 .icon-zoom-out:before {
   content: "\e000";
 }
+.icon-vkontakte:before {
+  content: "\e10e";
+}
