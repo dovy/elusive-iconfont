@@ -275,7 +275,7 @@ window.onload = function() {
       'icon-calendar-sign' : '&#xe10a;',
       'icon-calendar' : '&#xe10b;',
       'icon-bullhorn' : '&#xe10c;',
-      'icon-briefcase' : '&#xe10d;'
+      'icon-briefcase' : '&#xe10d;',
       'icon-vkontakte' : '&#xe10e;'
     },
     els = document.getElementsByTagName('*'),
