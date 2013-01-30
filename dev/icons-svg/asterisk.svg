@@ -1,5 +1,58 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<g transform="translate(0,-540.3622)">
-<path d="m209.0027,552.8877 0,189.2739L29.0273,683.6788 0,773.0241 179.9754,831.5069 68.7296,984.6267 144.7695,1039.8367 256.0153,886.7475 367.2305,1039.8367 443.2399,984.6267 331.994,831.5069 512,773.0241l-29.0273,-89.3454 -180.006,58.4828 0,-189.2739 -93.964,0z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg3135"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   width="100%"
+   height="100%"
+   sodipodi:docname="asterisk.svg">
+  <metadata
+     id="metadata3145">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3143" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview3141"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-2.1694915"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3135" />
+  <g
+     transform="matrix(0.03125,0,0,0.03125,0,-16.886317)"
+     id="g3137">
+    <path
+       d="m 209.0027,552.8877 0,189.2739 L 29.0273,683.6788 0,773.0241 179.9754,831.5069 68.7296,984.6267 l 76.0399,55.21 111.2458,-153.0892 111.2152,153.0892 76.0094,-55.21 L 331.994,831.5069 512,773.0241 l -29.0273,-89.3454 -180.006,58.4828 0,-189.2739 -93.964,0 z"
+       id="path3139"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
