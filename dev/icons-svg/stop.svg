@@ -1,7 +1,3 @@
 <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<g transform="translate(-374.2178,-62.2364)">
-<g font-family="Serif" font-size="1353.902" font-style="italic" letter-spacing="0" word-spacing="0">
-<path d="m474.2489,162.2674 311.938,0 0,311.938 -311.938,0z"/>
-</g>
-</g>
+<path d="M64.00,64.00L448.00,64.00L448.00,448.00L64.00,448.00z"/>
 </svg>
