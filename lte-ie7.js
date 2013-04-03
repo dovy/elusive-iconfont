@@ -324,7 +324,9 @@ var Elusive  = Elusive || {};
 			'icon-calendar': '&#xe10b;',
 			'icon-bullhorn': '&#xe10c;',
 			'icon-briefcase': '&#xe10d;',
-			'icon-vkontakte': '&#xe10e;'
+			'icon-vkontakte': '&#xe10e;',
+			'icon-hourglass': '&#xe10f',
+			'icon-upload-alt': '&#xe110'
 		}
 	};
 	/*
