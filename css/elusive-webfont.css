@@ -895,3 +895,9 @@ ul.icons li .icon-large:before {
 .icon-vkontakte:before {
   content: "\e10e";
 }
+.icon-hourglass:before {
+  content: "\e10f";
+}
+.icon-upload-alt:before {
+  content: "\e110";
+}

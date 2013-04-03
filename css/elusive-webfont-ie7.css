@@ -843,3 +843,9 @@ ul.icons {
 .icon-vkontakte:before {
   *zoom: expression(this.runtimeStyle['zoom'] = '1',this.innerHTML = '&#xe10e'): ;
 }
+.icon-hourglass:before {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1',this.innerHTML = '&#xe10f'): ;
+}
+.icon-upload-alt:before {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1',this.innerHTML = '&#xe110'): ;
+}
