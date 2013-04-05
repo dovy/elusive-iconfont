@@ -288,7 +288,8 @@ window.onload = function() {
 			'icon-caret-left' : '&#xe119;',
 			'icon-caret-up' : '&#xe02c;',
 			'icon-caret-right' : '&#xe118;',
-			'icon-caret-down' : '&#xe11a;'
+			'icon-caret-down' : '&#xe11a;',
+			'icon-stop' : '&#xe11b;'
 		},
 		els = document.getElementsByTagName('*'),
 		i, attr, html, c, el;
