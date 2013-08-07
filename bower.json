@@ -1,0 +1,12 @@
+{
+	"name": "Elusive-Iconfont",
+	"version": "1.5.0",
+	"main": "css/elusive-webfont.css",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}
