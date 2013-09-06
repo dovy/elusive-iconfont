@@ -1,55 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 512 512"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   width="100%"
-   height="100%"
-   sodipodi:docname="show-lines.svg">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="0.4609375"
-     inkscape:cx="-106.30508"
-     inkscape:cy="256"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:none"
-     d="M 144.90625 0 L 119.75 118.90625 L 1.5625 147.1875 L 120.46875 172.34375 L 148.75 290.5625 L 173.875 171.625 L 292.09375 143.375 L 173.1875 118.21875 L 144.90625 0 z M 456.9375 5.40625 L 364.0625 98.28125 L 414.71875 148.9375 L 507.59375 56.0625 L 456.9375 5.40625 z M 330.28125 132.0625 L 1 461.34375 L 51.65625 512 L 380.9375 182.71875 L 330.28125 132.0625 z M 432.375 191.03125 L 418.9375 254.5625 L 355.78125 269.6875 L 419.3125 283.125 L 434.40625 346.28125 L 447.84375 282.75 L 511 267.625 L 447.46875 254.1875 L 432.375 191.03125 z M 328.78125 306.46875 L 313.96875 376.53125 L 244.34375 393.15625 L 314.375 407.96875 L 331.03125 477.625 L 345.84375 407.5625 L 415.46875 390.90625 L 345.4375 376.09375 L 328.78125 306.46875 z "
-     id="rect3042" />
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 512 512">
+ <metadata id="metadata14">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="rect3042" fill="#000" d="M144.91,0l-25.16,118.91-118.19,28.28,118.91,25.15,28.28,118.22,25.13-118.94,118.21-28.24-118.9-25.16-28.28-118.22zm312.03,5.4062l-92.88,92.875,50.66,50.659,92.87-92.878-50.65-50.656zm-126.66,126.65l-329.28,329.28,50.656,50.66,329.28-329.28-50.66-50.66zm102.1,58.97l-13.44,63.53-63.16,15.13,63.53,13.43,15.1,63.16,13.43-63.53,63.16-15.13-63.53-13.43-15.09-63.16zm-103.6,115.44l-14.81,70.06-69.63,16.63,70.04,14.81,16.65,69.65,14.81-70.06,69.63-16.65-70.03-14.82-16.66-69.62z"/>
 </svg>

@@ -1,56 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 512 512"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   width="100%"
-   height="100%"
-   sodipodi:docname="address-book.svg">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="0.65186406"
-     inkscape:cx="709.61708"
-     inkscape:cy="24.212597"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <path
-     style="fill:#000000;stroke:none"
-     d="M 493.9135,24.939061 C 473.97933,25.969591 179.6766,252.73124 155.51007,332.57854 l 55.78079,52.7382 C 370.73265,265.32328 421.93522,147.79867 512,34.742951 l -17.41037,-9.63486 c -0.17601,-0.0989 -0.3597,-0.18537 -0.67613,-0.16903 z M 137.93067,348.63665 C 37.163339,382.08538 100.33288,448.27273 -9e-7,480.65117 113.62491,503.74169 163.96928,461.48898 193.71146,401.54388 l -55.78079,-52.90723 z"
-     id="rect2998"
-     inkscape:connector-curvature="0" />
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 512 512">
+ <metadata id="metadata10">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="rect2998" fill="#000" d="M493.91,24.939c-19.93,1.031-314.23,227.79-338.4,307.64l55.781,52.738c159.44-120,210.65-237.52,300.71-350.58l-17.41-9.6349c-0.17601-0.0989-0.3597-0.18537-0.67613-0.16903zm-355.98,323.7c-100.77,33.45-37.6,99.63-137.93,132.01,113.62,23.09,163.97-19.16,193.71-79.11l-55.781-52.907z"/>
 </svg>
