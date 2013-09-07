@@ -1,5 +1,43 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<g transform="translate(0,-540.3622)">
-<path d="m74.9807,977.3815c99.9742,99.9742 262.0645,99.9742 362.0387,10e-6 99.9742,-99.9742 99.9742,-262.0645 -1e-5,-362.0387 -99.9742,-99.9742 -262.0645,-99.9742 -362.0387,0 -99.9742,99.9742 -99.9742,262.0645 -2e-6,362.0387 z m 69.7605,-24.5057 267.7725,-267.7725c53.4437,74.9831 46.5244,179.7498 -20.7492,247.0233 -67.2735,67.2735 -172.0402,74.1928 -247.0233,20.7492 z M 99.4863,907.621C46.0427,832.638 52.962,727.8712 120.2355,660.5977 187.509,593.3242 292.2758,586.4049 367.2588,639.8485L99.4863,907.621z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: IcoMoon.io -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="margin-top:9px;margin-left:10px;" xmlns="http://www.w3.org/2000/svg" version="1.1" data-tags="remove-circle, cancel, close, remove, delete" height="896" width="768" data-du="" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 768 896">
+ <metadata id="metadata62">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="g4" stroke="#B35047">
+  <line id="line6" y2="896" x2="64" x1="64"/>
+  <line id="line8" y2="896" x2="128" x1="128"/>
+  <line id="line10" y2="896" x2="192" x1="192"/>
+  <line id="line12" y2="896" x2="256" x1="256"/>
+  <line id="line14" y2="896" x2="320" x1="320"/>
+  <line id="line16" y2="896" x2="384" x1="384"/>
+  <line id="line18" y2="896" x2="448" x1="448"/>
+  <line id="line20" y2="896" x2="512" x1="512"/>
+  <line id="line22" y2="896" x2="576" x1="576"/>
+  <line id="line24" y2="896" x2="640" x1="640"/>
+  <line id="line26" y2="896" x2="704" x1="704"/>
+  <line id="line28" y2="64" y1="64" x2="768"/>
+  <line id="line30" y2="128" y1="128" x2="768"/>
+  <line id="line32" y2="192" y1="192" x2="768"/>
+  <line id="line34" y2="256" y1="256" x2="768"/>
+  <line id="line36" y2="320" y1="320" x2="768"/>
+  <line id="line38" y2="384" y1="384" x2="768"/>
+  <line id="line40" y2="448" y1="448" x2="768"/>
+  <line id="line42" y2="512" y1="512" x2="768"/>
+  <line id="line44" y2="576" y1="576" x2="768"/>
+  <line id="line46" y2="640" y1="640" x2="768"/>
+  <line id="line48" y2="704" y1="704" x2="768"/>
+  <line id="line50" y2="768" y1="768" x2="768"/>
+  <line id="line52" y2="832" y1="832" x2="768"/>
+  <rect id="rect54" height="896" width="768" y="0" x="0" fill="none"/>
+ </g>
+ <g id="g3839" transform="matrix(1.5019531,0,0,1.5019531,-0.50006006,-748.09861)">
+  <path id="path3841" d="m74.981,977.38c99.974,99.974,262.06,99.974,362.04,0.00001,99.974-99.974,99.974-262.06-0.00001-362.04-99.974-99.974-262.06-99.974-362.04,0-99.974,99.974-99.974,262.06-0.000002,362.04zm69.76-24.506,267.77-267.77c53.444,74.983,46.524,179.75-20.749,247.02-67.274,67.274-172.04,74.193-247.02,20.749zm-45.254-45.25c-53.443-74.98-46.524-179.75,20.754-247.02,67.27-67.28,172.04-74.2,247.02-20.75l-267.77,267.77z"/>
+ </g>
 </svg>
