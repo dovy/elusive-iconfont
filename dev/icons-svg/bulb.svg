@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 512 512">
- <metadata id="metadata12">
+<!-- Generator: IcoMoon.io -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="margin-top:9px;margin-left:10px;" xmlns="http://www.w3.org/2000/svg" data-tags="remove-circle, cancel, close, remove, delete" height="896" viewBox="0 0 768 896" width="768" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" data-du="">
+ <metadata id="metadata62">
   <rdf:RDF>
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
@@ -9,5 +10,32 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <path id="rect2989" fill="#000" d="M258.5,103.94c-67.57,0-122.34,41.03-122.34,91.65l69.5,210.5h105.68l69.5-210.5c0-50.62-54.77-91.65-122.34-91.65zm0,20c67.57,0,102.34,54.53,102.34,71.65l-49.5,147h-105.68l-49.5-147c0-21.12,34.77-71.65,102.34-71.65zm-54.38,297.5v36.59h108.76v-36.59h-108.76zm0,54.78v36.59h108.76v-36.59h-108.76z"/>
+ <g id="g4" stroke="#b35047" transform="translate(0,-0.5)">
+  <line id="line6" x2="64" x1="64" y2="896"/>
+  <line id="line8" x2="128" x1="128" y2="896"/>
+  <line id="line10" x2="192" x1="192" y2="896"/>
+  <line id="line12" x2="256" x1="256" y2="896"/>
+  <line id="line14" x2="320" x1="320" y2="896"/>
+  <line id="line16" x2="384" x1="384" y2="896"/>
+  <line id="line18" x2="448" x1="448" y2="896"/>
+  <line id="line20" x2="512" x1="512" y2="896"/>
+  <line id="line22" x2="576" x1="576" y2="896"/>
+  <line id="line24" x2="640" x1="640" y2="896"/>
+  <line id="line26" x2="704" x1="704" y2="896"/>
+  <line id="line28" y1="64" x2="768" y2="64"/>
+  <line id="line30" y1="128" x2="768" y2="128"/>
+  <line id="line32" y1="192" x2="768" y2="192"/>
+  <line id="line34" y1="256" x2="768" y2="256"/>
+  <line id="line36" y1="320" x2="768" y2="320"/>
+  <line id="line38" y1="384" x2="768" y2="384"/>
+  <line id="line40" y1="448" x2="768" y2="448"/>
+  <line id="line42" y1="512" x2="768" y2="512"/>
+  <line id="line44" y1="576" x2="768" y2="576"/>
+  <line id="line46" y1="640" x2="768" y2="640"/>
+  <line id="line48" y1="704" x2="768" y2="704"/>
+  <line id="line50" y1="768" x2="768" y2="768"/>
+  <line id="line52" y1="832" x2="768" y2="832"/>
+  <rect id="rect54" height="896" width="768" y="0" x="0" fill="none"/>
+ </g>
+ <path id="rect2989" fill="#000" d="m384,168.06c-109.64,0-198.52,66.578-198.52,148.72l112.78,341.57h171.48l112.78-341.58c0-82.14-88.874-148.72-198.52-148.72zm0,32.453c109.64,0,166.06,88.484,166.06,116.26l-80.322,238.53h-171.48l-80.322-238.53c0-34.271,56.42-116.26,166.06-116.26zm-88.24,482.75v59.374h176.48v-59.375h-176.48zm0,88.89v59.374h176.48v-59.375h-176.48z"/>
 </svg>

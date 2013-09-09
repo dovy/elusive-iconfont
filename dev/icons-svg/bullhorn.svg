@@ -1,7 +1,45 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<g transform="translate(-374.2178,-62.2364)">
-<g font-family="Serif" font-size="1353.902" font-style="italic" letter-spacing="0" word-spacing="0">
-<path d="M437.5625,42.2812C371.6427,107.561 274.7482,147.5006 181.4062,153.125l-138.625,0C20.959,153.4228 1.2313,171.9868 0,196.4688l0,62.5c.2978,21.8223 18.2992,42.1123 42.7812,43.3438l55.5625,0c-14.8522,50.3682 1.1155,101.3623 18.3438,151.4062 25.5591,24.1333 84.0059,21.1275 103.0625,-10.2812 -40.5792,-31.8989 -60.3274,-117.7383 -11.4062,-138.9062 83.383,9.461 165.9875,51.8214 229.2188,108.625 21.7374,-.2979 41.5086,-18.151 42.7812,-42.5l0,-102.5C497.757,263.673 511.1843,247.7028 512,227.875 511.7896,209.9764 499.441,192.8837 480.3438,187.3125l0,-102.25C480.046,63.2402 462.0445,43.5127 437.5625,42.2812 z m 1.0938,55.2812 0,260.5938C377.5519,310.5355 302.0726,278.5896 224.1875,264.25l0,-72.7812C300.614,179.9703 375.3532,144.7235 438.6562,97.5625z" fill="currentColor" transform="translate(374.2178,62.2364)"/>
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: IcoMoon.io -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="margin-top:9px;margin-left:10px;" xmlns="http://www.w3.org/2000/svg" data-tags="remove-circle, cancel, close, remove, delete" height="896" viewBox="0 0 768 896" width="768" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" data-du="">
+ <metadata id="metadata62">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="g4" stroke="#b35047" transform="translate(0,-0.5)">
+  <line id="line6" x2="64" x1="64" y2="896"/>
+  <line id="line8" x2="128" x1="128" y2="896"/>
+  <line id="line10" x2="192" x1="192" y2="896"/>
+  <line id="line12" x2="256" x1="256" y2="896"/>
+  <line id="line14" x2="320" x1="320" y2="896"/>
+  <line id="line16" x2="384" x1="384" y2="896"/>
+  <line id="line18" x2="448" x1="448" y2="896"/>
+  <line id="line20" x2="512" x1="512" y2="896"/>
+  <line id="line22" x2="576" x1="576" y2="896"/>
+  <line id="line24" x2="640" x1="640" y2="896"/>
+  <line id="line26" x2="704" x1="704" y2="896"/>
+  <line id="line28" y1="64" x2="768" y2="64"/>
+  <line id="line30" y1="128" x2="768" y2="128"/>
+  <line id="line32" y1="192" x2="768" y2="192"/>
+  <line id="line34" y1="256" x2="768" y2="256"/>
+  <line id="line36" y1="320" x2="768" y2="320"/>
+  <line id="line38" y1="384" x2="768" y2="384"/>
+  <line id="line40" y1="448" x2="768" y2="448"/>
+  <line id="line42" y1="512" x2="768" y2="512"/>
+  <line id="line44" y1="576" x2="768" y2="576"/>
+  <line id="line46" y1="640" x2="768" y2="640"/>
+  <line id="line48" y1="704" x2="768" y2="704"/>
+  <line id="line50" y1="768" x2="768" y2="768"/>
+  <line id="line52" y1="832" x2="768" y2="832"/>
+  <rect id="rect54" height="896" width="768" y="0" x="0" fill="none"/>
+ </g>
+ <g id="g3324" transform="matrix(1.5019531,0,0,1.5019531,-562.55758,-29.965568)">
+  <g id="g3326" letter-spacing="0" style="word-spacing:0;letter-spacing:0;" font-style="italic" word-spacing="0" font-size="1353.90197754px" font-family="Serif">
+   <path id="path3328" d="M437.56,42.281c-65.92,65.279-162.81,105.22-256.15,110.84h-138.62c-21.831,0.3-41.559,18.87-42.79,43.35v62.5c0.2978,21.822,18.299,42.112,42.781,43.344h55.562c-14.852,50.368,1.1155,101.36,18.344,151.41,25.559,24.133,84.006,21.128,103.06-10.281-40.579-31.899-60.327-117.74-11.406-138.91,83.383,9.461,165.99,51.821,229.22,108.62,21.737-0.2979,41.509-18.151,42.781-42.5v-102.5c17.42-4.48,30.84-20.45,31.66-40.27-0.21-17.9-12.56-35-31.66-40.57v-102.25c-0.29-21.82-18.3-41.547-42.78-42.779zm1.0938,55.281,0,260.59c-61.1-47.61-136.58-79.56-214.46-93.9v-72.781c76.42-11.5,151.16-46.75,214.47-93.908z" fill="currentColor" transform="translate(374.2178,62.2364)"/>
+  </g>
+ </g>
 </svg>
