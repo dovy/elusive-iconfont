@@ -1,5 +1,43 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<g transform="translate(-374.2178,-62.2364)">
-<path d="m630.2178,574.2364c141.3849,0 256,-114.6151 256,-256 0,-141.3849 -114.6151,-256 -256,-256 -141.3849,0 -256,114.6151 -256,256 0,141.3849 114.6151,256 256,256 z M 658.6553,447.4551 464.8116,318.2364 658.6553,189.0176l0,69.625 136.9688,0 0,119.1875 -136.9688,0 0,69.625z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: IcoMoon.io -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="margin-top:9px;margin-left:10px;" xmlns="http://www.w3.org/2000/svg" data-tags="remove-circle, cancel, close, remove, delete" height="896" viewBox="0 0 768 896" width="768" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" data-du="">
+ <metadata id="metadata62">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="g4" stroke="#B35047">
+  <line id="line6" x2="64" x1="64" y2="896"/>
+  <line id="line8" x2="128" x1="128" y2="896"/>
+  <line id="line10" x2="192" x1="192" y2="896"/>
+  <line id="line12" x2="256" x1="256" y2="896"/>
+  <line id="line14" x2="320" x1="320" y2="896"/>
+  <line id="line16" x2="384" x1="384" y2="896"/>
+  <line id="line18" x2="448" x1="448" y2="896"/>
+  <line id="line20" x2="512" x1="512" y2="896"/>
+  <line id="line22" x2="576" x1="576" y2="896"/>
+  <line id="line24" x2="640" x1="640" y2="896"/>
+  <line id="line26" x2="704" x1="704" y2="896"/>
+  <line id="line28" y1="64" x2="768" y2="64"/>
+  <line id="line30" y1="128" x2="768" y2="128"/>
+  <line id="line32" y1="192" x2="768" y2="192"/>
+  <line id="line34" y1="256" x2="768" y2="256"/>
+  <line id="line36" y1="320" x2="768" y2="320"/>
+  <line id="line38" y1="384" x2="768" y2="384"/>
+  <line id="line40" y1="448" x2="768" y2="448"/>
+  <line id="line42" y1="512" x2="768" y2="512"/>
+  <line id="line44" y1="576" x2="768" y2="576"/>
+  <line id="line46" y1="640" x2="768" y2="640"/>
+  <line id="line48" y1="704" x2="768" y2="704"/>
+  <line id="line50" y1="768" x2="768" y2="768"/>
+  <line id="line52" y1="832" x2="768" y2="832"/>
+  <rect id="rect54" height="896" width="768" y="0" x="0" fill="none"/>
+ </g>
+ <g id="g3854" transform="matrix(1.5019531,0,0,1.5019531,-562.55758,-29.976148)">
+  <path id="path3856" d="m630.22,574.24c141.38,0,256-114.62,256-256s-114.62-256-256-256-256,114.62-256,256,114.62,256,256,256zm28.44-126.78-193.85-129.22,193.85-129.22v69.625h136.97v119.19h-136.97v69.625z"/>
+ </g>
 </svg>
