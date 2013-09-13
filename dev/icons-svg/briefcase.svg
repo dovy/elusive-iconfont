@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: IcoMoon.io -->
 <svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="margin-top:9px;margin-left:10px;" xmlns="http://www.w3.org/2000/svg" data-tags="remove-circle, cancel, close, remove, delete" height="896" viewBox="0 0 768 896" width="768" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" data-du="">
  <metadata id="metadata62">
@@ -37,5 +36,5 @@
   <line id="line52" y1="832" x2="768" y2="832"/>
   <rect id="rect54" height="896" width="768" y="0" x="0" fill="none"/>
  </g>
- <path id="path3013" d="m220.88,159.4,0,96.793-184.09,0,0,282.03,313.19,0,0-57.88,68.032,0,0,57.88,313.19,0,0-282.03-184.13,0,0-96.793zm50.039,50.039,226.12,0,0,46.754-226.12,0zm-234.13,383.1,0,175.95,694.41,0,0-175.95-313.19,0,0,55.91-68.032,0,0-55.91z"/>
+ <path id="path3033" d="M220.88,159.41v96.78h-184.1v282.03h313.19v-57.88h68.03v57.88h313.19v-282.03h-184.13v-96.78h-326.18zm50.03,50.03h226.12v46.75h-226.12v-46.75zm-234.13,383.09v175.97h694.41v-175.97h-313.19v55.91h-68.03v-55.91h-313.19z"/>
 </svg>

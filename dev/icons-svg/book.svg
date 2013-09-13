@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: IcoMoon.io -->
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="margin-top:9px;margin-left:10px;" xmlns="http://www.w3.org/2000/svg" version="1.1" data-tags="remove-circle, cancel, close, remove, delete" height="896" width="768" data-du="" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 768 896">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="margin-top:9px;margin-left:10px;" xmlns="http://www.w3.org/2000/svg" data-tags="remove-circle, cancel, close, remove, delete" height="896" viewBox="0 0 768 896" width="768" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" data-du="">
  <metadata id="metadata62">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -11,33 +11,31 @@
   </rdf:RDF>
  </metadata>
  <g id="g4" stroke="#B35047">
-  <line id="line6" y2="896" x2="64" x1="64"/>
-  <line id="line8" y2="896" x2="128" x1="128"/>
-  <line id="line10" y2="896" x2="192" x1="192"/>
-  <line id="line12" y2="896" x2="256" x1="256"/>
-  <line id="line14" y2="896" x2="320" x1="320"/>
-  <line id="line16" y2="896" x2="384" x1="384"/>
-  <line id="line18" y2="896" x2="448" x1="448"/>
-  <line id="line20" y2="896" x2="512" x1="512"/>
-  <line id="line22" y2="896" x2="576" x1="576"/>
-  <line id="line24" y2="896" x2="640" x1="640"/>
-  <line id="line26" y2="896" x2="704" x1="704"/>
-  <line id="line28" y2="64" y1="64" x2="768"/>
-  <line id="line30" y2="128" y1="128" x2="768"/>
-  <line id="line32" y2="192" y1="192" x2="768"/>
-  <line id="line34" y2="256" y1="256" x2="768"/>
-  <line id="line36" y2="320" y1="320" x2="768"/>
-  <line id="line38" y2="384" y1="384" x2="768"/>
-  <line id="line40" y2="448" y1="448" x2="768"/>
-  <line id="line42" y2="512" y1="512" x2="768"/>
-  <line id="line44" y2="576" y1="576" x2="768"/>
-  <line id="line46" y2="640" y1="640" x2="768"/>
-  <line id="line48" y2="704" y1="704" x2="768"/>
-  <line id="line50" y2="768" y1="768" x2="768"/>
-  <line id="line52" y2="832" y1="832" x2="768"/>
+  <line id="line6" x2="64" x1="64" y2="896"/>
+  <line id="line8" x2="128" x1="128" y2="896"/>
+  <line id="line10" x2="192" x1="192" y2="896"/>
+  <line id="line12" x2="256" x1="256" y2="896"/>
+  <line id="line14" x2="320" x1="320" y2="896"/>
+  <line id="line16" x2="384" x1="384" y2="896"/>
+  <line id="line18" x2="448" x1="448" y2="896"/>
+  <line id="line20" x2="512" x1="512" y2="896"/>
+  <line id="line22" x2="576" x1="576" y2="896"/>
+  <line id="line24" x2="640" x1="640" y2="896"/>
+  <line id="line26" x2="704" x1="704" y2="896"/>
+  <line id="line28" y1="64" x2="768" y2="64"/>
+  <line id="line30" y1="128" x2="768" y2="128"/>
+  <line id="line32" y1="192" x2="768" y2="192"/>
+  <line id="line34" y1="256" x2="768" y2="256"/>
+  <line id="line36" y1="320" x2="768" y2="320"/>
+  <line id="line38" y1="384" x2="768" y2="384"/>
+  <line id="line40" y1="448" x2="768" y2="448"/>
+  <line id="line42" y1="512" x2="768" y2="512"/>
+  <line id="line44" y1="576" x2="768" y2="576"/>
+  <line id="line46" y1="640" x2="768" y2="640"/>
+  <line id="line48" y1="704" x2="768" y2="704"/>
+  <line id="line50" y1="768" x2="768" y2="768"/>
+  <line id="line52" y1="832" x2="768" y2="832"/>
   <rect id="rect54" height="896" width="768" y="0" x="0" fill="none"/>
  </g>
- <g id="g4153" transform="matrix(1.501953,0,0,1.501953,-562.55752,-29.976071)">
-  <path id="path4155" d="m568.25,66.928c-32.516-17.115-96.599,15.955-115.01,45.069-8.2016,13.028-7.6215,22.416-7.6215,27.743v284.96l240.32,149.54,45.192-24.676-0.00023-277.52-246.74-141.66c13.241-16.664,43.02-36.985,65.349-28.824l219.78,117.55,0.00005,309.16,45.306-24.72,0.00016-309.15z"/>
- </g>
+ <path id="path4155" d="M291.05369,71.037723c-48.77398-25.672307-144.89982,23.932589-172.51358,67.603277-12.30186,19.54135-11.432,33.62387-11.432,41.61438v427.43901l360.4769,224.30561,67.78703-37.01342-0.00035-416.27366-370.11425-212.50111c19.86094-24.99619,64.52931-55.47719,98.02236-43.23525l329.66732,176.31859,0.00007,463.73137,67.95781-37.07933,0.00024-463.72139z"/>
 </svg>
