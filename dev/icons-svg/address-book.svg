@@ -10,11 +10,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   style="margin-top:9px;margin-left:10px;"
    data-tags="remove-circle, cancel, close, remove, delete"
-   height="896"
-   viewBox="0 0 768 896"
-   width="768"
+   height="1200"
+   viewBox="0 0 1200 1200"
+   width="1200"
    version="1.1"
    data-du=""
    inkscape:version="0.48.4 r9939"
@@ -30,16 +29,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
      id="namedview31"
      showgrid="false"
      inkscape:zoom="0.26339286"
-     inkscape:cx="384"
+     inkscape:cx="-519.59322"
      inkscape:cy="448"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <metadata
      id="metadata62">
@@ -55,5 +54,6 @@
   </metadata>
   <path
      id="path3524"
-     d="m0,64,0,768,598.47,0,85.909,0,83.626,0,0-135.96-83.626,0,0-74.773,83.626,0,0-135.91-83.626,0,0-74.773,83.626,0,0-135.85-83.626,0,0-74.773,83.626,0l-0.01-135.97h-83.63-85.9-598.47zm342.19,134.12c61.303,0,110.96,49.716,110.96,111.02,0,43.444-24.94,81.041-61.3,99.271l142.09,85.074h1.726v0.7238,119.26h-387.01v-119.26-0.7238h1.7816l142.03-85.074c-36.36-18.23-61.3-55.827-61.3-99.271,0-61.303,49.716-111.02,111.02-111.02z" />
+     d="m 0.0078124,0.01484356 0,1199.98435644 935.0971976,0 134.23109,0 130.6639,0 0,-212.43471 -130.6639,0 0,-116.8313 130.6639,0 0,-212.35661 -130.6639,0 0,-116.83129 130.6639,0 0,-212.26286 -130.6639,0 0,-116.83129 130.6639,0 L 1199.984,7.8124e-4 H 1069.3142 935.0972 0 z M 534.67273,209.57462 c 95.78469,0 173.37274,77.68023 173.37274,173.46649 0,67.88036 -38.96824,126.62491 -95.78,155.10892 L 834.2782,671.07642 h 2.69684 v 1.13092 186.34133 H 232.27979 v -186.34133 -1.13092 h 2.78371 L 456.98249,538.15003 c -56.81176,-28.48401 -95.78001,-87.22856 -95.78001,-155.10892 0,-95.78469 77.68024,-173.46649 173.4665,-173.46649 z"
+     inkscape:connector-curvature="0" />
 </svg>
