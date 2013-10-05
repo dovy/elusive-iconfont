@@ -10,13 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   style="margin-top:9px;margin-left:10px;"
    version="1.1"
    data-tags="remove-circle, cancel, close, remove, delete"
-   height="896"
-   width="768"
+   height="1200"
+   width="1200"
    data-du=""
-   viewBox="0 0 768 896"
+   viewBox="0 0 1200 1200"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="bell.svg">
   <defs
@@ -30,16 +29,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
      id="namedview3138"
      showgrid="false"
      inkscape:zoom="0.26339286"
-     inkscape:cx="384"
+     inkscape:cx="-67.796606"
      inkscape:cy="448"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <metadata
      id="metadata62">
@@ -55,5 +54,6 @@
   </metadata>
   <path
      id="path3964"
-     d="m333.59,63.5,0,47.499c-104.84,23-183.41,116.2-183.89,227.83v204.83l-151.37,130.9v35.624h151.37,468.61,151.37v-35.624l-151.37-130.9v-204.83c-0.4821-111.63-79.056-204.83-183.9-227.83v-47.499h-100.82zm50.409,656.59c-31.047,0-56.229,25.135-56.229,56.183,0,31.047,25.182,56.229,56.229,56.229s56.229-25.182,56.229-56.229-25.182-56.183-56.229-56.183z" />
+     d="m 521.32919,0 0,74.120484 C 357.73013,110.01116 235.12447,255.44641 234.37545,429.64102 V 749.27087 L -1.832,953.53562 v 55.58998 H 234.37545 965.62452 1201.832 V 953.53562 L 965.62452,749.27087 V 429.64102 C 964.87222,255.44641 842.26047,110.01116 678.65517,74.120484 V 0 H 521.32919 z m 78.66144,1024.5851 c -48.44774,0 -87.74335,39.2222 -87.74335,87.6716 0,48.4477 39.29561,87.7433 87.74335,87.7433 48.44772,0 87.74333,-39.2956 87.74333,-87.7433 0,-48.4478 -39.29561,-87.6716 -87.74333,-87.6716 z"
+     inkscape:connector-curvature="0" />
 </svg>
