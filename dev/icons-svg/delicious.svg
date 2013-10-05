@@ -10,13 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   style="margin-top:9px;margin-left:10px;"
    version="1.1"
    data-tags="remove-circle, cancel, close, remove, delete"
-   height="896"
-   width="768"
+   height="1200"
+   width="1200"
    data-du=""
-   viewBox="0 0 768 896"
+   viewBox="0 0 1200 1200"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="delicious.svg">
   <defs
@@ -35,7 +34,7 @@
      id="namedview30"
      showgrid="false"
      inkscape:zoom="0.52678571"
-     inkscape:cx="721.381"
+     inkscape:cx="495.48269"
      inkscape:cy="400.8742"
      inkscape:window-x="65"
      inkscape:window-y="24"
@@ -55,6 +54,6 @@
   </metadata>
   <path
      id="path5313"
-     d="m -0.5,63.5 0,384.5 384.5,0 0,-384.5 -384.5,0 z M 384,448 l 0,384.5 384.5,0 0,-384.5 -384.5,0 z"
+     d="M 0,0 0,600 600,600 600,0 0,0 z m 600,600 0,600 600,0 0,-600 -600,0 z"
      inkscape:connector-curvature="0" />
 </svg>

@@ -10,13 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   style="margin-top:9px;margin-left:10px;"
    version="1.1"
    data-tags="remove-circle, cancel, close, remove, delete"
-   height="896"
-   width="768"
+   height="1200"
+   width="1200"
    data-du=""
-   viewBox="0 0 768 896"
+   viewBox="0 0 1200 1200"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="comment.svg">
   <defs
@@ -34,9 +33,9 @@
      inkscape:window-height="876"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="0.52678571"
-     inkscape:cx="1110.7407"
-     inkscape:cy="74.119423"
+     inkscape:zoom="0.26339286"
+     inkscape:cx="642.11539"
+     inkscape:cy="105.17567"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -55,6 +54,6 @@
   </metadata>
   <path
      inkscape:connector-curvature="0"
-     d="m -0.49999521,61.275739 0,547.602641 158.45605521,0 0,158.45605 247.02442,-158.45605 363.51951,0 0,-547.602641 -768.99998521,0 z"
+     d="m 2.395e-6,98.217935 0,854.516485 247.265637605,0 0,247.26558 385.47374,-247.26558 567.26062,0 0,-854.516485 -1199.999997605,0 z"
      id="path4706" />
 </svg>
