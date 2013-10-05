@@ -10,13 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   style="margin-top:9px;margin-left:10px;"
    version="1.1"
    data-tags="remove-circle, cancel, close, remove, delete"
-   height="896"
-   width="768"
+   height="1200"
+   width="1200"
    data-du=""
-   viewBox="0 0 768 896"
+   viewBox="0 0 1200 1200"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="fast-forward.svg">
   <defs
@@ -34,9 +33,9 @@
      inkscape:window-height="876"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="0.7449875"
-     inkscape:cx="375.69166"
-     inkscape:cy="307.09894"
+     inkscape:zoom="0.37249375"
+     inkscape:cx="755.0857"
+     inkscape:cy="279.00103"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -55,6 +54,6 @@
   </metadata>
   <path
      id="path7113"
-     d="m 704,128 0,640 -106.66667,0 0,-293.33333 -266.66666,266.66666 0,-266.66666 L 64,741.33333 l 0,-586.66666 266.66667,266.66667 0,-266.66667 266.66666,266.66667 0,-293.33334 z"
+     d="m 1200,0 0,1200 -200,0 0,-549.99999 -499.99999,499.99989 0,-499.99989 L 0,1149.9999 0,50.000006 500.00001,550.00001 l 0,-500.000004 L 1000,550.00001 1000,0 z"
      inkscape:connector-curvature="0" />
 </svg>

@@ -10,13 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   style="margin-top:9px;margin-left:10px;"
    version="1.1"
    data-tags="remove-circle, cancel, close, remove, delete"
-   height="896"
-   width="768"
+   height="1200"
+   width="1200"
    data-du=""
-   viewBox="0 0 768 896"
+   viewBox="0 0 1200 1200"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="facetime-video.svg">
   <defs
@@ -34,9 +33,9 @@
      inkscape:window-height="876"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="0.7449875"
-     inkscape:cx="375.69166"
-     inkscape:cy="307.09894"
+     inkscape:zoom="0.37249375"
+     inkscape:cx="611.97842"
+     inkscape:cy="608.57008"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -56,6 +55,6 @@
   <path
      style="font-size:1353.90197754px;font-style:italic;letter-spacing:0;word-spacing:0;font-family:Serif"
      id="path6874"
-     d="m -0.49999521,172.7098 0,596.21875 596.21875521,0 0,-250.72929 172.78123,250.72929 0,-596.21875 -172.78123,250.72929 0,-250.72929 -596.21875521,0 z"
+     d="m 2.395e-6,134.80977 0,930.38043 930.380387605,0 0,-391.25512 L 1200,1065.1902 l 0,-930.38043 -269.61961,391.25508 0,-391.25508 -930.380387605,0 z"
      inkscape:connector-curvature="0" />
 </svg>
