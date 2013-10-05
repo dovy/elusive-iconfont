@@ -10,11 +10,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   style="margin-top:9px;margin-left:10px;"
    data-tags="remove-circle, cancel, close, remove, delete"
-   height="896"
-   viewBox="0 0 768 896"
-   width="768"
+   height="1200"
+   viewBox="0 0 1200 1200"
+   width="1200"
    version="1.1"
    data-du=""
    inkscape:version="0.48.4 r9939"
@@ -30,16 +29,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
      id="namedview3039"
      showgrid="false"
      inkscape:zoom="0.26339286"
-     inkscape:cx="384"
+     inkscape:cx="-67.796606"
      inkscape:cy="448"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <metadata
      id="metadata62">
@@ -55,5 +54,6 @@
   </metadata>
   <path
      id="path3841"
-     d="m655.88998,176.11002c-150.16-150.159999-393.6-150.159999-543.77-0.00002-150.160001,150.16-150.160001,393.6,0.00002,543.77,150.16,150.16,393.6,150.16,543.77,0,150.16-150.16,150.16-393.6,0-543.77zm-104.77,36.81-402.18,402.17c-80.270001-112.62-69.880001-269.97,31.16-371.01,101.04-101.04,258.4-111.43,371.01-31.16zm67.97,67.96c80.264,112.62,69.872,269.98-31.18,371.01-101.03,101.05-258.39,111.45-371.01,31.17l402.18-402.18z" />
+     d="m 1024.2623,175.73767 c -234.31681,-234.316844 -614.19222,-234.316844 -848.52467,-3e-5 -234.316841,234.31684 -234.316841,614.19226 3e-5,848.52466 234.31685,234.3169 614.19226,234.3169 848.52464,0 234.3169,-234.3168 234.3169,-614.19221 0,-848.52466 z M 860.77422,233.17776 233.19332,860.74305 C 107.93617,685.00542 124.14923,439.46896 281.81687,281.80131 439.48452,124.13366 685.03659,107.92061 860.75862,233.17776 z M 966.83786,339.22579 C 1092.0856,514.96342 1075.8694,760.51549 918.1831,918.16753 760.53105,1075.8508 514.97899,1092.0794 339.24135,966.80669 l 627.5809,-627.5809 z"
+     inkscape:connector-curvature="0" />
 </svg>

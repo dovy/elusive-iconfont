@@ -10,13 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   style="margin-top:9px;margin-left:10px;"
    version="1.1"
    data-tags="remove-circle, cancel, close, remove, delete"
-   height="896"
-   width="768"
+   height="1200"
+   width="1200"
    data-du=""
-   viewBox="0 0 768 896"
+   viewBox="0 0 1200 1200"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="backward.svg">
   <defs
@@ -30,16 +29,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
      id="namedview31"
      showgrid="false"
      inkscape:zoom="0.26339286"
-     inkscape:cx="384"
+     inkscape:cx="-67.796606"
      inkscape:cy="448"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <metadata
      id="metadata62">
@@ -55,5 +54,6 @@
   </metadata>
   <path
      id="path3799"
-     d="m401.48,63.5,0,349.55l349.54-349.55v769l-349.55-349.55v349.55l-384.49-384.5z" />
+     d="m 627.277,0 0,545.46164 L 1172.723,0 V 1200 L 627.2614,654.53836 V 1200 L 27.277,600 z"
+     inkscape:connector-curvature="0" />
 </svg>
