@@ -10,13 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   style="margin-top:9px;margin-left:10px;"
    version="1.1"
    data-tags="remove-circle, cancel, close, remove, delete"
-   height="896"
-   width="768"
+   height="1200"
+   width="1200"
    data-du=""
-   viewBox="0 0 768 896"
+   viewBox="0 0 1200 1200"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="glass.svg">
   <defs
@@ -34,9 +33,9 @@
      inkscape:window-height="876"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="0.7449875"
-     inkscape:cx="134.16222"
-     inkscape:cy="365.65022"
+     inkscape:zoom="0.37249375"
+     inkscape:cx="346.78785"
+     inkscape:cy="677.09836"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -55,6 +54,6 @@
   </metadata>
   <path
      inkscape:connector-curvature="0"
-     d="M -0.49998917,60.398927 322.4345,383.31884 l 0,316.26416 -118.74757,0 0,68.90285 360.64057,0 0,-68.90285 -118.74757,0 0,-316.26416 L 768.5,60.398927 z"
+     d="M 5.415e-6,95.052813 503.92899,598.95906 l 0,493.52014 -185.3018,0 0,107.5208 562.76812,0 0,-107.5208 -185.3018,0 0,-493.52014 L 1200,95.052813 z"
      id="path10170" />
 </svg>
