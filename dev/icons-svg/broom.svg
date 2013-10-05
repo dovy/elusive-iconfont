@@ -1,41 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: IcoMoon.io -->
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="margin-top:9px;margin-left:10px;" xmlns="http://www.w3.org/2000/svg" data-tags="remove-circle, cancel, close, remove, delete" height="896" viewBox="0 0 768 896" width="768" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" data-du="">
- <metadata id="metadata62">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="g4" stroke="#B35047">
-  <line id="line6" x2="64" x1="64" y2="896"/>
-  <line id="line8" x2="128" x1="128" y2="896"/>
-  <line id="line10" x2="192" x1="192" y2="896"/>
-  <line id="line12" x2="256" x1="256" y2="896"/>
-  <line id="line14" x2="320" x1="320" y2="896"/>
-  <line id="line16" x2="384" x1="384" y2="896"/>
-  <line id="line18" x2="448" x1="448" y2="896"/>
-  <line id="line20" x2="512" x1="512" y2="896"/>
-  <line id="line22" x2="576" x1="576" y2="896"/>
-  <line id="line24" x2="640" x1="640" y2="896"/>
-  <line id="line26" x2="704" x1="704" y2="896"/>
-  <line id="line28" y1="64" x2="768" y2="64"/>
-  <line id="line30" y1="128" x2="768" y2="128"/>
-  <line id="line32" y1="192" x2="768" y2="192"/>
-  <line id="line34" y1="256" x2="768" y2="256"/>
-  <line id="line36" y1="320" x2="768" y2="320"/>
-  <line id="line38" y1="384" x2="768" y2="384"/>
-  <line id="line40" y1="448" x2="768" y2="448"/>
-  <line id="line42" y1="512" x2="768" y2="512"/>
-  <line id="line44" y1="576" x2="768" y2="576"/>
-  <line id="line46" y1="640" x2="768" y2="640"/>
-  <line id="line48" y1="704" x2="768" y2="704"/>
-  <line id="line50" y1="768" x2="768" y2="768"/>
-  <line id="line52" y1="832" x2="768" y2="832"/>
-  <rect id="rect54" height="896" width="768" y="0" x="0" fill="none"/>
- </g>
- <path id="path3076" d="M700.34,63.5,437.78,326.06c-18.866-10.843-43.353-8.2247-59.476,7.8982-13.486,13.486-17.517,32.827-12.131,49.833-37.047-18.937-79.649-22.128-122.53-3.84-80.435,39.914-135.93,122.96-244.14,132.61,8.2594,17.005,18.955,35.967,32.073,56.858,45.502,7.1643,90.309-7.3055,125.32-43.025-13.599,42.324-46.828,73.912-91.767,90.37,11.66,15.547,24.997,31.868,40.058,48.873,51.812-17.321,70.339-41.025,21.862,23.258,20.445,21.236,42.343,43.756,69.251,62.705,11.954-44.139,44.171-78.033,90.327-95.476-35.366,33.148-49.529,81.161-40.8,132.61,26.721,17.976,51.265,32.593,73.614,43.767,19.036-81.664,74.586-166.37,132.61-244.14,18.722-39.41,15.689-81.996-4.2327-122.66,17.1,5.5736,36.635,1.59,50.225-12,16.123-16.123,18.741-40.61,7.8982-59.476l262.56-262.56-68.16-68.16z"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   style="margin-top:9px;margin-left:10px;"
+   data-tags="remove-circle, cancel, close, remove, delete"
+   height="896"
+   viewBox="0 0 768 896"
+   width="768"
+   version="1.1"
+   data-du=""
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="broom.svg">
+  <defs
+     id="defs3240" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3238"
+     showgrid="false"
+     inkscape:zoom="0.26339286"
+     inkscape:cx="384"
+     inkscape:cy="448"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata62">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path3076"
+     d="M700.34,63.5,437.78,326.06c-18.866-10.843-43.353-8.2247-59.476,7.8982-13.486,13.486-17.517,32.827-12.131,49.833-37.047-18.937-79.649-22.128-122.53-3.84-80.435,39.914-135.93,122.96-244.14,132.61,8.2594,17.005,18.955,35.967,32.073,56.858,45.502,7.1643,90.309-7.3055,125.32-43.025-13.599,42.324-46.828,73.912-91.767,90.37,11.66,15.547,24.997,31.868,40.058,48.873,51.812-17.321,70.339-41.025,21.862,23.258,20.445,21.236,42.343,43.756,69.251,62.705,11.954-44.139,44.171-78.033,90.327-95.476-35.366,33.148-49.529,81.161-40.8,132.61,26.721,17.976,51.265,32.593,73.614,43.767,19.036-81.664,74.586-166.37,132.61-244.14,18.722-39.41,15.689-81.996-4.2327-122.66,17.1,5.5736,36.635,1.59,50.225-12,16.123-16.123,18.741-40.61,7.8982-59.476l262.56-262.56-68.16-68.16z" />
 </svg>

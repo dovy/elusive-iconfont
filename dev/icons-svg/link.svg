@@ -18,7 +18,7 @@
    data-du=""
    viewBox="0 0 768 896"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="leaf.svg">
+   sodipodi:docname="link.svg">
   <defs
      id="defs32">
     <pattern
@@ -63,8 +63,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
      id="namedview30"
      showgrid="false"
      inkscape:zoom="0.52678571"
@@ -82,141 +82,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g4"
-     stroke="#B35047">
-    <line
-       id="line6"
-       y2="896"
-       x2="64"
-       x1="64" />
-    <line
-       id="line8"
-       y2="896"
-       x2="128"
-       x1="128" />
-    <line
-       id="line10"
-       y2="896"
-       x2="192"
-       x1="192" />
-    <line
-       id="line12"
-       y2="896"
-       x2="256"
-       x1="256" />
-    <line
-       id="line14"
-       y2="896"
-       x2="320"
-       x1="320" />
-    <line
-       id="line16"
-       y2="896"
-       x2="384"
-       x1="384" />
-    <line
-       id="line18"
-       y2="896"
-       x2="448"
-       x1="448" />
-    <line
-       id="line20"
-       y2="896"
-       x2="512"
-       x1="512" />
-    <line
-       id="line22"
-       y2="896"
-       x2="576"
-       x1="576" />
-    <line
-       id="line24"
-       y2="896"
-       x2="640"
-       x1="640" />
-    <line
-       id="line26"
-       y2="896"
-       x2="704"
-       x1="704" />
-    <line
-       id="line28"
-       y2="64"
-       y1="64"
-       x2="768" />
-    <line
-       id="line30"
-       y2="128"
-       y1="128"
-       x2="768" />
-    <line
-       id="line32"
-       y2="192"
-       y1="192"
-       x2="768" />
-    <line
-       id="line34"
-       y2="256"
-       y1="256"
-       x2="768" />
-    <line
-       id="line36"
-       y2="320"
-       y1="320"
-       x2="768" />
-    <line
-       id="line38"
-       y2="384"
-       y1="384"
-       x2="768" />
-    <line
-       id="line40"
-       y2="448"
-       y1="448"
-       x2="768" />
-    <line
-       id="line42"
-       y2="512"
-       y1="512"
-       x2="768" />
-    <line
-       id="line44"
-       y2="576"
-       y1="576"
-       x2="768" />
-    <line
-       id="line46"
-       y2="640"
-       y1="640"
-       x2="768" />
-    <line
-       id="line48"
-       y2="704"
-       y1="704"
-       x2="768" />
-    <line
-       id="line50"
-       y2="768"
-       y1="768"
-       x2="768" />
-    <line
-       id="line52"
-       y2="832"
-       y1="832"
-       x2="768" />
-    <rect
-       id="rect54"
-       height="896"
-       width="768"
-       y="0"
-       x="0"
-       fill="none" />
-  </g>
   <path
      d="M 205.1324,832.5 461.87627,575.74112 384.15019,498.03005 434.03006,448.15019 511.74111,525.87626 768.5,269.1324 562.8676,63.500005 306.12373,320.25889 383.8498,397.96993 333.96994,447.8498 256.25889,370.12373 -0.5000018,626.86759 205.1324,832.5 z m 0,-100.36651 L 99.872521,626.8736 256.25588,470.49025 l 27.53831,27.53831 -50.34096,50.34096 50.18326,50.18326 50.34096,-50.34096 27.53831,27.53831 L 205.1324,732.13348 z M 511.75613,425.50976 484.21782,397.97145 534.55878,347.63047 484.37553,297.44722 434.03456,347.78818 406.48874,320.24236 562.8721,163.84399 668.144,269.10987 511.74562,425.49324 z"
      id="rect3870"

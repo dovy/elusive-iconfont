@@ -18,7 +18,7 @@
    data-du=""
    viewBox="0 0 768 896"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="print.svg">
+   sodipodi:docname="qrcode.svg">
   <defs
      id="defs32">
     <pattern
@@ -63,13 +63,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
      id="namedview30"
      showgrid="false"
      inkscape:zoom="0.52678571"
      inkscape:cx="819.66276"
-     inkscape:cy="97.651125"
+     inkscape:cy="249.51553"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -82,148 +82,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g4"
-     stroke="#B35047">
-    <line
-       id="line6"
-       y2="896"
-       x2="64"
-       x1="64" />
-    <line
-       id="line8"
-       y2="896"
-       x2="128"
-       x1="128" />
-    <line
-       id="line10"
-       y2="896"
-       x2="192"
-       x1="192" />
-    <line
-       id="line12"
-       y2="896"
-       x2="256"
-       x1="256" />
-    <line
-       id="line14"
-       y2="896"
-       x2="320"
-       x1="320" />
-    <line
-       id="line16"
-       y2="896"
-       x2="384"
-       x1="384" />
-    <line
-       id="line18"
-       y2="896"
-       x2="448"
-       x1="448" />
-    <line
-       id="line20"
-       y2="896"
-       x2="512"
-       x1="512" />
-    <line
-       id="line22"
-       y2="896"
-       x2="576"
-       x1="576" />
-    <line
-       id="line24"
-       y2="896"
-       x2="640"
-       x1="640" />
-    <line
-       id="line26"
-       y2="896"
-       x2="704"
-       x1="704" />
-    <line
-       id="line28"
-       y2="64"
-       y1="64"
-       x2="768" />
-    <line
-       id="line30"
-       y2="128"
-       y1="128"
-       x2="768" />
-    <line
-       id="line32"
-       y2="192"
-       y1="192"
-       x2="768" />
-    <line
-       id="line34"
-       y2="256"
-       y1="256"
-       x2="768" />
-    <line
-       id="line36"
-       y2="320"
-       y1="320"
-       x2="768" />
-    <line
-       id="line38"
-       y2="384"
-       y1="384"
-       x2="768" />
-    <line
-       id="line40"
-       y2="448"
-       y1="448"
-       x2="768" />
-    <line
-       id="line42"
-       y2="512"
-       y1="512"
-       x2="768" />
-    <line
-       id="line44"
-       y2="576"
-       y1="576"
-       x2="768" />
-    <line
-       id="line46"
-       y2="640"
-       y1="640"
-       x2="768" />
-    <line
-       id="line48"
-       y2="704"
-       y1="704"
-       x2="768" />
-    <line
-       id="line50"
-       y2="768"
-       y1="768"
-       x2="768" />
-    <line
-       id="line52"
-       y2="832"
-       y1="832"
-       x2="768" />
-    <rect
-       id="rect54"
-       height="896"
-       width="768"
-       y="0"
-       x="0"
-       fill="none" />
-  </g>
-  <g
-     id="g17692"
-     transform="matrix(1.5,0,0,1.5,-561.3267,-29.35475)">
-    <path
-       id="path17694"
-       d="M 374.2178,574.2364 V 341.5697 H 606.8845 V 574.2364 H 374.2178 z m 0,-279.3333 V 62.2364 H 606.8845 V 294.903 H 374.2178 z m 46.3333,233 h 140 v -140 h -140 v 140 z m 0,-279.3333 h 140 v -140 h -140 v 140 z m 46.6667,232.6667 v -47 h 47 v 47 h -47 z m 0,-279 v -46.3333 h 47 v 46.3333 h -47 z m 186.3333,372 V 341.5697 h 139 v 46.3333 h 47.3333 v -46.3333 h 46.3333 V 481.2364 H 746.2178 v -46.3333 h -46.3333 v 139.3333 h -46.3333 z m 0,-279.3333 V 62.2364 H 886.2178 V 294.903 H 653.5512 z m 46.3333,-46.3333 h 140 v -140 h -140 v 140 z m 46.3333,325.6667 v -46.3333 h 46.3333 v 46.3333 h -46.3333 z m 0,-372 v -46.3333 h 46.3333 v 46.3333 h -46.3333 z m 93.6667,372 v -46.3333 h 46.3333 v 46.3333 h -46.3333 z"
-       inkscape:connector-curvature="0"
-       style="fill:currentColor" />
-  </g>
+  <path
+     style="fill:currentColor"
+     inkscape:connector-curvature="0"
+     d="M 0,831.99985 V 482.9998 H 349.00005 V 831.99985 H 0 z M 0,412.9999 V 63.99985 h 349.00005 v 348.9999 H 0 z m 69.49995,349.5 h 210 v -210 h -210 v 210 z m 0,-418.99995 h 210 v -210 h -210 v 210 z M 139.5,692.5 V 622 H 210 v 70.5 h -70.5 z m 0,-418.5 V 204.50005 H 210 V 274 H 139.5 z M 418.99995,832 V 482.9998 h 208.5 v 69.49995 H 698.4999 V 482.9998 h 69.49995 V 692.49985 H 558 V 622.9999 H 488.50005 V 831.99985 H 419.0001 z m 0,-418.99995 V 63.99985 H 768 v 348.9999 H 419.0001 z M 488.4999,343.5001 h 210 v -210 h -210 v 210 z m 69.49995,488.50005 V 762.5002 h 69.49995 v 69.49995 h -69.49995 z m 0,-558 V 204.5002 h 69.49995 v 69.49995 h -69.49995 z m 140.50005,558 V 762.5002 h 69.49995 v 69.49995 H 698.4999 z"
+     id="path17694" />
 </svg>

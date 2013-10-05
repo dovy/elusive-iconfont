@@ -18,7 +18,7 @@
    data-du=""
    viewBox="0 0 768 896"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="vkontakte.svg">
+   sodipodi:docname="volume-down.svg">
   <defs
      id="defs32">
     <pattern
@@ -97,8 +97,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
      id="namedview30"
      showgrid="false"
      inkscape:zoom="0.52678571"
@@ -116,154 +116,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g4"
-     stroke="#B35047">
-    <line
-       id="line6"
-       y2="896"
-       x2="64"
-       x1="64" />
-    <line
-       id="line8"
-       y2="896"
-       x2="128"
-       x1="128" />
-    <line
-       id="line10"
-       y2="896"
-       x2="192"
-       x1="192" />
-    <line
-       id="line12"
-       y2="896"
-       x2="256"
-       x1="256" />
-    <line
-       id="line14"
-       y2="896"
-       x2="320"
-       x1="320" />
-    <line
-       id="line16"
-       y2="896"
-       x2="384"
-       x1="384" />
-    <line
-       id="line18"
-       y2="896"
-       x2="448"
-       x1="448" />
-    <line
-       id="line20"
-       y2="896"
-       x2="512"
-       x1="512" />
-    <line
-       id="line22"
-       y2="896"
-       x2="576"
-       x1="576" />
-    <line
-       id="line24"
-       y2="896"
-       x2="640"
-       x1="640" />
-    <line
-       id="line26"
-       y2="896"
-       x2="704"
-       x1="704" />
-    <line
-       id="line28"
-       y2="64"
-       y1="64"
-       x2="768" />
-    <line
-       id="line30"
-       y2="128"
-       y1="128"
-       x2="768" />
-    <line
-       id="line32"
-       y2="192"
-       y1="192"
-       x2="768" />
-    <line
-       id="line34"
-       y2="256"
-       y1="256"
-       x2="768" />
-    <line
-       id="line36"
-       y2="320"
-       y1="320"
-       x2="768" />
-    <line
-       id="line38"
-       y2="384"
-       y1="384"
-       x2="768" />
-    <line
-       id="line40"
-       y2="448"
-       y1="448"
-       x2="768" />
-    <line
-       id="line42"
-       y2="512"
-       y1="512"
-       x2="768" />
-    <line
-       id="line44"
-       y2="576"
-       y1="576"
-       x2="768" />
-    <line
-       id="line46"
-       y2="640"
-       y1="640"
-       x2="768" />
-    <line
-       id="line48"
-       y2="704"
-       y1="704"
-       x2="768" />
-    <line
-       id="line50"
-       y2="768"
-       y1="768"
-       x2="768" />
-    <line
-       id="line52"
-       y2="832"
-       y1="832"
-       x2="768" />
-    <rect
-       id="rect54"
-       height="896"
-       width="768"
-       y="0"
-       x="0"
-       fill="none" />
-  </g>
   <g
      id="g23079"
      transform="matrix(0.32689,0,0,-0.32689,269.64538,792.81872)" />
   <g
      id="g25109"
      transform="translate(-185.40373,503.27931)" />
-  <g
-     id="g25639"
-     transform="matrix(1.4468306,0,0,1.4468306,-424.64628,-12.434162)">
-    <path
-       id="path25641"
-       d="m 374.2178,225.6629 104.8862,0 157.7853,-128.5996 0,442.3462 -157.7853,-128.5996 -104.8862,0 z m 321.9551,-20.9772 c 31.0098,31.0098 46.8188,68.7081 47.4268,113.0947 0,42.5625 -15.8089,79.0447 -47.4268,109.4465 L 664.251,394.393 c 21.8893,-21.8893 32.8339,-47.7308 32.8339,-77.5246 0,-30.4018 -10.9446,-56.8514 -32.8339,-79.3487 z"
-       inkscape:connector-curvature="0"
-       style="fill:currentColor" />
-  </g>
+  <path
+     style="fill:currentColor"
+     inkscape:connector-curvature="0"
+     d="m 116.78348,314.06183 151.75257,0 228.2886,-186.06184 0,640.00002 -228.2886,-186.06184 -151.75257,0 z m 465.81449,-30.35046 c 44.86593,44.86593 67.73888,99.40898 68.61855,163.62887 0,61.58073 -22.8728,114.3643 -68.61855,158.35055 L 536.41239,558.1857 c 31.67011,-31.67011 47.50509,-69.05838 47.50509,-112.16496 0,-43.98626 -15.83498,-82.25435 -47.50509,-114.80413 z"
+     id="path25641" />
 </svg>

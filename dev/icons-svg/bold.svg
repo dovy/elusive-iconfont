@@ -1,43 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: IcoMoon.io -->
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="margin-top:9px;margin-left:10px;" xmlns="http://www.w3.org/2000/svg" version="1.1" data-tags="remove-circle, cancel, close, remove, delete" height="896" width="768" data-du="" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 768 896">
- <metadata id="metadata62">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="g4" stroke="#B35047">
-  <line id="line6" y2="896" x2="64" x1="64"/>
-  <line id="line8" y2="896" x2="128" x1="128"/>
-  <line id="line10" y2="896" x2="192" x1="192"/>
-  <line id="line12" y2="896" x2="256" x1="256"/>
-  <line id="line14" y2="896" x2="320" x1="320"/>
-  <line id="line16" y2="896" x2="384" x1="384"/>
-  <line id="line18" y2="896" x2="448" x1="448"/>
-  <line id="line20" y2="896" x2="512" x1="512"/>
-  <line id="line22" y2="896" x2="576" x1="576"/>
-  <line id="line24" y2="896" x2="640" x1="640"/>
-  <line id="line26" y2="896" x2="704" x1="704"/>
-  <line id="line28" y2="64" y1="64" x2="768"/>
-  <line id="line30" y2="128" y1="128" x2="768"/>
-  <line id="line32" y2="192" y1="192" x2="768"/>
-  <line id="line34" y2="256" y1="256" x2="768"/>
-  <line id="line36" y2="320" y1="320" x2="768"/>
-  <line id="line38" y2="384" y1="384" x2="768"/>
-  <line id="line40" y2="448" y1="448" x2="768"/>
-  <line id="line42" y2="512" y1="512" x2="768"/>
-  <line id="line44" y2="576" y1="576" x2="768"/>
-  <line id="line46" y2="640" y1="640" x2="768"/>
-  <line id="line48" y2="704" y1="704" x2="768"/>
-  <line id="line50" y2="768" y1="768" x2="768"/>
-  <line id="line52" y2="832" y1="832" x2="768"/>
-  <rect id="rect54" height="896" width="768" y="0" x="0" fill="none"/>
- </g>
- <g id="g4089" letter-spacing="0" font-family="Serif" font-size="40px" transform="matrix(25.869121,0,0,26.371471,-11996.118,-11183.413)" word-spacing="0" style="word-spacing:0;letter-spacing:0;" font-weight="bold">
-  <path id="path4091" d="m463.7,455.64,0-2.3633,3.7305,0,0-24.434-3.7305,0,0-2.3633,17.285,0c3.5547,0.00003,6.2239,0.599,8.0078,1.7969,1.7838,1.1979,2.6757,3.0013,2.6758,5.4102-0.00003,1.7318-0.6185,3.1055-1.8555,4.1211-1.224,1.0156-3.0469,1.6537-5.4688,1.9141,2.9297,0.2735,5.1758,1.0547,6.7383,2.3438s2.3437,3.0013,2.3438,5.1367c-0.00003,2.8906-1.0938,5.0195-3.2812,6.3867-2.1745,1.3672-5.586,2.0508-10.234,2.0508h-16.211m11.25-16.992,2.5586,0c2.2396,0.00002,3.8997-0.4036,4.9805-1.2109,1.0807-0.8203,1.6211-2.0703,1.6211-3.75-0.00002-1.6927-0.5274-2.9232-1.582-3.6914-1.0417-0.7682-2.7149-1.1523-5.0195-1.1523h-2.5586v9.8047m0,14.629,2.793,0c2.487,0,4.3294-0.4948,5.5273-1.4844s1.7969-2.5195,1.7969-4.5899c-0.00002-2.0833-0.6055-3.6393-1.8164-4.668-1.2109-1.0286-3.0469-1.543-5.5078-1.543h-2.793v12.285"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   style="margin-top:9px;margin-left:10px;"
+   version="1.1"
+   data-tags="remove-circle, cancel, close, remove, delete"
+   height="896"
+   width="768"
+   data-du=""
+   viewBox="0 0 768 896"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="bold.svg">
+  <defs
+     id="defs3042" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3040"
+     showgrid="false"
+     inkscape:zoom="0.26339286"
+     inkscape:cx="384"
+     inkscape:cy="448"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata62">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="font-size:40px;font-weight:bold;letter-spacing:0;word-spacing:0;font-family:Serif"
+     d="M -0.59375 63.46875 L -0.59375 125.8125 L 95.90625 125.8125 L 95.90625 770.15625 L -0.59375 770.15625 L -0.59375 832.46875 L 418.75 832.46875 C 538.98968 832.46875 627.24759 814.46133 683.5 778.40625 C 740.08611 742.35118 768.37422 686.19812 768.375 609.96875 C 768.37241 553.65511 748.1705 508.49547 707.75 474.5 C 667.3295 440.50454 609.22627 419.9001 533.4375 412.6875 C 596.08993 405.82037 643.24245 389.00161 674.90625 362.21875 C 706.90635 335.43588 722.90547 299.20136 722.90625 253.53125 C 722.90366 190.00501 699.83284 142.46538 653.6875 110.875 C 607.53958 79.28461 538.48822 63.469541 446.53125 63.46875 L -0.59375 63.46875 z M 290.4375 125.8125 L 356.625 125.8125 C 416.24298 125.8125 459.52088 135.92894 486.46875 156.1875 C 513.75032 176.44607 527.40574 208.89226 527.40625 253.53125 C 527.40625 297.82741 513.42551 330.80498 485.46875 352.4375 C 457.50941 373.72718 414.56148 384.37553 356.625 384.375 L 290.4375 384.375 L 290.4375 125.8125 z M 290.4375 446.1875 L 362.6875 446.1875 C 426.34882 446.1875 473.83133 459.74931 505.15625 486.875 C 536.48117 514.00334 552.15573 555.02906 552.15625 609.96875 C 552.15625 664.56824 536.64487 704.93405 505.65625 731.03125 C 474.66763 757.12846 427.02401 770.15625 362.6875 770.15625 L 290.4375 770.15625 L 290.4375 446.1875 z "
+     id="path2993" />
 </svg>

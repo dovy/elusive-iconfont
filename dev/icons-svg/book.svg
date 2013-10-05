@@ -1,41 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: IcoMoon.io -->
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="margin-top:9px;margin-left:10px;" xmlns="http://www.w3.org/2000/svg" data-tags="remove-circle, cancel, close, remove, delete" height="896" viewBox="0 0 768 896" width="768" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" data-du="">
- <metadata id="metadata62">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="g4" stroke="#B35047">
-  <line id="line6" x2="64" x1="64" y2="896"/>
-  <line id="line8" x2="128" x1="128" y2="896"/>
-  <line id="line10" x2="192" x1="192" y2="896"/>
-  <line id="line12" x2="256" x1="256" y2="896"/>
-  <line id="line14" x2="320" x1="320" y2="896"/>
-  <line id="line16" x2="384" x1="384" y2="896"/>
-  <line id="line18" x2="448" x1="448" y2="896"/>
-  <line id="line20" x2="512" x1="512" y2="896"/>
-  <line id="line22" x2="576" x1="576" y2="896"/>
-  <line id="line24" x2="640" x1="640" y2="896"/>
-  <line id="line26" x2="704" x1="704" y2="896"/>
-  <line id="line28" y1="64" x2="768" y2="64"/>
-  <line id="line30" y1="128" x2="768" y2="128"/>
-  <line id="line32" y1="192" x2="768" y2="192"/>
-  <line id="line34" y1="256" x2="768" y2="256"/>
-  <line id="line36" y1="320" x2="768" y2="320"/>
-  <line id="line38" y1="384" x2="768" y2="384"/>
-  <line id="line40" y1="448" x2="768" y2="448"/>
-  <line id="line42" y1="512" x2="768" y2="512"/>
-  <line id="line44" y1="576" x2="768" y2="576"/>
-  <line id="line46" y1="640" x2="768" y2="640"/>
-  <line id="line48" y1="704" x2="768" y2="704"/>
-  <line id="line50" y1="768" x2="768" y2="768"/>
-  <line id="line52" y1="832" x2="768" y2="832"/>
-  <rect id="rect54" height="896" width="768" y="0" x="0" fill="none"/>
- </g>
- <path id="path4155" d="M291.05369,71.037723c-48.77398-25.672307-144.89982,23.932589-172.51358,67.603277-12.30186,19.54135-11.432,33.62387-11.432,41.61438v427.43901l360.4769,224.30561,67.78703-37.01342-0.00035-416.27366-370.11425-212.50111c19.86094-24.99619,64.52931-55.47719,98.02236-43.23525l329.66732,176.31859,0.00007,463.73137,67.95781-37.07933,0.00024-463.72139z"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   style="margin-top:9px;margin-left:10px;"
+   data-tags="remove-circle, cancel, close, remove, delete"
+   height="896"
+   viewBox="0 0 768 896"
+   width="768"
+   version="1.1"
+   data-du=""
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="book.svg">
+  <defs
+     id="defs3075" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview3073"
+     showgrid="false"
+     inkscape:zoom="0.26339286"
+     inkscape:cx="384"
+     inkscape:cy="448"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata62">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 291.05369,71.037723 C 242.27971,45.365416 146.15387,94.970312 118.54011,138.641 c -12.30186,19.54135 -11.432,33.62387 -11.432,41.61438 V 607.69439 L 467.58501,832 535.37204,794.98658 535.37169,378.71292 165.25744,166.21181 c 19.86094,-24.99619 64.52931,-55.47719 98.02236,-43.23525 l 329.66732,176.31859 7e-5,463.73137 67.95781,-37.07933 2.4e-4,-463.72139 z"
+     id="path4155" />
 </svg>

@@ -1,40 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: IcoMoon.io -->
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="margin-top:9px;margin-left:10px;" xmlns="http://www.w3.org/2000/svg" data-tags="remove-circle, cancel, close, remove, delete" height="896" viewBox="0 0 768 896" width="768" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" data-du="">
- <metadata id="metadata62">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="g4" stroke="#B35047">
-  <line id="line6" x2="64" x1="64" y2="896"/>
-  <line id="line8" x2="128" x1="128" y2="896"/>
-  <line id="line10" x2="192" x1="192" y2="896"/>
-  <line id="line12" x2="256" x1="256" y2="896"/>
-  <line id="line14" x2="320" x1="320" y2="896"/>
-  <line id="line16" x2="384" x1="384" y2="896"/>
-  <line id="line18" x2="448" x1="448" y2="896"/>
-  <line id="line20" x2="512" x1="512" y2="896"/>
-  <line id="line22" x2="576" x1="576" y2="896"/>
-  <line id="line24" x2="640" x1="640" y2="896"/>
-  <line id="line26" x2="704" x1="704" y2="896"/>
-  <line id="line28" y1="64" x2="768" y2="64"/>
-  <line id="line30" y1="128" x2="768" y2="128"/>
-  <line id="line32" y1="192" x2="768" y2="192"/>
-  <line id="line34" y1="256" x2="768" y2="256"/>
-  <line id="line36" y1="320" x2="768" y2="320"/>
-  <line id="line38" y1="384" x2="768" y2="384"/>
-  <line id="line40" y1="448" x2="768" y2="448"/>
-  <line id="line42" y1="512" x2="768" y2="512"/>
-  <line id="line44" y1="576" x2="768" y2="576"/>
-  <line id="line46" y1="640" x2="768" y2="640"/>
-  <line id="line48" y1="704" x2="768" y2="704"/>
-  <line id="line50" y1="768" x2="768" y2="768"/>
-  <line id="line52" y1="832" x2="768" y2="832"/>
-  <rect id="rect54" height="896" width="768" y="0" x="0" fill="none"/>
- </g>
- <path id="path3711" fill="currentColor" d="m401.26,298.43c8.7212-72.898,101.6-50.563,101.75,2.5021l-5.0043,200.17c-8.2622,79.467-87.954,77.404-90.912-1.6681zm-136.78,3.3328c0.37111-69.273,95.919-60.707,101.75-4.1702l6.6723,194.33c0.38011,99.344-88.129,70.626-90.912,7.5063zm-32.529,35.861,16.681,164.31c5.2591,65.365-62.15,85.729-78.399,25.855l-28.357-170.14c-9.7919-75.625,80.525-80.365,90.078-20.017zm512.93,12.927c34.15,25.276,29.711,68.807-3.3362,88.829-140.78,61.233-137.95,240.81-240.62,318.59-11.957,8.897-29.329,13.345-52.126,13.345h-276.06c-51.681-3.15-74.827-50.06-82.569-91.74l-90.07-507.1c-7.5451-62.42,59.589-59.41,74.229-15.84l41.702,144.29c-8.4788,16.057-11.626,33.734-10.009,50.877,8.3704,53.685,17.705,107.34,26.689,160.97,5.7656,71.04,88.229,120.53,135.95,58.383,33.439,39.541,94.894,37.702,122.61-4.1702,28.502,38.773,81.771,43.603,113.85,10.843,33.863-39.411,27.47-90.095,28.774-140.95,18.771,6.5948,36.24-7.7761,47.54-18.349,33.738-31.522,117.42-97.161,163.47-67.974z"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   style="margin-top:9px;margin-left:10px;"
+   data-tags="remove-circle, cancel, close, remove, delete"
+   height="896"
+   viewBox="0 0 768 896"
+   width="768"
+   version="1.1"
+   data-du=""
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="asl.svg">
+  <defs
+     id="defs3143" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview3141"
+     showgrid="false"
+     inkscape:zoom="1.0535714"
+     inkscape:cx="478.63051"
+     inkscape:cy="353.02243"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata62">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path3711"
+     d="m 401.26,298.43 c 4.1576,-34.7522 27.44132,-47.86123 50.68678,-46.31552 25.51541,1.69666 50.98473,21.04991 51.06322,48.81762 l -5.0043,200.17 c -3.98275,38.30665 -24.5634,57.66841 -45.14595,58.59166 -22.11587,0.99204 -44.23394,-19.30395 -45.76605,-60.25976 z m -136.78,3.3328 c 0.16818,-31.39269 19.88246,-46.79988 41.93542,-49.00129 26.61042,-2.65635 56.62604,13.91527 59.81458,44.83109 l 6.6723,194.33 c 0.17722,46.31843 -18.96851,64.79844 -39.7394,64.93277 -23.77863,0.15378 -49.68715,-23.73588 -51.1726,-57.42647 z m -32.529,35.861 16.681,164.31 c 2.7906,34.68422 -14.87937,56.69789 -34.50956,60.77649 -17.36436,3.60782 -36.26255,-6.81806 -43.88944,-34.92149 l -28.357,-170.14 c -4.65633,-35.96186 13.3247,-55.89467 34.49382,-60.42177 23.3479,-4.99305 50.57391,8.75398 55.58418,40.40477 z m 512.93,12.927 c 34.15,25.276 29.711,68.807 -3.3362,88.829 -140.78,61.233 -137.95,240.81 -240.62,318.59 -11.957,8.897 -29.329,13.345 -52.126,13.345 l -276.06,0 c -51.681,-3.15 -74.827,-50.06 -82.569,-91.74 l -90.07,-507.1 c -7.5451,-62.42 59.589,-59.41 74.229,-15.84 l 41.702,144.29 c -8.4788,16.057 -11.626,33.734 -10.009,50.877 8.3704,53.685 17.705,107.34 26.689,160.97 5.7656,71.04 88.229,120.53 135.95,58.383 33.439,39.541 94.894,37.702 122.61,-4.1702 28.502,38.773 81.771,43.603 113.85,10.843 33.863,-39.411 27.47,-90.095 28.774,-140.95 18.771,6.5948 36.24,-7.7761 47.54,-18.349 33.738,-31.522 117.42,-97.161 163.47,-67.974 z"
+     inkscape:connector-curvature="0"
+     style="fill:currentColor"
+     sodipodi:nodetypes="csccscccsccsccccsccscccccscccccccccccccc" />
 </svg>
