@@ -10,12 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   style="margin-top:9px;margin-left:10px;"
    data-tags="remove-circle, cancel, close, remove, delete"
-   height="896"
-   width="768"
+   height="1200"
+   width="1200"
    version="1.1"
-   viewBox="0 0 768 896"
+   viewBox="0 0 1200 1200"
    data-du=""
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="lines.svg">
@@ -30,16 +29,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
      id="namedview3145"
      showgrid="false"
      inkscape:zoom="0.26339286"
-     inkscape:cx="384"
+     inkscape:cx="-67.796606"
      inkscape:cy="448"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <metadata
      id="metadata4">
@@ -55,6 +54,7 @@
   </metadata>
   <path
      id="rect3039"
-     fill="#000"
-     d="m64,128,0,128,640,0,0-128-640,0zm0,256,0,128,640,0,0-128-640,0zm0,256,0,128,640,0,0-128-640,0z" />
+     d="M 0,0 0,240 1200,240 1200,0 0,0 z m 0,480 0,240 1200,0 0,-240 -1200,0 z m 0,480 0,240 1200,0 0,-240 -1200,0 z"
+     inkscape:connector-curvature="0"
+     style="fill:#000000" />
 </svg>
