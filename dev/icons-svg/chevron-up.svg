@@ -10,11 +10,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   style="margin-top:9px;margin-left:10px;"
    data-tags="remove-circle, cancel, close, remove, delete"
-   height="896"
-   viewBox="0 0 768 896"
-   width="768"
+   height="1200"
+   viewBox="0 0 1200 1200"
+   width="1200"
    version="1.1"
    data-du=""
    inkscape:version="0.48.4 r9939"
@@ -30,16 +29,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
      id="namedview3310"
      showgrid="false"
      inkscape:zoom="0.26339286"
-     inkscape:cx="384"
+     inkscape:cx="-67.796606"
      inkscape:cy="448"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <metadata
      id="metadata62">
@@ -56,6 +55,6 @@
   <path
      style="font-size:1353.90197754px;font-style:italic;letter-spacing:0;word-spacing:0;font-family:Serif"
      inkscape:connector-curvature="0"
-     d="M 383.99907,240.01382 288.53533,335.4856 63.500009,560.48661 158.96592,656.01463 383.99907,430.94934 609.03223,656.01463 704.49597,560.48661 479.47085,335.4856 383.99907,240.01382 z"
+     d="M 600.00203,421.21043 421.28564,599.94187 4.5e-6,1021.1633 178.72047,1200 600.00203,778.65827 1021.2836,1200 1200,1021.1633 778.73348,599.94187 600.00203,421.21043 z"
      id="path3578" />
 </svg>
