@@ -353,7 +353,8 @@
 .icon-phone-alt:before {
 	content: "\e66d";
 }
-.icon-phone:before {
+.icon-phone:before,
+.icon-earphone:before {
 	content: "\e66e";
 }
 .icon-person:before {
@@ -374,10 +375,12 @@
 .icon-path:before {
 	content: "\e674";
 }
-.icon-paper-clip-alt:before {
+.icon-paper-clip-alt:before,
+.icon-paperclip-alt:before {
 	content: "\e675";
 }
-.icon-paper-clip:before {
+.icon-paper-clip:before,
+.icon-paperclip:before {
 	content: "\e676";
 }
 .icon-opensource:before {
@@ -788,7 +791,8 @@
 .icon-chevron-down:before {
 	content: "\e6fe";
 }
-.icon-check-empty:before {
+.icon-check-empty:before,
+.icon-unchecked:before {
 	content: "\e6ff";
 }
 .icon-check:before {
