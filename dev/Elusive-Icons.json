@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "Elusive-Icons",
-		"lastOpened": 1383750602853,
+		"lastOpened": 1383753122448,
 		"created": 1383750280639
 	},
 	"iconSets": [
@@ -5701,7 +5701,7 @@
 	],
 	"preferences": {
 		"fontPref": {
-			"prefix": "icon-",
+			"prefix": "el-icon-",
 			"metadata": {
 				"fontFamily": "Elusive-Icons",
 				"fontURL": "http://shoestrap.org",
