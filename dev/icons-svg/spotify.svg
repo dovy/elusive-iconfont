@@ -1,128 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   data-tags="remove-circle, cancel, close, remove, delete"
-   height="1200"
-   width="1200"
-   data-du=""
-   viewBox="0 0 1200 1200"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="spotify.svg">
-  <defs
-     id="defs32">
-    <pattern
-       id="pattern13199"
-       width="811.3138"
-       patternUnits="userSpaceOnUse"
-       patternTransform="translate(-1692.9959,113.8855)"
-       height="483.7205">
-      <path
-         id="path13201"
-         filter="url(#filter3767)"
-         d="M241.8603,83.1823H569.4535A158.678,158.678 0 0 1 728.1315,241.8603V241.8603A158.678,158.678 0 0 1 569.4535,400.5382H241.8603A158.678,158.678 0 0 1 83.1823,241.8603V241.8603A158.678,158.678 0 0 1 241.8603,83.1823" />
-    </pattern>
-    <mask
-       id="mask13195"
-       maskUnits="userSpaceOnUse">
-      <path
-         id="path13197"
-         d="m -957.1864,582.2458 40.9492,-299.4407 -144.6017,-8.9576 -10.2373,67.822 -12.7966,11.5169 -8.9576,216.2627 -65.2627,-21.7542 14.0763,-270.0085 -74.2204,-6.3983 -11.5169,28.1525 -14.0763,225.2203 -42.2288,-8.9576 2.5593,-250.8136 -6.3983,0 -7.678,-70.3814 -33.2712,1.2797 -1.2796,29.4322 -7.678,17.9153 -2.5593,189.3898 -26.8729,33.2712 2.5593,88.2966 40.9492,19.1949 34.5508,-46.0678 284.0848,76.7797 49.9068,-21.7542"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke:#000000" />
-    </mask>
-    <filter
-       id="filter13191"
-       y="-0.26210001"
-       x="-0.12899999"
-       width="1.2579"
-       height="1.5242"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur13193"
-         stdDeviation="34.659" />
-    </filter>
-    <inkscape:path-effect
-       id="path-effect13189" />
-    <inkscape:path-effect
-       id="path-effect21802" />
-    <pattern
-       id="pattern16"
-       width="811.3138"
-       patternUnits="userSpaceOnUse"
-       patternTransform="translate(-1692.9959,113.8855)"
-       height="483.7205">
-      <path
-         id="path18"
-         filter="url(#filter3767)"
-         d="M241.8603,83.1823H569.4535A158.678,158.678 0 0 1 728.1315,241.8603V241.8603A158.678,158.678 0 0 1 569.4535,400.5382H241.8603A158.678,158.678 0 0 1 83.1823,241.8603V241.8603A158.678,158.678 0 0 1 241.8603,83.1823" />
-    </pattern>
-    <mask
-       id="mask12"
-       maskUnits="userSpaceOnUse">
-      <path
-         id="path14"
-         d="m -957.1864,582.2458 40.9492,-299.4407 -144.6017,-8.9576 -10.2373,67.822 -12.7966,11.5169 -8.9576,216.2627 -65.2627,-21.7542 14.0763,-270.0085 -74.2204,-6.3983 -11.5169,28.1525 -14.0763,225.2203 -42.2288,-8.9576 2.5593,-250.8136 -6.3983,0 -7.678,-70.3814 -33.2712,1.2797 -1.2796,29.4322 -7.678,17.9153 -2.5593,189.3898 -26.8729,33.2712 2.5593,88.2966 40.9492,19.1949 34.5508,-46.0678 284.0848,76.7797 49.9068,-21.7542"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke:#000000" />
-    </mask>
-    <filter
-       id="filter8"
-       y="-0.26210001"
-       x="-0.12899999"
-       width="1.2579"
-       height="1.5242"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur10"
-         stdDeviation="34.659" />
-    </filter>
-    <inkscape:path-effect
-       id="path-effect6" />
-  </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview30"
-     showgrid="false"
-     inkscape:zoom="0.52678571"
-     inkscape:cx="593.76445"
-     inkscape:cy="629.17656"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata62">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     d="M 600,0 C 268.62914,0 0,268.62352 0,600 0,744.55828 51.154453,877.12711 136.30359,980.71289 372.07336,730.75523 840.60844,807.12984 957.27539,1082.0067 1104.5303,972.66984 1200,797.50078 1200,600 1200,268.62352 931.37086,0 600,0 z m 360.64453,312.37781 c 55.03637,18.10594 33.66774,111.4425 -7.83703,108.91125 -228.64336,-72.82031 -404.42438,-110.31445 -669.21375,-69.58008 -55.03617,-18.10617 -33.66773,-111.4425 7.83703,-108.91125 236.04727,-20.56828 441.27117,-14.69554 669.21375,69.58008 z m -78.29578,176.58703 c 46.59258,15.375 28.57336,94.4386 -6.66516,92.28516 -193.73929,-61.6793 -342.67757,-93.43617 -567.04101,-58.95984 -46.64391,-15.3436 -28.50047,-94.42899 6.66515,-92.28516 199.76086,-17.66719 374.19071,-12.28594 567.04102,58.95984 z m -64.01367,174.53625 c 39.22383,12.9286 24.07172,79.52157 -5.56641,77.70985 -163.19297,-52.00735 -288.67336,-78.73969 -477.68555,-49.65821 -39.25195,-12.95179 -24.05062,-79.5246 5.63954,-77.70984 168.74906,-14.70914 314.5207,-10.66758 477.61218,49.6582 z m -285.9375,338.89171 c -92.55258,0 -175.84031,49.6814 -214.89258,127.0753 C 401.69086,1174.4798 497.8643,1200 600,1200 c 61.70039,0 121.22531,-9.2892 177.24609,-26.587 -45.14976,-94.2702 -148.42476,-171.0205 -244.84875,-171.0205 z"
-     id="path28"
-     inkscape:connector-curvature="0" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.48.4 r9939" sodipodi:docname="spotify.svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="1200px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<path id="path28" inkscape:connector-curvature="0" d="M600,0C268.629,0,0,268.624,0,600c0,144.559,51.154,277.127,136.304,380.713
+	c235.77-249.958,704.305-173.583,820.972,101.294C1104.53,972.67,1200,797.501,1200,600C1200,268.624,931.371,0,600,0z
+	 M960.645,312.378c55.036,18.106,33.668,111.442-7.837,108.911c-228.644-72.82-404.425-110.314-669.214-69.58
+	c-55.036-18.106-33.668-111.442,7.837-108.911C527.479,222.229,732.702,228.102,960.645,312.378z M882.349,488.965
+	c46.593,15.375,28.573,94.438-6.665,92.285c-193.739-61.68-342.678-93.437-567.041-58.96c-46.644-15.344-28.5-94.429,6.665-92.285
+	C515.068,412.338,689.498,417.719,882.349,488.965z M818.335,663.501c39.224,12.929,24.072,79.521-5.566,77.71
+	c-163.192-52.008-288.673-78.739-477.686-49.658c-39.252-12.952-24.051-79.524,5.64-77.71
+	C509.472,599.134,655.243,603.176,818.335,663.501L818.335,663.501z M532.397,1002.393c-92.553,0-175.84,49.682-214.893,127.075
+	C401.69,1174.479,497.864,1200,600,1200c61.7,0,121.226-9.289,177.246-26.587C732.097,1079.143,628.821,1002.393,532.397,1002.393
+	L532.397,1002.393z"/>
 </svg>

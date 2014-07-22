@@ -1,94 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   data-tags="remove-circle, cancel, close, remove, delete"
-   height="1200"
-   width="1200"
-   data-du=""
-   viewBox="0 0 1200 1200"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="person.svg">
-  <defs
-     id="defs32">
-    <pattern
-       id="pattern13199"
-       width="811.3138"
-       patternUnits="userSpaceOnUse"
-       patternTransform="translate(-1692.9959,113.8855)"
-       height="483.7205">
-      <path
-         id="path13201"
-         filter="url(#filter3767)"
-         d="M241.8603,83.1823H569.4535A158.678,158.678 0 0 1 728.1315,241.8603V241.8603A158.678,158.678 0 0 1 569.4535,400.5382H241.8603A158.678,158.678 0 0 1 83.1823,241.8603V241.8603A158.678,158.678 0 0 1 241.8603,83.1823" />
-    </pattern>
-    <mask
-       id="mask13195"
-       maskUnits="userSpaceOnUse">
-      <path
-         id="path13197"
-         d="m -957.1864,582.2458 40.9492,-299.4407 -144.6017,-8.9576 -10.2373,67.822 -12.7966,11.5169 -8.9576,216.2627 -65.2627,-21.7542 14.0763,-270.0085 -74.2204,-6.3983 -11.5169,28.1525 -14.0763,225.2203 -42.2288,-8.9576 2.5593,-250.8136 -6.3983,0 -7.678,-70.3814 -33.2712,1.2797 -1.2796,29.4322 -7.678,17.9153 -2.5593,189.3898 -26.8729,33.2712 2.5593,88.2966 40.9492,19.1949 34.5508,-46.0678 284.0848,76.7797 49.9068,-21.7542"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke:#000000" />
-    </mask>
-    <filter
-       id="filter13191"
-       y="-0.26210001"
-       x="-0.12899999"
-       width="1.2579"
-       height="1.5242"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur13193"
-         stdDeviation="34.659" />
-    </filter>
-    <inkscape:path-effect
-       id="path-effect13189" />
-  </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview30"
-     showgrid="false"
-     inkscape:zoom="0.52678571"
-     inkscape:cx="593.76445"
-     inkscape:cy="629.17655"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata62">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="fill:currentColor"
-     inkscape:connector-curvature="0"
-     d="m 719.57078,272.03492 c 18.46055,0 35.45204,3.56578 50.9747,10.69851 46.07884,23.19282 73.28439,67.27198 73.63033,116.42394 l 0,338.57353 c -8.64306,53.82494 -70.24995,39.1868 -71.74243,0 l 0,-319.69415 c -5.49143,-18.23133 -40.69339,-10.67133 -41.53502,0 l 0,733.78585 c -8.9515,74.9271 -105.77394,52.9339 -108.24285,-1.2586 0,-149.7778 0,-299.55588 0,-449.33374 -6.19148,-28.98188 -46.93477,-15.81281 -47.82821,1.2586 1.72734,149.35316 1.25859,298.71514 1.25859,448.07514 -9.65647,74.543 -106.00689,55.4701 -108.24284,1.2586 l -1.25859,-733.78585 c -5.64236,-17.83735 -38.26268,-10.9957 -39.01784,0 l 0,319.69415 c -8.64305,53.82494 -70.24994,39.1868 -71.74243,0 l 0,-338.57353 c 0.8707,-47.05548 18.11766,-94.19721 59.15603,-116.42394 13.42594,-7.13273 29.78813,-10.69851 49.08681,-10.69851 85.16791,0 170.33559,0 255.50351,0 z m -1.27031,-153.75731 c 0,65.3229 -52.95471,118.2776 -118.27761,118.2776 -65.32292,0 -118.27762,-52.9547 -118.27762,-118.2776 C 481.74524,52.954694 534.69994,5.7040397e-6 600.02286,5.7040397e-6 665.34576,5.7040397e-6 718.30047,52.954694 718.30047,118.27761 z"
-     id="path16023" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.48.4 r9939" sodipodi:docname="person.svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="1200px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<path id="path16023" inkscape:connector-curvature="0" d="M719.57,272.035c18.461,0,35.452,3.565,50.976,10.698
+	c46.078,23.193,73.284,67.272,73.63,116.424V737.73c-8.643,53.825-70.25,39.188-71.742,0V418.037
+	c-5.491-18.231-40.693-10.672-41.535,0v733.785c-8.951,74.928-105.774,52.934-108.243-1.258c0-149.778,0-299.557,0-449.334
+	c-6.191-28.982-46.935-15.813-47.828,1.259c1.728,149.353,1.259,298.715,1.259,448.075c-9.656,74.543-106.007,55.47-108.243,1.258
+	l-1.258-733.785c-5.643-17.838-38.263-10.996-39.019,0V737.73c-8.643,53.825-70.25,39.188-71.742,0V399.157
+	c0.871-47.055,18.117-94.197,59.156-116.424c13.426-7.133,29.788-10.699,49.087-10.699
+	C549.235,272.035,634.402,272.035,719.57,272.035L719.57,272.035z M718.301,118.277c0,65.323-52.955,118.278-118.278,118.278
+	c-65.322,0-118.277-52.955-118.277-118.278C481.745,52.955,534.7,0,600.022,0C665.346,0,718.301,52.955,718.301,118.277z"/>
 </svg>
