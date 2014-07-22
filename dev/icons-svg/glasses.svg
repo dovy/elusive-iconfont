@@ -1,60 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   data-tags="remove-circle, cancel, close, remove, delete"
-   height="1200"
-   width="1200"
-   data-du=""
-   viewBox="0 0 1200 1200"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="glasses.svg">
-  <defs
-     id="defs32" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview30"
-     showgrid="false"
-     inkscape:zoom="0.26339286"
-     inkscape:cx="624.89631"
-     inkscape:cy="48.981782"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata62">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="fill:currentColor"
-     inkscape:connector-curvature="0"
-     d="m 1118.9486,592.89254 -386.47821,0 49.90942,227.79179 312.25389,0 z m -652.66187,0 -386.478189,0 24.314859,227.79179 312.25389,0 z m 723.04697,-66.5459 c 8.5358,9.38425 11.9488,19.62208 10.2378,30.71349 l -33.273,307.13498 c -4.5642,20.08113 -18.8781,35.56035 -38.3918,35.83242 l -376.24039,0 C 731.43367,898.6828 718.02722,885.99248 714.55417,868.0343 L 654.40691,600.57092 C 621.86007,580.30014 579.06234,583.2535 544.35021,598.01147 L 484.20293,868.0343 c -4.77197,19.45162 -18.65358,31.76787 -37.11214,31.99323 l -376.240354,0 C 49.684741,898.35569 35.549493,883.08648 33.738292,864.19511 L 0.46533659,557.06013 C -1.2409262,545.11642 1.7450656,534.87859 9.4234402,526.34664 L 441.97187,303.67377 c 20.74813,-9.25525 41.29636,-0.36638 49.90944,17.91622 7.22241,20.88235 2.53297,44.66804 -16.63648,53.74861 l -273.86202,124.13372 792.1523,0 L 719.67308,375.3386 c -20.31531,-11.51576 -25.56988,-34.70945 -17.9162,-53.74861 10.86182,-19.47864 32.86421,-25.94524 51.18916,-17.91622 z"
-     id="path10249" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.48.4 r9939" sodipodi:docname="glasses.svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="1200px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<path id="path10249" inkscape:connector-curvature="0" d="M1118.948,592.893H732.471l49.909,227.792h312.254L1118.948,592.893z
+	 M466.287,592.893H79.809l24.315,227.792h312.253L466.287,592.893z M1189.334,526.347c8.535,9.384,11.948,19.622,10.237,30.714
+	l-33.272,307.135c-4.564,20.081-18.878,35.561-38.393,35.832h-376.24c-20.232-1.345-33.639-14.035-37.111-31.993l-60.147-267.463
+	c-32.547-20.271-75.345-17.317-110.057-2.56l-60.147,270.022c-4.772,19.452-18.653,31.768-37.112,31.993H70.851
+	c-21.166-1.672-35.301-16.94-37.112-35.832L0.465,557.061c-1.706-11.944,1.28-22.182,8.958-30.714l432.548-222.673
+	c20.748-9.255,41.297-0.366,49.909,17.916c7.223,20.882,2.533,44.668-16.636,53.749L201.383,499.473h792.152L719.673,375.338
+	c-20.315-11.516-25.569-34.709-17.916-53.749c10.862-19.479,32.864-25.945,51.189-17.916L1189.334,526.347z"/>
 </svg>

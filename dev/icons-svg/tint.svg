@@ -1,132 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   data-tags="remove-circle, cancel, close, remove, delete"
-   height="1200"
-   width="1200"
-   data-du=""
-   viewBox="0 0 1200 1200"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tint.svg">
-  <defs
-     id="defs32">
-    <pattern
-       id="pattern13199"
-       width="811.3138"
-       patternUnits="userSpaceOnUse"
-       patternTransform="translate(-1692.9959,113.8855)"
-       height="483.7205">
-      <path
-         id="path13201"
-         filter="url(#filter3767)"
-         d="M241.8603,83.1823H569.4535A158.678,158.678 0 0 1 728.1315,241.8603V241.8603A158.678,158.678 0 0 1 569.4535,400.5382H241.8603A158.678,158.678 0 0 1 83.1823,241.8603V241.8603A158.678,158.678 0 0 1 241.8603,83.1823" />
-    </pattern>
-    <mask
-       id="mask13195"
-       maskUnits="userSpaceOnUse">
-      <path
-         id="path13197"
-         d="m -957.1864,582.2458 40.9492,-299.4407 -144.6017,-8.9576 -10.2373,67.822 -12.7966,11.5169 -8.9576,216.2627 -65.2627,-21.7542 14.0763,-270.0085 -74.2204,-6.3983 -11.5169,28.1525 -14.0763,225.2203 -42.2288,-8.9576 2.5593,-250.8136 -6.3983,0 -7.678,-70.3814 -33.2712,1.2797 -1.2796,29.4322 -7.678,17.9153 -2.5593,189.3898 -26.8729,33.2712 2.5593,88.2966 40.9492,19.1949 34.5508,-46.0678 284.0848,76.7797 49.9068,-21.7542"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke:#000000" />
-    </mask>
-    <filter
-       id="filter13191"
-       y="-0.26210001"
-       x="-0.12899999"
-       width="1.2579"
-       height="1.5242"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur13193"
-         stdDeviation="34.659" />
-    </filter>
-    <inkscape:path-effect
-       id="path-effect13189" />
-    <inkscape:path-effect
-       id="path-effect21802" />
-    <pattern
-       id="pattern16"
-       width="811.3138"
-       patternUnits="userSpaceOnUse"
-       patternTransform="translate(-1692.9959,113.8855)"
-       height="483.7205">
-      <path
-         id="path18"
-         filter="url(#filter3767)"
-         d="M241.8603,83.1823H569.4535A158.678,158.678 0 0 1 728.1315,241.8603V241.8603A158.678,158.678 0 0 1 569.4535,400.5382H241.8603A158.678,158.678 0 0 1 83.1823,241.8603V241.8603A158.678,158.678 0 0 1 241.8603,83.1823" />
-    </pattern>
-    <mask
-       id="mask12"
-       maskUnits="userSpaceOnUse">
-      <path
-         id="path14"
-         d="m -957.1864,582.2458 40.9492,-299.4407 -144.6017,-8.9576 -10.2373,67.822 -12.7966,11.5169 -8.9576,216.2627 -65.2627,-21.7542 14.0763,-270.0085 -74.2204,-6.3983 -11.5169,28.1525 -14.0763,225.2203 -42.2288,-8.9576 2.5593,-250.8136 -6.3983,0 -7.678,-70.3814 -33.2712,1.2797 -1.2796,29.4322 -7.678,17.9153 -2.5593,189.3898 -26.8729,33.2712 2.5593,88.2966 40.9492,19.1949 34.5508,-46.0678 284.0848,76.7797 49.9068,-21.7542"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke:#000000" />
-    </mask>
-    <filter
-       id="filter8"
-       y="-0.26210001"
-       x="-0.12899999"
-       width="1.2579"
-       height="1.5242"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur10"
-         stdDeviation="34.659" />
-    </filter>
-    <inkscape:path-effect
-       id="path-effect6" />
-  </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview30"
-     showgrid="false"
-     inkscape:zoom="0.52678571"
-     inkscape:cx="593.76445"
-     inkscape:cy="629.17655"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata62">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="g23079"
-     transform="matrix(0.51076562,0,0,-0.51076562,357.9965,1074.7792)" />
-  <path
-     style="font-size:1353.90197754px;font-style:italic;letter-spacing:0;word-spacing:0;fill:currentColor;font-family:Serif"
-     inkscape:connector-curvature="0"
-     d="M 175.90113,775.15052 C 177.24121,690.20794 200.89849,613.7866 243.45671,547.71342 287.30777,482.03672 336.0203,418.13103 376.6913,357.05658 441.25446,257.49169 495.98004,154.35864 529.44196,48.5528 541.07368,15.362832 567.47906,-3.406215 600,0.51328501 636.24297,-1.711621 661.34091,17.593066 670.55804,48.5528 c 35.23422,114.56667 91.41952,214.71031 153.50129,308.50378 42.39367,69.12009 90.82028,122.46684 132.48398,190.65684 45.20279,71.83627 67.14849,149.55468 67.55559,227.4371 -2.5818,116.1934 -48.29813,224.20823 -123.4766,300.99758 C 816.76916,1156.7167 706.45639,1199.2344 600,1200 483.86416,1197.5266 376.14741,1151.4325 299.753,1076.1481 219.35093,992.02844 176.66758,881.70788 175.90113,775.15052 z m 186.15312,93.82718 c 2.78322,61.16977 51.37797,105.85238 105.83708,106.58768 61.71628,-2.73157 105.12285,-52.14914 105.83706,-106.58768 0,-21.51773 -5.50451,-40.28317 -16.51359,-56.29631 -12.10086,-15.74675 -24.02997,-32.04589 -33.77778,-47.66422 -15.44208,-25.21773 -30.54053,-50.29489 -38.2815,-76.93828 -2.00167,-10.00822 -7.75634,-14.26173 -17.26419,-12.7605 -9.00742,-2.00167 -15.01236,2.25186 -18.01483,12.7605 -8.09331,28.54088 -22.23801,53.70089 -37.15556,76.93828 -10.49311,17.50861 -23.07037,31.1351 -34.15309,47.66422 -11.50944,16.51358 -17.01402,35.27902 -16.5136,56.29631 z"
-     id="path24014" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.48.4 r9939" sodipodi:docname="tint.svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="1200px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<path id="path24014" inkscape:connector-curvature="0" d="M175.901,775.15c1.34-84.942,24.997-161.363,67.555-227.437
+	c43.851-65.677,92.564-129.583,133.235-190.657c64.563-99.565,119.289-202.698,152.751-308.504
+	C541.073,15.363,567.479-3.406,600,0.513c36.243-2.225,61.341,17.08,70.558,48.04c35.234,114.567,91.42,214.71,153.502,308.504
+	c42.394,69.12,90.82,122.467,132.483,190.657c45.203,71.836,67.148,149.555,67.556,227.437
+	c-2.581,116.193-48.298,224.208-123.477,300.998C816.77,1156.717,706.456,1199.234,600,1200
+	c-116.136-2.474-223.853-48.567-300.247-123.852C219.351,992.028,176.667,881.708,175.901,775.15z M362.055,868.978
+	c2.783,61.17,51.378,105.853,105.837,106.588c61.716-2.731,105.123-52.149,105.837-106.588c0-21.518-5.505-40.283-16.514-56.296
+	c-12.101-15.747-24.03-32.046-33.777-47.664c-15.442-25.218-30.541-50.295-38.282-76.938c-2.001-10.009-7.756-14.262-17.264-12.761
+	c-9.008-2.002-15.013,2.252-18.015,12.761c-8.094,28.541-22.238,53.7-37.156,76.938c-10.493,17.508-23.07,31.135-34.152,47.664
+	C367.059,829.195,361.554,847.96,362.055,868.978z"/>
 </svg>

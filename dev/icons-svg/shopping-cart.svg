@@ -1,94 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   data-tags="remove-circle, cancel, close, remove, delete"
-   height="1200"
-   width="1200"
-   data-du=""
-   viewBox="0 0 1200 1200"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="shopping-cart.svg">
-  <defs
-     id="defs32">
-    <pattern
-       id="pattern13199"
-       width="811.3138"
-       patternUnits="userSpaceOnUse"
-       patternTransform="translate(-1692.9959,113.8855)"
-       height="483.7205">
-      <path
-         id="path13201"
-         filter="url(#filter3767)"
-         d="M241.8603,83.1823H569.4535A158.678,158.678 0 0 1 728.1315,241.8603V241.8603A158.678,158.678 0 0 1 569.4535,400.5382H241.8603A158.678,158.678 0 0 1 83.1823,241.8603V241.8603A158.678,158.678 0 0 1 241.8603,83.1823" />
-    </pattern>
-    <mask
-       id="mask13195"
-       maskUnits="userSpaceOnUse">
-      <path
-         id="path13197"
-         d="m -957.1864,582.2458 40.9492,-299.4407 -144.6017,-8.9576 -10.2373,67.822 -12.7966,11.5169 -8.9576,216.2627 -65.2627,-21.7542 14.0763,-270.0085 -74.2204,-6.3983 -11.5169,28.1525 -14.0763,225.2203 -42.2288,-8.9576 2.5593,-250.8136 -6.3983,0 -7.678,-70.3814 -33.2712,1.2797 -1.2796,29.4322 -7.678,17.9153 -2.5593,189.3898 -26.8729,33.2712 2.5593,88.2966 40.9492,19.1949 34.5508,-46.0678 284.0848,76.7797 49.9068,-21.7542"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke:#000000" />
-    </mask>
-    <filter
-       id="filter13191"
-       y="-0.26210001"
-       x="-0.12899999"
-       width="1.2579"
-       height="1.5242"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur13193"
-         stdDeviation="34.659" />
-    </filter>
-    <inkscape:path-effect
-       id="path-effect13189" />
-  </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview30"
-     showgrid="false"
-     inkscape:zoom="0.52678571"
-     inkscape:cx="593.76445"
-     inkscape:cy="553.24435"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata62">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="fill:currentColor"
-     inkscape:connector-curvature="0"
-     d="m 1199.3984,427.36445 -50.3231,288.69565 c -6.2058,31.89119 -31.6156,51.28408 -60.9174,51.64736 l -733.65758,0 -14.56711,82.10602 699.22599,0 c 36.8192,2.7975 61.7932,28.88039 62.2418,62.24179 -2.6768,36.74227 -28.7566,61.78551 -62.2418,62.24176 l -773.38623,0 c -41.82703,-3.76219 -66.76805,-37.10246 -62.2418,-74.16019 L 236.63828,720.03275 186.31516,214.15349 43.29178,169.12748 C 8.341543,155.25013 -5.923927,123.632 2.2386518,90.994346 15.811778,56.978798 48.334827,41.437861 80.371784,49.94122 l 182.752276,58.26891 c 24.61946,9.22945 38.7825,29.38219 42.37735,52.97157 l 10.59422,100.64625 829.00647,92.70048 c 38.0897,8.25024 58.7677,38.42133 54.2961,72.83602 z M 455.27268,1104.983 c 0,52.4762 -42.54047,95.017 -95.01705,95.017 -52.47633,0 -95.01704,-42.5405 -95.01704,-95.017 0,-52.4764 42.54047,-95.0171 95.01704,-95.0171 52.47634,0 95.01705,42.5405 95.01705,95.0171 z m 567.25132,0 c 0,52.4762 -42.54073,95.017 -95.01706,95.017 -52.47635,0 -95.01705,-42.5405 -95.01705,-95.017 0,-52.4764 42.5407,-95.0171 95.01705,-95.0171 52.47633,0 95.01706,42.5405 95.01706,95.0171 z"
-     id="path20982" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.48.4 r9939" sodipodi:docname="shopping-cart.svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="1200px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<path id="path20982" inkscape:connector-curvature="0" d="M1199.398,427.364l-50.323,288.696
+	c-6.206,31.891-31.615,51.283-60.917,51.646H354.5l-14.566,82.106h699.226c36.819,2.798,61.793,28.88,62.242,62.241
+	c-2.677,36.743-28.757,61.786-62.242,62.242H265.773c-41.827-3.762-66.768-37.103-62.242-74.16l33.107-180.104l-50.323-505.88
+	L43.292,169.127C8.341,155.25-5.924,123.632,2.239,90.994c13.573-34.015,46.096-49.556,78.133-41.053l182.752,58.269
+	c24.62,9.229,38.783,29.382,42.377,52.972l10.594,100.646l829.006,92.7C1183.191,362.779,1203.87,392.95,1199.398,427.364
+	L1199.398,427.364z M455.272,1104.983c0,52.476-42.54,95.017-95.017,95.017s-95.017-42.541-95.017-95.017
+	c0-52.477,42.541-95.018,95.017-95.018S455.272,1052.507,455.272,1104.983z M1022.524,1104.983
+	c0,52.476-42.541,95.017-95.018,95.017s-95.017-42.541-95.017-95.017c0-52.477,42.54-95.018,95.017-95.018
+	S1022.524,1052.507,1022.524,1104.983z"/>
 </svg>

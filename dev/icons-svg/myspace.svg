@@ -1,93 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   data-tags="remove-circle, cancel, close, remove, delete"
-   height="1200"
-   width="1200"
-   data-du=""
-   viewBox="0 0 1200 1200"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="myspace.svg">
-  <defs
-     id="defs32">
-    <pattern
-       id="pattern13199"
-       width="811.3138"
-       patternUnits="userSpaceOnUse"
-       patternTransform="translate(-1692.9959,113.8855)"
-       height="483.7205">
-      <path
-         id="path13201"
-         filter="url(#filter3767)"
-         d="M241.8603,83.1823H569.4535A158.678,158.678 0 0 1 728.1315,241.8603V241.8603A158.678,158.678 0 0 1 569.4535,400.5382H241.8603A158.678,158.678 0 0 1 83.1823,241.8603V241.8603A158.678,158.678 0 0 1 241.8603,83.1823" />
-    </pattern>
-    <mask
-       id="mask13195"
-       maskUnits="userSpaceOnUse">
-      <path
-         id="path13197"
-         d="m -957.1864,582.2458 40.9492,-299.4407 -144.6017,-8.9576 -10.2373,67.822 -12.7966,11.5169 -8.9576,216.2627 -65.2627,-21.7542 14.0763,-270.0085 -74.2204,-6.3983 -11.5169,28.1525 -14.0763,225.2203 -42.2288,-8.9576 2.5593,-250.8136 -6.3983,0 -7.678,-70.3814 -33.2712,1.2797 -1.2796,29.4322 -7.678,17.9153 -2.5593,189.3898 -26.8729,33.2712 2.5593,88.2966 40.9492,19.1949 34.5508,-46.0678 284.0848,76.7797 49.9068,-21.7542"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke:#000000" />
-    </mask>
-    <filter
-       id="filter13191"
-       y="-0.26210001"
-       x="-0.12899999"
-       width="1.2579"
-       height="1.5242"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur13193"
-         stdDeviation="34.659" />
-    </filter>
-    <inkscape:path-effect
-       id="path-effect13189" />
-  </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview30"
-     showgrid="false"
-     inkscape:zoom="0.37249375"
-     inkscape:cx="790.69142"
-     inkscape:cy="841.76564"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata62">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     id="path14818"
-     d="m 330.88834,894.14291 -0.9232,74.68196 -329.96513643956,0 0,-74.68196 c 0,-90.525 76.23165443956,-163.0348 166.75642643956,-163.0348 90.52502,0 165.29816,72.51729 164.13168,163.03479 z M 316.69623,554.41394 c 0,82.96619 -66.97338,150.22362 -149.93956,150.22362 -82.966417,0 -150.507913,-67.25743 -150.507913,-150.22362 0,-82.96642 67.54173,-150.22386 150.507913,-150.22386 82.96642,0 149.93956,67.25744 149.93956,150.22386 z m 423.39055,328.28701 -1.06454,86.12392 -380.5189,0 0,-86.12416 c 0,-104.39439 87.91103,-188.01331 192.30519,-188.01331 104.39417,0 190.62356,83.62759 189.27825,188.01331 z M 723.72037,490.9222 c 0,95.67752 -77.23432,173.23949 -172.91184,173.23949 -95.67751,0 -173.56714,-77.56197 -173.56714,-173.23949 0,-95.67751 77.88963,-173.23948 173.56714,-173.23948 95.67752,0 172.91184,77.56196 172.91184,173.23947 z m 476.26223,380.3368 -1.2061,97.56611 -431.07285,0 0,-97.56611 c 0,-118.26378 99.59042,-212.99184 217.85394,-212.99184 118.26351,0 215.94871,94.73815 214.42481,212.99183 z m -18.5407,-443.82876 c 0,108.38885 -87.4952,196.25535 -195.88407,196.25535 -108.38884,0 -196.62635,-87.86649 -196.62635,-196.25535 0,-108.38884 88.23774,-196.25535 196.62635,-196.25535 108.38887,0 195.88407,87.86651 195.88407,196.25535 z"
-     inkscape:connector-curvature="0" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.48.4 r9939" sodipodi:docname="myspace.svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="1200px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<path id="path14818" inkscape:connector-curvature="0" d="M330.889,894.143l-0.924,74.683H0v-74.683
+	c0-90.524,76.231-163.034,166.756-163.034S332.055,803.625,330.889,894.143L330.889,894.143z M316.696,554.414
+	c0,82.966-66.974,150.224-149.939,150.224c-82.967,0-150.508-67.258-150.508-150.224c0-82.967,67.542-150.224,150.508-150.224
+	S316.696,471.447,316.696,554.414z M740.087,882.701l-1.064,86.124h-380.52v-86.124c0-104.395,87.911-188.014,192.306-188.014
+	S741.432,778.314,740.087,882.701L740.087,882.701z M723.721,490.922c0,95.678-77.234,173.24-172.912,173.24
+	S377.241,586.6,377.241,490.922c0-95.677,77.89-173.239,173.567-173.239S723.721,395.245,723.721,490.922L723.721,490.922z
+	 M1199.982,871.259l-1.206,97.566H767.704v-97.566c0-118.264,99.59-212.991,217.854-212.991S1201.506,753.006,1199.982,871.259
+	L1199.982,871.259z M1181.442,427.431c0,108.389-87.495,196.255-195.885,196.255c-108.389,0-196.626-87.866-196.626-196.255
+	c0-108.389,88.237-196.256,196.626-196.256C1093.947,231.175,1181.442,319.042,1181.442,427.431L1181.442,427.431z"/>
 </svg>
