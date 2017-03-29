@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Elusive-Icons';
-	src:url('fonts/Elusive-Icons.eot');
-	src:url('fonts/Elusive-Icons.eot?#iefix') format('embedded-opentype'),
-		url('fonts/Elusive-Icons.ttf') format('truetype'),
-		url('fonts/Elusive-Icons.woff') format('woff'),
-		url('fonts/Elusive-Icons.svg#Elusive-Icons') format('svg');
+	src:url('../fonts/Elusive-Icons.eot');
+	src:url('../fonts/Elusive-Icons.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Elusive-Icons.ttf') format('truetype'),
+		url('../fonts/Elusive-Icons.woff') format('woff'),
+		url('../fonts/Elusive-Icons.svg#Elusive-Icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
